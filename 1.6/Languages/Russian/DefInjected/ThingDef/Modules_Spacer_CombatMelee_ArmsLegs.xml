@@ -3,20 +3,20 @@
 
   <!-- power claw -->
 
-  <BM_SpacerPowerClawCombatModule.label>power claw module</BM_SpacerPowerClawCombatModule.label>
-  <BM_SpacerPowerClawCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular model is equipped with a set of plasteel claws that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerPowerClawCombatModule.description>
+  <BM_SpacerPowerClawCombatModule.label>модуль силового когтя</BM_SpacerPowerClawCombatModule.label>
+  <BM_SpacerPowerClawCombatModule.description>Высокотехнологичное боевое устройство, которое можно установить в любой совместимый искусственный заменитель руки или ноги. Эта модель оснащена набором пласталевых когтей, которые могут полностью убираться вне боя, позволяя носителю комфортно носить её с собой без помех в повседневных задачах.</BM_SpacerPowerClawCombatModule.description>
 
 
   <!-- power blade -->
 
-  <BM_SpacerPowerBladeCombatModule.label>power blade module</BM_SpacerPowerBladeCombatModule.label>
-  <BM_SpacerPowerBladeCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular model is equipped with a retractable, flexible and razor-sharp mantis-like blade. Can be adjusted to fit a variety of fighting styles.</BM_SpacerPowerBladeCombatModule.description>
+  <BM_SpacerPowerBladeCombatModule.label>модуль силового клинка</BM_SpacerPowerBladeCombatModule.label>
+  <BM_SpacerPowerBladeCombatModule.description>Высокотехнологичное боевое устройство, которое можно установить в любой совместимый искусственный заменитель руки или ноги. Эта модель оснащена выдвижным, гибким и острым как бритва клинком, похожим на клинок богомола. Может быть настроен для различных боевых стилей.</BM_SpacerPowerBladeCombatModule.description>
 
 
   <!-- power saw -->
 
-  <BM_SpacerPowerSawCombatModule.label>power saw module</BM_SpacerPowerSawCombatModule.label>
-  <BM_SpacerPowerSawCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular model’s retractable parts allow the whole limb to become a deadly chainsaw-like weapon.</BM_SpacerPowerSawCombatModule.description>
+  <BM_SpacerPowerSawCombatModule.label>модуль силовой пилы</BM_SpacerPowerSawCombatModule.label>
+  <BM_SpacerPowerSawCombatModule.description>Высокотехнологичное боевое устройство, которое можно установить в любой совместимый искусственный заменитель руки или ноги. Выдвижные части этой модели позволяют всей конечности превращаться в смертельное оружие, похожее на бензопилу.</BM_SpacerPowerSawCombatModule.description>
 
 
 </LanguageData>

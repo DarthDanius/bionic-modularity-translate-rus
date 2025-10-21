@@ -3,20 +3,20 @@
 
   <!-- Implant production [Biotech required] -->
 
-  <BM_SpacerBrawlerSubpersonaChip_Produce.label>make brawler subpersona</BM_SpacerBrawlerSubpersonaChip_Produce.label>
-  <BM_SpacerBrawlerSubpersonaChip_Produce.description>Make a brawler subpersona.</BM_SpacerBrawlerSubpersonaChip_Produce.description>
-  <BM_SpacerBrawlerSubpersonaChip_Produce.jobString>Making brawler subpersona.</BM_SpacerBrawlerSubpersonaChip_Produce.jobString>
+  <BM_SpacerBrawlerSubpersonaChip_Produce.label>создать подличность бойца</BM_SpacerBrawlerSubpersonaChip_Produce.label>
+  <BM_SpacerBrawlerSubpersonaChip_Produce.description>Создать подличность бойца.</BM_SpacerBrawlerSubpersonaChip_Produce.description>
+  <BM_SpacerBrawlerSubpersonaChip_Produce.jobString>Создание подличности бойца.</BM_SpacerBrawlerSubpersonaChip_Produce.jobString>
 
 
   <!-- Implant Installation -->
 
-  <Install_BM_SpacerBrawlerSubpersonaChip.label>install brawler subpersona</Install_BM_SpacerBrawlerSubpersonaChip.label>
-  <Install_BM_SpacerBrawlerSubpersonaChip.description>Install brawler subpersona.</Install_BM_SpacerBrawlerSubpersonaChip.description>
-  <Install_BM_SpacerBrawlerSubpersonaChip.jobString>Installing brawler subpersona.</Install_BM_SpacerBrawlerSubpersonaChip.jobString>
+  <Install_BM_SpacerBrawlerSubpersonaChip.label>установить подличность бойца</Install_BM_SpacerBrawlerSubpersonaChip.label>
+  <Install_BM_SpacerBrawlerSubpersonaChip.description>Установить подличность бойца.</Install_BM_SpacerBrawlerSubpersonaChip.description>
+  <Install_BM_SpacerBrawlerSubpersonaChip.jobString>Установка подличности бойца.</Install_BM_SpacerBrawlerSubpersonaChip.jobString>
 
-  <Remove_BM_SpacerBrawlerSubpersonaChip.label>remove brawler subpersona</Remove_BM_SpacerBrawlerSubpersonaChip.label>
-  <Remove_BM_SpacerBrawlerSubpersonaChip.description>Remove brawler subpersona.</Remove_BM_SpacerBrawlerSubpersonaChip.description>
-  <Remove_BM_SpacerBrawlerSubpersonaChip.jobString>Removing brawler subpersona.</Remove_BM_SpacerBrawlerSubpersonaChip.jobString>
+  <Remove_BM_SpacerBrawlerSubpersonaChip.label>удалить подличность бойца</Remove_BM_SpacerBrawlerSubpersonaChip.label>
+  <Remove_BM_SpacerBrawlerSubpersonaChip.description>Удалить подличность бойца.</Remove_BM_SpacerBrawlerSubpersonaChip.description>
+  <Remove_BM_SpacerBrawlerSubpersonaChip.jobString>Удаление подличности бойца.</Remove_BM_SpacerBrawlerSubpersonaChip.jobString>
 
 
 </LanguageData>

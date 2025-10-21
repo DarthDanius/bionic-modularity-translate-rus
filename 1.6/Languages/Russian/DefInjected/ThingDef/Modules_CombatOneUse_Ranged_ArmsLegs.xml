@@ -3,20 +3,20 @@
 
   <!-- orbital bombardment -->
 
-  <BM_SpacerOrbitalBombardmentAbilityModule.label>orbital bombardment module</BM_SpacerOrbitalBombardmentAbilityModule.label>
-  <BM_SpacerOrbitalBombardmentAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular model includes a compact storage and deployment apparatus for orbital bombardment targeters. The core functions of the targeter remain the same and it has to be replaced after each use as a result. Due to its small size and low weight, the wielder can carry it around comfortably with no interference during daily tasks.</BM_SpacerOrbitalBombardmentAbilityModule.description>
+  <BM_SpacerOrbitalBombardmentAbilityModule.label>модуль орбитальной бомбардировки</BM_SpacerOrbitalBombardmentAbilityModule.label>
+  <BM_SpacerOrbitalBombardmentAbilityModule.description>Высокотехнологичное боевое устройство, которое можно установить в любой совместимый искусственный заменитель руки или ноги. Эта модель включает компактный аппарат хранения и развёртывания для целеуказателей орбитальной бомбардировки. Основные функции целеуказателя остаются прежними, и в результате его необходимо заменять после каждого использования. Благодаря малому размеру и весу, носитель может комфортно носить его с собой без помех в повседневных задачах.</BM_SpacerOrbitalBombardmentAbilityModule.description>
 
 
   <!-- orbital power beam -->
 
-  <BM_SpacerOrbitalPowerBeamAbilityModule.label>orbital power beam module</BM_SpacerOrbitalPowerBeamAbilityModule.label>
-  <BM_SpacerOrbitalPowerBeamAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular model includes a compact storage and deployment apparatus for orbital power beam targeters. The core functions of the targeter remain the same and it has to be replaced after each use as a result. Due to its small size and low weight, the wielder can carry it around comfortably with no interference during daily tasks.</BM_SpacerOrbitalPowerBeamAbilityModule.description>
+  <BM_SpacerOrbitalPowerBeamAbilityModule.label>модуль орбитального силового луча</BM_SpacerOrbitalPowerBeamAbilityModule.label>
+  <BM_SpacerOrbitalPowerBeamAbilityModule.description>Высокотехнологичное боевое устройство, которое можно установить в любой совместимый искусственный заменитель руки или ноги. Эта модель включает компактный аппарат хранения и развёртывания для целеуказателей орбитального силового луча. Основные функции целеуказателя остаются прежними, и в результате его необходимо заменять после каждого использования. Благодаря малому размеру и весу, носитель может комфортно носить его с собой без помех в повседневных задачах.</BM_SpacerOrbitalPowerBeamAbilityModule.description>
 
 
   <!-- tornado generator -->
 
-  <BM_SpacerTornadoGeneratorAbilityModule.label>tornado generator module</BM_SpacerTornadoGeneratorAbilityModule.label>
-  <BM_SpacerTornadoGeneratorAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular model includes a compact storage and deployment apparatus for tornado generators. The core functions of the targeter remain the same and it has to be replaced after each use as a result. Due to its small size and low weight, the wielder can carry it around comfortably with no interference during daily tasks.</BM_SpacerTornadoGeneratorAbilityModule.description>
+  <BM_SpacerTornadoGeneratorAbilityModule.label>модуль генератора торнадо</BM_SpacerTornadoGeneratorAbilityModule.label>
+  <BM_SpacerTornadoGeneratorAbilityModule.description>Высокотехнологичное боевое устройство, которое можно установить в любой совместимый искусственный заменитель руки или ноги. Эта модель включает компактный аппарат хранения и развёртывания для генераторов торнадо. Основные функции целеуказателя остаются прежними, и в результате его необходимо заменять после каждого использования. Благодаря малому размеру и весу, носитель может комфортно носить его с собой без помех в повседневных задачах.</BM_SpacerTornadoGeneratorAbilityModule.description>
 
 
 </LanguageData>

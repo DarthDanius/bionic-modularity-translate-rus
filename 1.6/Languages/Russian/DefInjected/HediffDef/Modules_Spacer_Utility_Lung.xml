@@ -3,20 +3,20 @@
 
   <!-- atmofilter -->
 
-  <BM_SpacerAtmofilterUtilityModule.label>atmofilter module</BM_SpacerAtmofilterUtilityModule.label>
-  <BM_SpacerAtmofilterUtilityModule.description>An installed atmofilter utility module.</BM_SpacerAtmofilterUtilityModule.description>
+  <BM_SpacerAtmofilterUtilityModule.label>модуль атмосферного фильтра</BM_SpacerAtmofilterUtilityModule.label>
+  <BM_SpacerAtmofilterUtilityModule.description>Установленный модуль атмосферного фильтра.</BM_SpacerAtmofilterUtilityModule.description>
 
 
   <!-- heater -->
 
-  <BM_SpacerHeaterUtilityModule.label>heater module</BM_SpacerHeaterUtilityModule.label>
-  <BM_SpacerHeaterUtilityModule.description>An installed heater utility module.</BM_SpacerHeaterUtilityModule.description>
+  <BM_SpacerHeaterUtilityModule.label>модуль обогревателя</BM_SpacerHeaterUtilityModule.label>
+  <BM_SpacerHeaterUtilityModule.description>Установленный модуль обогревателя.</BM_SpacerHeaterUtilityModule.description>
 
 
   <!-- cooler -->
 
-  <BM_SpacerCoolerUtilityModule.label>cooler module</BM_SpacerCoolerUtilityModule.label>
-  <BM_SpacerCoolerUtilityModule.description>An installed cooler utility module.</BM_SpacerCoolerUtilityModule.description>
+  <BM_SpacerCoolerUtilityModule.label>модуль охладителя</BM_SpacerCoolerUtilityModule.label>
+  <BM_SpacerCoolerUtilityModule.description>Установленный модуль охладителя.</BM_SpacerCoolerUtilityModule.description>
 
 
 </LanguageData>

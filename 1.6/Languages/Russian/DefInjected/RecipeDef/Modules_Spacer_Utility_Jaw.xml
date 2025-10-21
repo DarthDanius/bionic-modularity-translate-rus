@@ -3,85 +3,85 @@
 
   <!-- Module -->
 
-  <BM_SpacerSilenceUtilityModule_InstallHuman.label>install silence module</BM_SpacerSilenceUtilityModule_InstallHuman.label>
-  <BM_SpacerSilenceUtilityModule_InstallHuman.description>Install a silence module into the body part's utility module slot.</BM_SpacerSilenceUtilityModule_InstallHuman.description>
-  <BM_SpacerSilenceUtilityModule_InstallHuman.jobString>Installing silence module.</BM_SpacerSilenceUtilityModule_InstallHuman.jobString>
+  <BM_SpacerSilenceUtilityModule_InstallHuman.label>установить модуль беззвучности</BM_SpacerSilenceUtilityModule_InstallHuman.label>
+  <BM_SpacerSilenceUtilityModule_InstallHuman.description>Установить модуль беззвучности в слот утилитарного модуля части тела.</BM_SpacerSilenceUtilityModule_InstallHuman.description>
+  <BM_SpacerSilenceUtilityModule_InstallHuman.jobString>Установка модуля беззвучности.</BM_SpacerSilenceUtilityModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerSilenceUtilityModule_InstallHuman_Implant.label>install silence module.</BM_SpacerSilenceUtilityModule_InstallHuman_Implant.label>
-  <BM_SpacerSilenceUtilityModule_InstallHuman_Implant.description>Install a silence module into the body part's utility module slot.</BM_SpacerSilenceUtilityModule_InstallHuman_Implant.description>
-  <BM_SpacerSilenceUtilityModule_InstallHuman_Implant.jobString>Installing silence module.</BM_SpacerSilenceUtilityModule_InstallHuman_Implant.jobString>
+  <BM_SpacerSilenceUtilityModule_InstallHuman_Implant.label>установить модуль беззвучности</BM_SpacerSilenceUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerSilenceUtilityModule_InstallHuman_Implant.description>Установить модуль беззвучности в слот утилитарного модуля части тела.</BM_SpacerSilenceUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerSilenceUtilityModule_InstallHuman_Implant.jobString>Установка модуля беззвучности.</BM_SpacerSilenceUtilityModule_InstallHuman_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerSilenceUtilityModule_RemoveFromReplacement.label>remove silence module</BM_SpacerSilenceUtilityModule_RemoveFromReplacement.label>
-  <BM_SpacerSilenceUtilityModule_RemoveFromReplacement.description>Remove silence module.</BM_SpacerSilenceUtilityModule_RemoveFromReplacement.description>
-  <BM_SpacerSilenceUtilityModule_RemoveFromReplacement.jobString>Removing silence module.</BM_SpacerSilenceUtilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerSilenceUtilityModule_RemoveFromReplacement.label>удалить модуль беззвучности</BM_SpacerSilenceUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerSilenceUtilityModule_RemoveFromReplacement.description>Удалить модуль беззвучности.</BM_SpacerSilenceUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerSilenceUtilityModule_RemoveFromReplacement.jobString>Удаление модуля беззвучности.</BM_SpacerSilenceUtilityModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerSilenceUtilityModule_RemoveFromNatural.label>remove silence module</BM_SpacerSilenceUtilityModule_RemoveFromNatural.label>
-  <BM_SpacerSilenceUtilityModule_RemoveFromNatural.description>Remove silence module.</BM_SpacerSilenceUtilityModule_RemoveFromNatural.description>
-  <BM_SpacerSilenceUtilityModule_RemoveFromNatural.jobString>Removing silence module.</BM_SpacerSilenceUtilityModule_RemoveFromNatural.jobString>
+  <BM_SpacerSilenceUtilityModule_RemoveFromNatural.label>удалить модуль беззвучности</BM_SpacerSilenceUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerSilenceUtilityModule_RemoveFromNatural.description>Удалить модуль беззвучности.</BM_SpacerSilenceUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerSilenceUtilityModule_RemoveFromNatural.jobString>Удаление модуля беззвучности.</BM_SpacerSilenceUtilityModule_RemoveFromNatural.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerDevourerUtilityModule_InstallAnimal.label>install devourer module</BM_SpacerDevourerUtilityModule_InstallAnimal.label>
-  <BM_SpacerDevourerUtilityModule_InstallAnimal.description>Install a devourer module into the body part's utility module slot.</BM_SpacerDevourerUtilityModule_InstallAnimal.description>
-  <BM_SpacerDevourerUtilityModule_InstallAnimal.jobString>Installing devourer module.</BM_SpacerDevourerUtilityModule_InstallAnimal.jobString>
+  <BM_SpacerDevourerUtilityModule_InstallAnimal.label>установить модуль пожирателя</BM_SpacerDevourerUtilityModule_InstallAnimal.label>
+  <BM_SpacerDevourerUtilityModule_InstallAnimal.description>Установить модуль пожирателя в слот утилитарного модуля части тела.</BM_SpacerDevourerUtilityModule_InstallAnimal.description>
+  <BM_SpacerDevourerUtilityModule_InstallAnimal.jobString>Установка модуля пожирателя.</BM_SpacerDevourerUtilityModule_InstallAnimal.jobString>
 
-  <BM_SpacerDevourerUtilityModule_InstallHuman.label>install devourer module</BM_SpacerDevourerUtilityModule_InstallHuman.label>
-  <BM_SpacerDevourerUtilityModule_InstallHuman.description>Install a devourer module into the body part's utility module slot.</BM_SpacerDevourerUtilityModule_InstallHuman.description>
-  <BM_SpacerDevourerUtilityModule_InstallHuman.jobString>Installing devourer module.</BM_SpacerDevourerUtilityModule_InstallHuman.jobString>
+  <BM_SpacerDevourerUtilityModule_InstallHuman.label>установить модуль пожирателя</BM_SpacerDevourerUtilityModule_InstallHuman.label>
+  <BM_SpacerDevourerUtilityModule_InstallHuman.description>Установить модуль пожирателя в слот утилитарного модуля части тела.</BM_SpacerDevourerUtilityModule_InstallHuman.description>
+  <BM_SpacerDevourerUtilityModule_InstallHuman.jobString>Установка модуля пожирателя.</BM_SpacerDevourerUtilityModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerDevourerUtilityModule_InstallHuman_Implant.label>install devourer module.</BM_SpacerDevourerUtilityModule_InstallHuman_Implant.label>
-  <BM_SpacerDevourerUtilityModule_InstallHuman_Implant.description>Install a devourer module into the body part's utility module slot.</BM_SpacerDevourerUtilityModule_InstallHuman_Implant.description>
-  <BM_SpacerDevourerUtilityModule_InstallHuman_Implant.jobString>Installing devourer module.</BM_SpacerDevourerUtilityModule_InstallHuman_Implant.jobString>
+  <BM_SpacerDevourerUtilityModule_InstallHuman_Implant.label>установить модуль пожирателя</BM_SpacerDevourerUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerDevourerUtilityModule_InstallHuman_Implant.description>Установить модуль пожирателя в слот утилитарного модуля части тела.</BM_SpacerDevourerUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerDevourerUtilityModule_InstallHuman_Implant.jobString>Установка модуля пожирателя.</BM_SpacerDevourerUtilityModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.label>install devourer module.</BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.label>
-  <BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.description>Install a devourer module into the body part's utility module slot.</BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.description>
-  <BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.jobString>Installing devourer module.</BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.label>установить модуль пожирателя</BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.description>Установить модуль пожирателя в слот утилитарного модуля части тела.</BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.jobString>Установка модуля пожирателя.</BM_SpacerDevourerUtilityModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerDevourerUtilityModule_RemoveFromReplacement.label>remove devourer module</BM_SpacerDevourerUtilityModule_RemoveFromReplacement.label>
-  <BM_SpacerDevourerUtilityModule_RemoveFromReplacement.description>Remove devourer module.</BM_SpacerDevourerUtilityModule_RemoveFromReplacement.description>
-  <BM_SpacerDevourerUtilityModule_RemoveFromReplacement.jobString>Removing devourer module.</BM_SpacerDevourerUtilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerDevourerUtilityModule_RemoveFromReplacement.label>удалить модуль пожирателя</BM_SpacerDevourerUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerDevourerUtilityModule_RemoveFromReplacement.description>Удалить модуль пожирателя.</BM_SpacerDevourerUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerDevourerUtilityModule_RemoveFromReplacement.jobString>Удаление модуля пожирателя.</BM_SpacerDevourerUtilityModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerDevourerUtilityModule_RemoveFromNatural.label>remove devourer module</BM_SpacerDevourerUtilityModule_RemoveFromNatural.label>
-  <BM_SpacerDevourerUtilityModule_RemoveFromNatural.description>Remove devourer module.</BM_SpacerDevourerUtilityModule_RemoveFromNatural.description>
-  <BM_SpacerDevourerUtilityModule_RemoveFromNatural.jobString>Removing devourer module.</BM_SpacerDevourerUtilityModule_RemoveFromNatural.jobString>
+  <BM_SpacerDevourerUtilityModule_RemoveFromNatural.label>удалить модуль пожирателя</BM_SpacerDevourerUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerDevourerUtilityModule_RemoveFromNatural.description>Удалить модуль пожирателя.</BM_SpacerDevourerUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerDevourerUtilityModule_RemoveFromNatural.jobString>Удаление модуля пожирателя.</BM_SpacerDevourerUtilityModule_RemoveFromNatural.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerVoicemodUtilityModule_InstallHuman.label>install voicemod module</BM_SpacerVoicemodUtilityModule_InstallHuman.label>
-  <BM_SpacerVoicemodUtilityModule_InstallHuman.description>Install a voicemod module into the body part's utility module slot.</BM_SpacerVoicemodUtilityModule_InstallHuman.description>
-  <BM_SpacerVoicemodUtilityModule_InstallHuman.jobString>Installing voicemod module.</BM_SpacerVoicemodUtilityModule_InstallHuman.jobString>
+  <BM_SpacerVoicemodUtilityModule_InstallHuman.label>установить модуль голосовой модификации</BM_SpacerVoicemodUtilityModule_InstallHuman.label>
+  <BM_SpacerVoicemodUtilityModule_InstallHuman.description>Установить модуль голосовой модификации в слот утилитарного модуля части тела.</BM_SpacerVoicemodUtilityModule_InstallHuman.description>
+  <BM_SpacerVoicemodUtilityModule_InstallHuman.jobString>Установка модуля голосовой модификации.</BM_SpacerVoicemodUtilityModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.label>install voicemod module.</BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.label>
-  <BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.description>Install a voicemod module into the body part's utility module slot.</BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.description>
-  <BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.jobString>Installing voicemod module.</BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.jobString>
+  <BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.label>установить модуль голосовой модификации</BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.description>Установить модуль голосовой модификации в слот утилитарного модуля части тела.</BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.jobString>Установка модуля голосовой модификации.</BM_SpacerVoicemodUtilityModule_InstallHuman_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.label>remove voicemod module</BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.label>
-  <BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.description>Remove voicemod module.</BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.description>
-  <BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.jobString>Removing voicemod module.</BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.label>удалить модуль голосовой модификации</BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.description>Удалить модуль голосовой модификации.</BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.jobString>Удаление модуля голосовой модификации.</BM_SpacerVoicemodUtilityModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerVoicemodUtilityModule_RemoveFromNatural.label>remove voicemod module</BM_SpacerVoicemodUtilityModule_RemoveFromNatural.label>
-  <BM_SpacerVoicemodUtilityModule_RemoveFromNatural.description>Remove voicemod module.</BM_SpacerVoicemodUtilityModule_RemoveFromNatural.description>
-  <BM_SpacerVoicemodUtilityModule_RemoveFromNatural.jobString>Removing voicemod module.</BM_SpacerVoicemodUtilityModule_RemoveFromNatural.jobString>
+  <BM_SpacerVoicemodUtilityModule_RemoveFromNatural.label>удалить модуль голосовой модификации</BM_SpacerVoicemodUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerVoicemodUtilityModule_RemoveFromNatural.description>Удалить модуль голосовой модификации.</BM_SpacerVoicemodUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerVoicemodUtilityModule_RemoveFromNatural.jobString>Удаление модуля голосовой модификации.</BM_SpacerVoicemodUtilityModule_RemoveFromNatural.jobString>
 
 
 </LanguageData>

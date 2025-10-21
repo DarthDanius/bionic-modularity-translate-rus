@@ -3,38 +3,38 @@
 
   <!-- explosive trap deployer -->
 
-  <BM_SpacerExplosiveTrapDeployerAbilityModule.label>explosive trap deployer module</BM_SpacerExplosiveTrapDeployerAbilityModule.label>
-  <BM_SpacerExplosiveTrapDeployerAbilityModule.description>An installed explosive trap deployer ability module.</BM_SpacerExplosiveTrapDeployerAbilityModule.description>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule.label>модуль установки взрывных ловушек</BM_SpacerExplosiveTrapDeployerAbilityModule.label>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule.description>Установленный модуль установки взрывных ловушек.</BM_SpacerExplosiveTrapDeployerAbilityModule.description>
 
 
   <!-- antigrain trap deployer -->
 
-  <BM_SpacerAntigrainTrapDeployerAbilityModule.label>antigrain trap deployer module</BM_SpacerAntigrainTrapDeployerAbilityModule.label>
-  <BM_SpacerAntigrainTrapDeployerAbilityModule.description>An installed antigrain trap deployer ability module.</BM_SpacerAntigrainTrapDeployerAbilityModule.description>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule.label>модуль установки антигравиевых ловушек</BM_SpacerAntigrainTrapDeployerAbilityModule.label>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule.description>Установленный модуль установки антигравиевых ловушек.</BM_SpacerAntigrainTrapDeployerAbilityModule.description>
 
 
   <!-- firefoam trap deployer -->
 
-  <BM_SpacerFirefoamTrapDeployerAbilityModule.label>firefoam trap deployer module</BM_SpacerFirefoamTrapDeployerAbilityModule.label>
-  <BM_SpacerFirefoamTrapDeployerAbilityModule.description>An installed firefoam trap deployer ability module.</BM_SpacerFirefoamTrapDeployerAbilityModule.description>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule.label>модуль установки противопожарных ловушек</BM_SpacerFirefoamTrapDeployerAbilityModule.label>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule.description>Установленный модуль установки противопожарных ловушек.</BM_SpacerFirefoamTrapDeployerAbilityModule.description>
 
 
   <!-- smoke trap deployer -->
 
-  <BM_SpacerSmokeTrapDeployerAbilityModule.label>smoke trap deployer module</BM_SpacerSmokeTrapDeployerAbilityModule.label>
-  <BM_SpacerSmokeTrapDeployerAbilityModule.description>An installed smoke trap deployer ability module.</BM_SpacerSmokeTrapDeployerAbilityModule.description>
+  <BM_SpacerSmokeTrapDeployerAbilityModule.label>модуль установки дымовых ловушек</BM_SpacerSmokeTrapDeployerAbilityModule.label>
+  <BM_SpacerSmokeTrapDeployerAbilityModule.description>Установленный модуль установки дымовых ловушек.</BM_SpacerSmokeTrapDeployerAbilityModule.description>
 
 
   <!-- EMP trap deployer -->
 
-  <BM_SpacerEMPTrapDeployerAbilityModule.label>EMP trap deployer module</BM_SpacerEMPTrapDeployerAbilityModule.label>
-  <BM_SpacerEMPTrapDeployerAbilityModule.description>An installed EMP trap deployer ability module.</BM_SpacerEMPTrapDeployerAbilityModule.description>
+  <BM_SpacerEMPTrapDeployerAbilityModule.label>модуль установки ЭМИ ловушек</BM_SpacerEMPTrapDeployerAbilityModule.label>
+  <BM_SpacerEMPTrapDeployerAbilityModule.description>Установленный модуль установки ЭМИ ловушек.</BM_SpacerEMPTrapDeployerAbilityModule.description>
 
 
   <!-- incendiary trap deployer -->
 
-  <BM_SpacerIncendiaryTrapDeployerAbilityModule.label>incendiary trap deployer module</BM_SpacerIncendiaryTrapDeployerAbilityModule.label>
-  <BM_SpacerIncendiaryTrapDeployerAbilityModule.description>An installed incendiary trap deployer ability module.</BM_SpacerIncendiaryTrapDeployerAbilityModule.description>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule.label>модуль установки зажигательных ловушек</BM_SpacerIncendiaryTrapDeployerAbilityModule.label>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule.description>Установленный модуль установки зажигательных ловушек.</BM_SpacerIncendiaryTrapDeployerAbilityModule.description>
 
 
 </LanguageData>

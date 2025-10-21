@@ -3,23 +3,23 @@
 
   <!-- power claw -->
 
-  <BM_SpacerPowerClawCombatModule.label>power claw module</BM_SpacerPowerClawCombatModule.label>
-  <BM_SpacerPowerClawCombatModule.description>An installed power claw combat module.</BM_SpacerPowerClawCombatModule.description>
-  <BM_SpacerPowerClawCombatModule.comps.0.tools.0.label>power claw</BM_SpacerPowerClawCombatModule.comps.0.tools.0.label>
+  <BM_SpacerPowerClawCombatModule.label>модуль силового когтя</BM_SpacerPowerClawCombatModule.label>
+  <BM_SpacerPowerClawCombatModule.description>Установленный боевой модуль силового когтя.</BM_SpacerPowerClawCombatModule.description>
+  <BM_SpacerPowerClawCombatModule.comps.0.tools.0.label>силовой коготь</BM_SpacerPowerClawCombatModule.comps.0.tools.0.label>
 
 
   <!-- power blade -->
 
-  <BM_SpacerPowerBladeCombatModule.label>power blade module</BM_SpacerPowerBladeCombatModule.label>
-  <BM_SpacerPowerBladeCombatModule.description>An installed power blade combat module.</BM_SpacerPowerBladeCombatModule.description>
-  <BM_SpacerPowerBladeCombatModule.comps.0.tools.0.label>power blade</BM_SpacerPowerBladeCombatModule.comps.0.tools.0.label>
+  <BM_SpacerPowerBladeCombatModule.label>модуль силового клинка</BM_SpacerPowerBladeCombatModule.label>
+  <BM_SpacerPowerBladeCombatModule.description>Установленный боевой модуль силового клинка.</BM_SpacerPowerBladeCombatModule.description>
+  <BM_SpacerPowerBladeCombatModule.comps.0.tools.0.label>силовой клинок</BM_SpacerPowerBladeCombatModule.comps.0.tools.0.label>
 
 
   <!-- power saw -->
 
-  <BM_SpacerPowerSawCombatModule.label>power saw module</BM_SpacerPowerSawCombatModule.label>
-  <BM_SpacerPowerSawCombatModule.description>An installed power saw combat module.</BM_SpacerPowerSawCombatModule.description>
-  <BM_SpacerPowerSawCombatModule.comps.0.tools.0.label>power saw</BM_SpacerPowerSawCombatModule.comps.0.tools.0.label>
+  <BM_SpacerPowerSawCombatModule.label>модуль силовой пилы</BM_SpacerPowerSawCombatModule.label>
+  <BM_SpacerPowerSawCombatModule.description>Установленный боевой модуль силовой пилы.</BM_SpacerPowerSawCombatModule.description>
+  <BM_SpacerPowerSawCombatModule.comps.0.tools.0.label>силовая пила</BM_SpacerPowerSawCombatModule.comps.0.tools.0.label>
 
 
 </LanguageData>

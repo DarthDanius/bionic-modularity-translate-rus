@@ -3,20 +3,20 @@
 
   <!-- Module -->
 
-  <BM_SpacerCarrierUtilityModule_InstallHuman.label>install carrier module</BM_SpacerCarrierUtilityModule_InstallHuman.label>
-  <BM_SpacerCarrierUtilityModule_InstallHuman.description>Install a carrier module into the body part's utility module slot.</BM_SpacerCarrierUtilityModule_InstallHuman.description>
-  <BM_SpacerCarrierUtilityModule_InstallHuman.jobString>Installing carrier module.</BM_SpacerCarrierUtilityModule_InstallHuman.jobString>
+  <BM_SpacerCarrierUtilityModule_InstallHuman.label>установить транспортный модуль</BM_SpacerCarrierUtilityModule_InstallHuman.label>
+  <BM_SpacerCarrierUtilityModule_InstallHuman.description>Установить транспортный модуль в слот утилитарного модуля части тела.</BM_SpacerCarrierUtilityModule_InstallHuman.description>
+  <BM_SpacerCarrierUtilityModule_InstallHuman.jobString>Установка транспортного модуля.</BM_SpacerCarrierUtilityModule_InstallHuman.jobString>
 
-  <BM_SpacerCarrierUtilityModule_InstallAnimal.label>install carrier module</BM_SpacerCarrierUtilityModule_InstallAnimal.label>
-  <BM_SpacerCarrierUtilityModule_InstallAnimal.description>Install a carrier module into the body part's utility module slot.</BM_SpacerCarrierUtilityModule_InstallAnimal.description>
-  <BM_SpacerCarrierUtilityModule_InstallAnimal.jobString>Installing carrier module.</BM_SpacerCarrierUtilityModule_InstallAnimal.jobString>
+  <BM_SpacerCarrierUtilityModule_InstallAnimal.label>установить транспортный модуль</BM_SpacerCarrierUtilityModule_InstallAnimal.label>
+  <BM_SpacerCarrierUtilityModule_InstallAnimal.description>Установить транспортный модуль в слот утилитарного модуля части тела.</BM_SpacerCarrierUtilityModule_InstallAnimal.description>
+  <BM_SpacerCarrierUtilityModule_InstallAnimal.jobString>Установка транспортного модуля.</BM_SpacerCarrierUtilityModule_InstallAnimal.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerCarrierUtilityModule_RemoveFromReplacement.label>remove carrier module</BM_SpacerCarrierUtilityModule_RemoveFromReplacement.label>
-  <BM_SpacerCarrierUtilityModule_RemoveFromReplacement.description>Remove carrier module.</BM_SpacerCarrierUtilityModule_RemoveFromReplacement.description>
-  <BM_SpacerCarrierUtilityModule_RemoveFromReplacement.jobString>Removing carrier module.</BM_SpacerCarrierUtilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerCarrierUtilityModule_RemoveFromReplacement.label>удалить транспортный модуль</BM_SpacerCarrierUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerCarrierUtilityModule_RemoveFromReplacement.description>Удалить транспортный модуль.</BM_SpacerCarrierUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerCarrierUtilityModule_RemoveFromReplacement.jobString>Удаление транспортного модуля.</BM_SpacerCarrierUtilityModule_RemoveFromReplacement.jobString>
 
 
 </LanguageData>

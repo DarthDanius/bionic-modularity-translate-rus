@@ -3,14 +3,14 @@
 
   <!-- faunamaster -->
 
-  <BM_SpacerTamerWorkModule.label>faunamaster module</BM_SpacerTamerWorkModule.label>
-  <BM_SpacerTamerWorkModule.description>A high-tech device that can be installed into an eye or any compatible artificial eye replacement. This particular model is able to quickly analyze an animal's health and behavior. The collected data is then forwarded to the user via a simple, non-intrusive interface. Additionally, it is able to emit complex light signals and display special patterns on the eye's surface that most animal species can be trained to respond to.</BM_SpacerTamerWorkModule.description>
+  <BM_SpacerTamerWorkModule.label>рабочий модуль фауномастера</BM_SpacerTamerWorkModule.label>
+  <BM_SpacerTamerWorkModule.description>Высокотехнологичное устройство, которое можно установить в глаз или любую совместимую искусственную замену глаза. Эта конкретная модель способна быстро анализировать здоровье и поведение животных. Собранные данные затем передаются пользователю через простой ненавязчивый интерфейс. Кроме того, она способна излучать сложные световые сигналы и отображать специальные паттерны на поверхности глаза, на которые можно обучить реагировать большинство видов животных.</BM_SpacerTamerWorkModule.description>
 
 
   <!-- mindreader -->
 
-  <BM_SpacerMindreaderWorkModule.label>mindreader module</BM_SpacerMindreaderWorkModule.label>
-  <BM_SpacerMindreaderWorkModule.description>A high-tech device that can be installed into an eye or any compatible artificial eye replacement. This particular model is able to quickly analyze a person's facial expression, speech and body language. The collected data is then forwarded to the user via a simple, non-intrusive interface. It's currently the closest thing to contactless mind reading a non-psycaster can hope for.</BM_SpacerMindreaderWorkModule.description>
+  <BM_SpacerMindreaderWorkModule.label>рабочий модуль чтения мыслей</BM_SpacerMindreaderWorkModule.label>
+  <BM_SpacerMindreaderWorkModule.description>Высокотехнологичное устройство, которое можно установить в глаз или любую совместимую искусственную замену глаза. Эта конкретная модель способна быстро анализировать выражение лица, речь и язык тела человека. Собранные данные затем передаются пользователю через простой ненавязчивый интерфейс. На данный момент это самое близкое к бесконтактному чтению мыслей, на что может надеяться не-псионик.</BM_SpacerMindreaderWorkModule.description>
 
 
 </LanguageData>

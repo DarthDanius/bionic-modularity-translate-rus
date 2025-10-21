@@ -3,56 +3,56 @@
 
   <!-- overdose immunizer -->
 
-  <BM_SpacerOverdoseImmunizerSupportModule.label>overdose immunizer module</BM_SpacerOverdoseImmunizerSupportModule.label>
-  <BM_SpacerOverdoseImmunizerSupportModule.description>An installed overdose immunizer support module.</BM_SpacerOverdoseImmunizerSupportModule.description>
+  <BM_SpacerOverdoseImmunizerSupportModule.label>модуль иммунизации от передозировки</BM_SpacerOverdoseImmunizerSupportModule.label>
+  <BM_SpacerOverdoseImmunizerSupportModule.description>Установленный модуль иммунизации от передозировки.</BM_SpacerOverdoseImmunizerSupportModule.description>
 
 
   <!-- scaria immunizer -->
 
-  <BM_SpacerScariaImmunizerSupportModule.label>scaria immunizer module</BM_SpacerScariaImmunizerSupportModule.label>
-  <BM_SpacerScariaImmunizerSupportModule.description>An installed scaria immunizer support module.</BM_SpacerScariaImmunizerSupportModule.description>
+  <BM_SpacerScariaImmunizerSupportModule.label>модуль иммунизации от скарии</BM_SpacerScariaImmunizerSupportModule.label>
+  <BM_SpacerScariaImmunizerSupportModule.description>Установленный модуль иммунизации от скарии.</BM_SpacerScariaImmunizerSupportModule.description>
 
 
   <!-- plague immunizer -->
 
-  <BM_SpacerPlagueImmunizerSupportModule.label>plague immunizer module</BM_SpacerPlagueImmunizerSupportModule.label>
-  <BM_SpacerPlagueImmunizerSupportModule.description>An installed plague immunizer support module.</BM_SpacerPlagueImmunizerSupportModule.description>
+  <BM_SpacerPlagueImmunizerSupportModule.label>модуль иммунизации от чумы</BM_SpacerPlagueImmunizerSupportModule.label>
+  <BM_SpacerPlagueImmunizerSupportModule.description>Установленный модуль иммунизации от чумы.</BM_SpacerPlagueImmunizerSupportModule.description>
 
 
   <!-- malaria immunizer -->
 
-  <BM_SpacerMalariaImmunizerSupportModule.label>malaria immunizer module</BM_SpacerMalariaImmunizerSupportModule.label>
-  <BM_SpacerMalariaImmunizerSupportModule.description>An installed malaria immunizer support module.</BM_SpacerMalariaImmunizerSupportModule.description>
+  <BM_SpacerMalariaImmunizerSupportModule.label>модуль иммунизации от малярии</BM_SpacerMalariaImmunizerSupportModule.label>
+  <BM_SpacerMalariaImmunizerSupportModule.description>Установленный модуль иммунизации от малярии.</BM_SpacerMalariaImmunizerSupportModule.description>
 
 
   <!-- sleeping sickness immunizer -->
 
-  <BM_SpacerSleepingSicknessImmunizerSupportModule.label>sleeping sickness immunizer module</BM_SpacerSleepingSicknessImmunizerSupportModule.label>
-  <BM_SpacerSleepingSicknessImmunizerSupportModule.description>An installed sleeping sickness immunizer support module.</BM_SpacerSleepingSicknessImmunizerSupportModule.description>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule.label>модуль иммунизации от сонной болезни</BM_SpacerSleepingSicknessImmunizerSupportModule.label>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule.description>Установленный модуль иммунизации от сонной болезни.</BM_SpacerSleepingSicknessImmunizerSupportModule.description>
 
 
   <!-- gut worms immunizer -->
 
-  <BM_SpacerGutWormsImmunizerSupportModule.label>gut worms immunizer module</BM_SpacerGutWormsImmunizerSupportModule.label>
-  <BM_SpacerGutWormsImmunizerSupportModule.description>An installed gut worms immunizer support module.</BM_SpacerGutWormsImmunizerSupportModule.description>
+  <BM_SpacerGutWormsImmunizerSupportModule.label>модуль иммунизации от кишечных червей</BM_SpacerGutWormsImmunizerSupportModule.label>
+  <BM_SpacerGutWormsImmunizerSupportModule.description>Установленный модуль иммунизации от кишечных червей.</BM_SpacerGutWormsImmunizerSupportModule.description>
 
 
   <!-- muscle parasites immunizer -->
 
-  <BM_SpacerMuscleParasitesImmunizerSupportModule.label>muscle parasites immunizer module</BM_SpacerMuscleParasitesImmunizerSupportModule.label>
-  <BM_SpacerMuscleParasitesImmunizerSupportModule.description>An installed muscle parasites immunizer support module.</BM_SpacerMuscleParasitesImmunizerSupportModule.description>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule.label>модуль иммунизации от мышечных паразитов</BM_SpacerMuscleParasitesImmunizerSupportModule.label>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule.description>Установленный модуль иммунизации от мышечных паразитов.</BM_SpacerMuscleParasitesImmunizerSupportModule.description>
 
 
   <!-- flu immunizer -->
 
-  <BM_SpacerFluImmunizerSupportModule.label>flu immunizer module</BM_SpacerFluImmunizerSupportModule.label>
-  <BM_SpacerFluImmunizerSupportModule.description>An installed flu immunizer support module.</BM_SpacerFluImmunizerSupportModule.description>
+  <BM_SpacerFluImmunizerSupportModule.label>модуль иммунизации от гриппа</BM_SpacerFluImmunizerSupportModule.label>
+  <BM_SpacerFluImmunizerSupportModule.description>Установленный модуль иммунизации от гриппа.</BM_SpacerFluImmunizerSupportModule.description>
 
 
   <!-- lung rot immunizer -->
 
-  <BM_SpacerLungRotImmunizerSupportModule.label>lung rot immunizer module</BM_SpacerLungRotImmunizerSupportModule.label>
-  <BM_SpacerLungRotImmunizerSupportModule.description>An installed lung rot immunizer support module.</BM_SpacerLungRotImmunizerSupportModule.description>
+  <BM_SpacerLungRotImmunizerSupportModule.label>модуль иммунизации от гнили легких</BM_SpacerLungRotImmunizerSupportModule.label>
+  <BM_SpacerLungRotImmunizerSupportModule.description>Установленный модуль иммунизации от гнили легких.</BM_SpacerLungRotImmunizerSupportModule.description>
 
 
 </LanguageData>

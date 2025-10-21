@@ -3,30 +3,30 @@
 
   <!-- Module -->
 
-  <BM_SpacerFragGrenadeCombatModule_InstallHuman.label>install frag grenade module</BM_SpacerFragGrenadeCombatModule_InstallHuman.label>
-  <BM_SpacerFragGrenadeCombatModule_InstallHuman.description>Install a frag grenade module into the body part's combat module slot.</BM_SpacerFragGrenadeCombatModule_InstallHuman.description>
-  <BM_SpacerFragGrenadeCombatModule_InstallHuman.jobString>Installing frag grenade module.</BM_SpacerFragGrenadeCombatModule_InstallHuman.jobString>
+  <BM_SpacerFragGrenadeCombatModule_InstallHuman.label>установить модуль осколочной гранаты</BM_SpacerFragGrenadeCombatModule_InstallHuman.label>
+  <BM_SpacerFragGrenadeCombatModule_InstallHuman.description>Установить модуль осколочной гранаты в слот боевого модуля части тела.</BM_SpacerFragGrenadeCombatModule_InstallHuman.description>
+  <BM_SpacerFragGrenadeCombatModule_InstallHuman.jobString>Установка модуля осколочной гранаты.</BM_SpacerFragGrenadeCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.label>remove frag grenade module</BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.description>Remove frag grenade module.</BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.jobString>Removing frag grenade module.</BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.label>удалить модуль осколочной гранаты</BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.description>Удалить модуль осколочной гранаты.</BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.jobString>Удаление модуля осколочной гранаты.</BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerEMPGrenadeCombatModule_InstallHuman.label>install EMP grenade module</BM_SpacerEMPGrenadeCombatModule_InstallHuman.label>
-  <BM_SpacerEMPGrenadeCombatModule_InstallHuman.description>Install an EMP grenade module into the body part's combat module slot.</BM_SpacerEMPGrenadeCombatModule_InstallHuman.description>
-  <BM_SpacerEMPGrenadeCombatModule_InstallHuman.jobString>Installing EMP grenade module.</BM_SpacerEMPGrenadeCombatModule_InstallHuman.jobString>
+  <BM_SpacerEMPGrenadeCombatModule_InstallHuman.label>установить модуль EMP гранаты</BM_SpacerEMPGrenadeCombatModule_InstallHuman.label>
+  <BM_SpacerEMPGrenadeCombatModule_InstallHuman.description>Установить модуль EMP гранаты в слот боевого модуля части тела.</BM_SpacerEMPGrenadeCombatModule_InstallHuman.description>
+  <BM_SpacerEMPGrenadeCombatModule_InstallHuman.jobString>Установка модуля EMP гранаты.</BM_SpacerEMPGrenadeCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.label>remove EMP grenade module</BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.description>Remove EMP grenade module.</BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.jobString>Removing EMP grenade module.</BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.label>удалить модуль EMP гранаты</BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.description>Удалить модуль EMP гранаты.</BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.jobString>Удаление модуля EMP гранаты.</BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.jobString>
 
 
 </LanguageData>

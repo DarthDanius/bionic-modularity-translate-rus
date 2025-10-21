@@ -3,58 +3,58 @@
 
   <!-- Module Human -->
 
-  <BM_SpacerChempowerPowerModule_InstallHuman.label>install chempower module</BM_SpacerChempowerPowerModule_InstallHuman.label>
-  <BM_SpacerChempowerPowerModule_InstallHuman.description>Install a chempower module into the body part's power module slot.</BM_SpacerChempowerPowerModule_InstallHuman.description>
-  <BM_SpacerChempowerPowerModule_InstallHuman.jobString>Installing chempower module.</BM_SpacerChempowerPowerModule_InstallHuman.jobString>
+  <BM_SpacerChempowerPowerModule_InstallHuman.label>установить химэнергомодуль</BM_SpacerChempowerPowerModule_InstallHuman.label>
+  <BM_SpacerChempowerPowerModule_InstallHuman.description>Установить химэнергомодуль в слот энергомодуля части тела.</BM_SpacerChempowerPowerModule_InstallHuman.description>
+  <BM_SpacerChempowerPowerModule_InstallHuman.jobString>Установка химэнергомодуля.</BM_SpacerChempowerPowerModule_InstallHuman.jobString>
 
 
   <!-- Implant Animal -->
 
-  <BM_SpacerChempowerPowerModule_InstallAnimal_Implant.label>install chempower module.</BM_SpacerChempowerPowerModule_InstallAnimal_Implant.label>
-  <BM_SpacerChempowerPowerModule_InstallAnimal_Implant.description>Install a chempower module into the body part's power module slot.</BM_SpacerChempowerPowerModule_InstallAnimal_Implant.description>
-  <BM_SpacerChempowerPowerModule_InstallAnimal_Implant.jobString>Installing chempower module.</BM_SpacerChempowerPowerModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerChempowerPowerModule_InstallAnimal_Implant.label>установить химэнергомодуль</BM_SpacerChempowerPowerModule_InstallAnimal_Implant.label>
+  <BM_SpacerChempowerPowerModule_InstallAnimal_Implant.description>Установить химэнергомодуль в слот энергомодуля части тела.</BM_SpacerChempowerPowerModule_InstallAnimal_Implant.description>
+  <BM_SpacerChempowerPowerModule_InstallAnimal_Implant.jobString>Установка химэнергомодуля.</BM_SpacerChempowerPowerModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal Human -->
 
-  <BM_SpacerChempowerPowerModule_RemoveFromReplacement.label>remove chempower module</BM_SpacerChempowerPowerModule_RemoveFromReplacement.label>
-  <BM_SpacerChempowerPowerModule_RemoveFromReplacement.description>Remove chempower module.</BM_SpacerChempowerPowerModule_RemoveFromReplacement.description>
-  <BM_SpacerChempowerPowerModule_RemoveFromReplacement.jobString>Removing chempower module.</BM_SpacerChempowerPowerModule_RemoveFromReplacement.jobString>
+  <BM_SpacerChempowerPowerModule_RemoveFromReplacement.label>удалить химэнергомодуль</BM_SpacerChempowerPowerModule_RemoveFromReplacement.label>
+  <BM_SpacerChempowerPowerModule_RemoveFromReplacement.description>Удалить химэнергомодуль.</BM_SpacerChempowerPowerModule_RemoveFromReplacement.description>
+  <BM_SpacerChempowerPowerModule_RemoveFromReplacement.jobString>Удаление химэнергомодуля.</BM_SpacerChempowerPowerModule_RemoveFromReplacement.jobString>
 
 
   <!-- Removal Animal -->
 
-  <BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.label>remove chempower module</BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.label>
-  <BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.description>Remove chempower module.</BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.description>
-  <BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.jobString>Removing chempower module.</BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.jobString>
+  <BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.label>удалить химэнергомодуль</BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.label>
+  <BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.description>Удалить химэнергомодуль.</BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.description>
+  <BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.jobString>Удаление химэнергомодуля.</BM_SpacerChempowerPowerModule_RemoveFromNatural_Animal.jobString>
 
 
   <!-- Module Human -->
 
-  <BM_SpacerAtomipowerPowerModule_InstallHuman.label>install atompower module</BM_SpacerAtomipowerPowerModule_InstallHuman.label>
-  <BM_SpacerAtomipowerPowerModule_InstallHuman.description>Install a atompower module into the body part's power module slot.</BM_SpacerAtomipowerPowerModule_InstallHuman.description>
-  <BM_SpacerAtomipowerPowerModule_InstallHuman.jobString>Installing atompower module.</BM_SpacerAtomipowerPowerModule_InstallHuman.jobString>
+  <BM_SpacerAtomipowerPowerModule_InstallHuman.label>установить атомэнергомодуль</BM_SpacerAtomipowerPowerModule_InstallHuman.label>
+  <BM_SpacerAtomipowerPowerModule_InstallHuman.description>Установить атомэнергомодуль в слот энергомодуля части тела.</BM_SpacerAtomipowerPowerModule_InstallHuman.description>
+  <BM_SpacerAtomipowerPowerModule_InstallHuman.jobString>Установка атомэнергомодуля.</BM_SpacerAtomipowerPowerModule_InstallHuman.jobString>
 
 
   <!-- Implant Animal -->
 
-  <BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.label>install atompower module.</BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.label>
-  <BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.description>Install a atompower module into the body part's power module slot.</BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.description>
-  <BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.jobString>Installing atompower module.</BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.label>установить атомэнергомодуль</BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.label>
+  <BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.description>Установить атомэнергомодуль в слот энергомодуля части тела.</BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.description>
+  <BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.jobString>Установка атомэнергомодуля.</BM_SpacerAtomipowerPowerModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal Human -->
 
-  <BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.label>remove atompower module</BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.label>
-  <BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.description>Remove atompower module.</BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.description>
-  <BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.jobString>Removing atompower module.</BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.jobString>
+  <BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.label>удалить атомэнергомодуль</BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.label>
+  <BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.description>Удалить атомэнергомодуль.</BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.description>
+  <BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.jobString>Удаление атомэнергомодуля.</BM_SpacerAtomipowerPowerModule_RemoveFromReplacement.jobString>
 
 
   <!-- Removal Animal -->
 
-  <BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.label>remove atompower module</BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.label>
-  <BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.description>Remove atompower module.</BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.description>
-  <BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.jobString>Removing atompower module.</BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.jobString>
+  <BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.label>удалить атомэнергомодуль</BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.label>
+  <BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.description>Удалить атомэнергомодуль.</BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.description>
+  <BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.jobString>Удаление атомэнергомодуля.</BM_SpacerAtomipowerPowerModule_RemoveFromNatural_Animal.jobString>
 
 
 </LanguageData>

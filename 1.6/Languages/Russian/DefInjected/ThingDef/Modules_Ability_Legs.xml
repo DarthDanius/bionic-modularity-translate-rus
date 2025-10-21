@@ -3,8 +3,8 @@
 
   <!-- leap module -->
 
-  <BM_SpacerLeapAbilityModule.label>leap module</BM_SpacerLeapAbilityModule.label>
-  <BM_SpacerLeapAbilityModule.description>A high-tech device that can be installed into any compatible artificial leg replacement. This particular model's compact mechanical muscles allow the user to jump great distances. Syncing with other modules of the same kind allows it to work with greater efficiency.</BM_SpacerLeapAbilityModule.description>
+  <BM_SpacerLeapAbilityModule.label>модуль прыжка</BM_SpacerLeapAbilityModule.label>
+  <BM_SpacerLeapAbilityModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель ноги. Компактные механические мышцы этой модели позволяют пользователю прыгать на большие расстояния. Синхронизация с другими модулями того же типа позволяет работать с большей эффективностью.</BM_SpacerLeapAbilityModule.description>
 
 
 </LanguageData>

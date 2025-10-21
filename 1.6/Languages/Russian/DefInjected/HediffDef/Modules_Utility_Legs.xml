@@ -3,8 +3,8 @@
 
   <!-- carrier module -->
 
-  <BM_SpacerCarrierUtilityModule.label>carrier module</BM_SpacerCarrierUtilityModule.label>
-  <BM_SpacerCarrierUtilityModule.description>An installed carrier utility module.</BM_SpacerCarrierUtilityModule.description>
+  <BM_SpacerCarrierUtilityModule.label>грузовой модуль</BM_SpacerCarrierUtilityModule.label>
+  <BM_SpacerCarrierUtilityModule.description>Установленный грузовой модуль.</BM_SpacerCarrierUtilityModule.description>
 
 
 </LanguageData>

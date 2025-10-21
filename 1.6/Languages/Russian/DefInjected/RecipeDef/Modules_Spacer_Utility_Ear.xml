@@ -3,101 +3,101 @@
 
   <!-- Module -->
 
-  <BM_SpacerFlashlightUtilityModule_InstallAnimal.label>install flashlight module</BM_SpacerFlashlightUtilityModule_InstallAnimal.label>
-  <BM_SpacerFlashlightUtilityModule_InstallAnimal.description>Install a flashlight module into the body part's utility module slot.</BM_SpacerFlashlightUtilityModule_InstallAnimal.description>
-  <BM_SpacerFlashlightUtilityModule_InstallAnimal.jobString>Installing flashlight module.</BM_SpacerFlashlightUtilityModule_InstallAnimal.jobString>
+  <BM_SpacerFlashlightUtilityModule_InstallAnimal.label>установить модуль фонаря</BM_SpacerFlashlightUtilityModule_InstallAnimal.label>
+  <BM_SpacerFlashlightUtilityModule_InstallAnimal.description>Установить модуль фонаря в слот утилитарного модуля части тела.</BM_SpacerFlashlightUtilityModule_InstallAnimal.description>
+  <BM_SpacerFlashlightUtilityModule_InstallAnimal.jobString>Установка модуля фонаря.</BM_SpacerFlashlightUtilityModule_InstallAnimal.jobString>
 
-  <BM_SpacerFlashlightUtilityModule_InstallHuman.label>install flashlight module</BM_SpacerFlashlightUtilityModule_InstallHuman.label>
-  <BM_SpacerFlashlightUtilityModule_InstallHuman.description>Install a flashlight module into the body part's utility module slot.</BM_SpacerFlashlightUtilityModule_InstallHuman.description>
-  <BM_SpacerFlashlightUtilityModule_InstallHuman.jobString>Installing flashlight module.</BM_SpacerFlashlightUtilityModule_InstallHuman.jobString>
+  <BM_SpacerFlashlightUtilityModule_InstallHuman.label>установить модуль фонаря</BM_SpacerFlashlightUtilityModule_InstallHuman.label>
+  <BM_SpacerFlashlightUtilityModule_InstallHuman.description>Установить модуль фонаря в слот утилитарного модуля части тела.</BM_SpacerFlashlightUtilityModule_InstallHuman.description>
+  <BM_SpacerFlashlightUtilityModule_InstallHuman.jobString>Установка модуля фонаря.</BM_SpacerFlashlightUtilityModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.label>install flashlight module.</BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.label>
-  <BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.description>Install a flashlight module into the body part's utility module slot.</BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.description>
-  <BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.jobString>Installing flashlight module.</BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.jobString>
+  <BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.label>установить модуль фонаря</BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.description>Установить модуль фонаря в слот утилитарного модуля части тела.</BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.jobString>Установка модуля фонаря.</BM_SpacerFlashlightUtilityModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.label>install flashlight module.</BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.label>
-  <BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.description>Install a flashlight module into the body part's utility module slot.</BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.description>
-  <BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.jobString>Installing flashlight module.</BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.label>установить модуль фонаря</BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.description>Установить модуль фонаря в слот утилитарного модуля части тела.</BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.jobString>Установка модуля фонаря.</BM_SpacerFlashlightUtilityModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.label>remove flashlight module</BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.label>
-  <BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.description>Remove flashlight module.</BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.description>
-  <BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.jobString>Removing flashlight module.</BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.label>удалить модуль фонаря</BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.description>Удалить модуль фонаря.</BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.jobString>Удаление модуля фонаря.</BM_SpacerFlashlightUtilityModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerFlashlightUtilityModule_RemoveFromNatural.label>remove flashlight module</BM_SpacerFlashlightUtilityModule_RemoveFromNatural.label>
-  <BM_SpacerFlashlightUtilityModule_RemoveFromNatural.description>Remove flashlight module.</BM_SpacerFlashlightUtilityModule_RemoveFromNatural.description>
-  <BM_SpacerFlashlightUtilityModule_RemoveFromNatural.jobString>Removing flashlight module.</BM_SpacerFlashlightUtilityModule_RemoveFromNatural.jobString>
+  <BM_SpacerFlashlightUtilityModule_RemoveFromNatural.label>удалить модуль фонаря</BM_SpacerFlashlightUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerFlashlightUtilityModule_RemoveFromNatural.description>Удалить модуль фонаря.</BM_SpacerFlashlightUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerFlashlightUtilityModule_RemoveFromNatural.jobString>Удаление модуля фонаря.</BM_SpacerFlashlightUtilityModule_RemoveFromNatural.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerTunenodeUtilityModule_InstallAnimal.label>install tunenode module</BM_SpacerTunenodeUtilityModule_InstallAnimal.label>
-  <BM_SpacerTunenodeUtilityModule_InstallAnimal.description>Install a tunenode module into the body part's utility module slot.</BM_SpacerTunenodeUtilityModule_InstallAnimal.description>
-  <BM_SpacerTunenodeUtilityModule_InstallAnimal.jobString>Installing tunenode module.</BM_SpacerTunenodeUtilityModule_InstallAnimal.jobString>
+  <BM_SpacerTunenodeUtilityModule_InstallAnimal.label>установить модуль узла настройки</BM_SpacerTunenodeUtilityModule_InstallAnimal.label>
+  <BM_SpacerTunenodeUtilityModule_InstallAnimal.description>Установить модуль узла настройки в слот утилитарного модуля части тела.</BM_SpacerTunenodeUtilityModule_InstallAnimal.description>
+  <BM_SpacerTunenodeUtilityModule_InstallAnimal.jobString>Установка модуля узла настройки.</BM_SpacerTunenodeUtilityModule_InstallAnimal.jobString>
 
-  <BM_SpacerTunenodeUtilityModule_InstallHuman.label>install tunenode module</BM_SpacerTunenodeUtilityModule_InstallHuman.label>
-  <BM_SpacerTunenodeUtilityModule_InstallHuman.description>Install a tunenode module into the body part's utility module slot.</BM_SpacerTunenodeUtilityModule_InstallHuman.description>
-  <BM_SpacerTunenodeUtilityModule_InstallHuman.jobString>Installing tunenode module.</BM_SpacerTunenodeUtilityModule_InstallHuman.jobString>
+  <BM_SpacerTunenodeUtilityModule_InstallHuman.label>установить модуль узла настройки</BM_SpacerTunenodeUtilityModule_InstallHuman.label>
+  <BM_SpacerTunenodeUtilityModule_InstallHuman.description>Установить модуль узла настройки в слот утилитарного модуля части тела.</BM_SpacerTunenodeUtilityModule_InstallHuman.description>
+  <BM_SpacerTunenodeUtilityModule_InstallHuman.jobString>Установка модуля узла настройки.</BM_SpacerTunenodeUtilityModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.label>install tunenode module.</BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.label>
-  <BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.description>Install a tunenode module into the body part's utility module slot.</BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.description>
-  <BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.jobString>Installing tunenode module.</BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.jobString>
+  <BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.label>установить модуль узла настройки</BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.description>Установить модуль узла настройки в слот утилитарного модуля части тела.</BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.jobString>Установка модуля узла настройки.</BM_SpacerTunenodeUtilityModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.label>install tunenode module.</BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.label>
-  <BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.description>Install a tunenode module into the body part's utility module slot.</BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.description>
-  <BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.jobString>Installing tunenode module.</BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.label>установить модуль узла настройки</BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.description>Установить модуль узла настройки в слот утилитарного модуля части тела.</BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.jobString>Установка модуля узла настройки.</BM_SpacerTunenodeUtilityModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.label>remove tunenode module</BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.label>
-  <BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.description>Remove tunenode module.</BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.description>
-  <BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.jobString>Removing tunenode module.</BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.label>удалить модуль узла настройки</BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.description>Удалить модуль узла настройки.</BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.jobString>Удаление модуля узла настройки.</BM_SpacerTunenodeUtilityModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerTunenodeUtilityModule_RemoveFromNatural.label>remove tunenode module</BM_SpacerTunenodeUtilityModule_RemoveFromNatural.label>
-  <BM_SpacerTunenodeUtilityModule_RemoveFromNatural.description>Remove tunenode module.</BM_SpacerTunenodeUtilityModule_RemoveFromNatural.description>
-  <BM_SpacerTunenodeUtilityModule_RemoveFromNatural.jobString>Removing tunenode module.</BM_SpacerTunenodeUtilityModule_RemoveFromNatural.jobString>
+  <BM_SpacerTunenodeUtilityModule_RemoveFromNatural.label>удалить модуль узла настройки</BM_SpacerTunenodeUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerTunenodeUtilityModule_RemoveFromNatural.description>Удалить модуль узла настройки.</BM_SpacerTunenodeUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerTunenodeUtilityModule_RemoveFromNatural.jobString>Удаление модуля узла настройки.</BM_SpacerTunenodeUtilityModule_RemoveFromNatural.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerEcholocationUtilityModule_InstallAnimal.label>install echolocation module</BM_SpacerEcholocationUtilityModule_InstallAnimal.label>
-  <BM_SpacerEcholocationUtilityModule_InstallAnimal.description>Install an echolocation module into the body part's utility module slot.</BM_SpacerEcholocationUtilityModule_InstallAnimal.description>
-  <BM_SpacerEcholocationUtilityModule_InstallAnimal.jobString>Installing echolocation module.</BM_SpacerEcholocationUtilityModule_InstallAnimal.jobString>
+  <BM_SpacerEcholocationUtilityModule_InstallAnimal.label>установить модуль эхолокации</BM_SpacerEcholocationUtilityModule_InstallAnimal.label>
+  <BM_SpacerEcholocationUtilityModule_InstallAnimal.description>Установить модуль эхолокации в слот утилитарного модуля части тела.</BM_SpacerEcholocationUtilityModule_InstallAnimal.description>
+  <BM_SpacerEcholocationUtilityModule_InstallAnimal.jobString>Установка модуля эхолокации.</BM_SpacerEcholocationUtilityModule_InstallAnimal.jobString>
 
-  <BM_SpacerEcholocationUtilityModule_InstallHuman.label>install echolocation module</BM_SpacerEcholocationUtilityModule_InstallHuman.label>
-  <BM_SpacerEcholocationUtilityModule_InstallHuman.description>Install an echolocation module into the body part's utility module slot.</BM_SpacerEcholocationUtilityModule_InstallHuman.description>
-  <BM_SpacerEcholocationUtilityModule_InstallHuman.jobString>Installing echolocation module.</BM_SpacerEcholocationUtilityModule_InstallHuman.jobString>
+  <BM_SpacerEcholocationUtilityModule_InstallHuman.label>установить модуль эхолокации</BM_SpacerEcholocationUtilityModule_InstallHuman.label>
+  <BM_SpacerEcholocationUtilityModule_InstallHuman.description>Установить модуль эхолокации в слот утилитарного модуля части тела.</BM_SpacerEcholocationUtilityModule_InstallHuman.description>
+  <BM_SpacerEcholocationUtilityModule_InstallHuman.jobString>Установка модуля эхолокации.</BM_SpacerEcholocationUtilityModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.label>install echolocation module.</BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.label>
-  <BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.description>Install an echolocation module into the body part's utility module slot.</BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.description>
-  <BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.jobString>Installing echolocation module.</BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.jobString>
+  <BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.label>установить модуль эхолокации</BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.description>Установить модуль эхолокации в слот утилитарного модуля части тела.</BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.jobString>Установка модуля эхолокации.</BM_SpacerEcholocationUtilityModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.label>install echolocation module.</BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.label>
-  <BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.description>Install an echolocation module into the body part's utility module slot.</BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.description>
-  <BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.jobString>Installing echolocation module.</BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.label>установить модуль эхолокации</BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.description>Установить модуль эхолокации в слот утилитарного модуля части тела.</BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.jobString>Установка модуля эхолокации.</BM_SpacerEcholocationUtilityModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.label>remove echolocation module</BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.label>
-  <BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.description>Remove echolocation module.</BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.description>
-  <BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.jobString>Removing echolocation module.</BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.label>удалить модуль эхолокации</BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.description>Удалить модуль эхолокации.</BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.jobString>Удаление модуля эхолокации.</BM_SpacerEcholocationUtilityModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerEcholocationUtilityModule_RemoveFromNatural.label>remove echolocation module</BM_SpacerEcholocationUtilityModule_RemoveFromNatural.label>
-  <BM_SpacerEcholocationUtilityModule_RemoveFromNatural.description>Remove echolocation module.</BM_SpacerEcholocationUtilityModule_RemoveFromNatural.description>
-  <BM_SpacerEcholocationUtilityModule_RemoveFromNatural.jobString>Removing echolocation module.</BM_SpacerEcholocationUtilityModule_RemoveFromNatural.jobString>
+  <BM_SpacerEcholocationUtilityModule_RemoveFromNatural.label>удалить модуль эхолокации</BM_SpacerEcholocationUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerEcholocationUtilityModule_RemoveFromNatural.description>Удалить модуль эхолокации.</BM_SpacerEcholocationUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerEcholocationUtilityModule_RemoveFromNatural.jobString>Удаление модуля эхолокации.</BM_SpacerEcholocationUtilityModule_RemoveFromNatural.jobString>
 
 
 </LanguageData>

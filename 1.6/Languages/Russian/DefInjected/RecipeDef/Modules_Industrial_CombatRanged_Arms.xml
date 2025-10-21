@@ -3,182 +3,189 @@
 
   <!-- Module -->
 
-  <BM_SpacerMinigunCombatModule_InstallAnimal.label>install minigun module</BM_SpacerMinigunCombatModule_InstallAnimal.label>
-  <BM_SpacerMinigunCombatModule_InstallAnimal.description>Install a minigun module into the body part's combat module slot.</BM_SpacerMinigunCombatModule_InstallAnimal.description>
-  <BM_SpacerMinigunCombatModule_InstallAnimal.jobString>Installing minigun module.</BM_SpacerMinigunCombatModule_InstallAnimal.jobString>
+  <BM_SpacerMinigunCombatModule_InstallAnimal.label>установить модуль минигана</BM_SpacerMinigunCombatModule_InstallAnimal.label>
+  <BM_SpacerMinigunCombatModule_InstallAnimal.description>Установить модуль минигана в слот боевого модуля части тела.</BM_SpacerMinigunCombatModule_InstallAnimal.description>
+  <BM_SpacerMinigunCombatModule_InstallAnimal.jobString>Установка модуля минигана.</BM_SpacerMinigunCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerMinigunCombatModule_InstallHuman.label>install minigun module</BM_SpacerMinigunCombatModule_InstallHuman.label>
-  <BM_SpacerMinigunCombatModule_InstallHuman.description>Install a minigun module into the body part's combat module slot.</BM_SpacerMinigunCombatModule_InstallHuman.description>
-  <BM_SpacerMinigunCombatModule_InstallHuman.jobString>Installing minigun module.</BM_SpacerMinigunCombatModule_InstallHuman.jobString>
+  <BM_SpacerMinigunCombatModule_InstallHuman.label>установить модуль минигана</BM_SpacerMinigunCombatModule_InstallHuman.label>
+  <BM_SpacerMinigunCombatModule_InstallHuman.description>Установить модуль минигана в слот боевого модуля части тела.</BM_SpacerMinigunCombatModule_InstallHuman.description>
+  <BM_SpacerMinigunCombatModule_InstallHuman.jobString>Установка модуля минигана.</BM_SpacerMinigunCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerMinigunCombatModule_RemoveFromReplacement.label>remove minigun module</BM_SpacerMinigunCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerMinigunCombatModule_RemoveFromReplacement.description>Remove minigun module.</BM_SpacerMinigunCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerMinigunCombatModule_RemoveFromReplacement.jobString>Removing minigun module.</BM_SpacerMinigunCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerMinigunCombatModule_RemoveFromReplacement.label>удалить модуль минигана</BM_SpacerMinigunCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerMinigunCombatModule_RemoveFromReplacement.description>Удалить модуль минигана.</BM_SpacerMinigunCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerMinigunCombatModule_RemoveFromReplacement.jobString>Удаление модуля минигана.</BM_SpacerMinigunCombatModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerMinigunCombatModule_RemoveFromReplacement.label>удалить модуль минитюгана</BM_SpacerMinigunCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerMinigunCombatModule_RemoveFromReplacement.description>Удалить модуль минитюгана.</BM_SpacerMinigunCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerMinigunCombatModule_RemoveFromReplacement.jobString>Удаление модуля минитюгана.</BM_SpacerMinigunCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerChainShotgunCombatModule_InstallAnimal.label>install chain shotgun module</BM_SpacerChainShotgunCombatModule_InstallAnimal.label>
-  <BM_SpacerChainShotgunCombatModule_InstallAnimal.description>Install a chain shotgun module into the body part's combat module slot.</BM_SpacerChainShotgunCombatModule_InstallAnimal.description>
-  <BM_SpacerChainShotgunCombatModule_InstallAnimal.jobString>Installing chain shotgun module.</BM_SpacerChainShotgunCombatModule_InstallAnimal.jobString>
+  <BM_SpacerChainShotgunCombatModule_InstallAnimal.label>установить модуль цепного дробовика</BM_SpacerChainShotgunCombatModule_InstallAnimal.label>
+  <BM_SpacerChainShotgunCombatModule_InstallAnimal.description>Установить модуль цепного дробовика в слот боевого модуля части тела.</BM_SpacerChainShotgunCombatModule_InstallAnimal.description>
+  <BM_SpacerChainShotgunCombatModule_InstallAnimal.jobString>Установка модуля цепного дробовика.</BM_SpacerChainShotgunCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerChainShotgunCombatModule_InstallHuman.label>install chain shotgun module</BM_SpacerChainShotgunCombatModule_InstallHuman.label>
-  <BM_SpacerChainShotgunCombatModule_InstallHuman.description>Install a chain shotgun module into the body part's combat module slot.</BM_SpacerChainShotgunCombatModule_InstallHuman.description>
-  <BM_SpacerChainShotgunCombatModule_InstallHuman.jobString>Installing chain shotgun module.</BM_SpacerChainShotgunCombatModule_InstallHuman.jobString>
+  <BM_SpacerChainShotgunCombatModule_InstallHuman.label>установить модуль цепного дробовика</BM_SpacerChainShotgunCombatModule_InstallHuman.label>
+  <BM_SpacerChainShotgunCombatModule_InstallHuman.description>Установить модуль цепного дробовика в слот боевого модуля части тела.</BM_SpacerChainShotgunCombatModule_InstallHuman.description>
+  <BM_SpacerChainShotgunCombatModule_InstallHuman.jobString>Установка модуля цепного дробовика.</BM_SpacerChainShotgunCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.label>remove chain shotgun module</BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.description>Remove chain shotgun module.</BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.jobString>Removing chain shotgun module.</BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.label>удалить модуль цепного дробовика</BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.description>Удалить модуль цепного дробовика.</BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.jobString>Удаление модуля цепного дробовика.</BM_SpacerChainShotgunCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerLMGCombatModule_InstallAnimal.label>install LMG module</BM_SpacerLMGCombatModule_InstallAnimal.label>
-  <BM_SpacerLMGCombatModule_InstallAnimal.description>Install an LMG module into the body part's combat module slot.</BM_SpacerLMGCombatModule_InstallAnimal.description>
-  <BM_SpacerLMGCombatModule_InstallAnimal.jobString>Installing LMG module.</BM_SpacerLMGCombatModule_InstallAnimal.jobString>
+  <BM_SpacerLMGCombatModule_InstallAnimal.label>установить модуль ручного пулемёта</BM_SpacerLMGCombatModule_InstallAnimal.label>
+  <BM_SpacerLMGCombatModule_InstallAnimal.description>Установить модуль ручного пулемёта в слот боевого модуля части тела.</BM_SpacerLMGCombatModule_InstallAnimal.description>
+  <BM_SpacerLMGCombatModule_InstallAnimal.jobString>Установка модуля ручного пулемёта.</BM_SpacerLMGCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerLMGCombatModule_InstallHuman.label>install LMG module</BM_SpacerLMGCombatModule_InstallHuman.label>
-  <BM_SpacerLMGCombatModule_InstallHuman.description>Install an LMG module into the body part's combat module slot.</BM_SpacerLMGCombatModule_InstallHuman.description>
-  <BM_SpacerLMGCombatModule_InstallHuman.jobString>Installing LMG module.</BM_SpacerLMGCombatModule_InstallHuman.jobString>
+  <BM_SpacerLMGCombatModule_InstallHuman.label>установить модуль ручного пулемёта</BM_SpacerLMGCombatModule_InstallHuman.label>
+  <BM_SpacerLMGCombatModule_InstallHuman.description>Установить модуль ручного пулемёта в слот боевого модуля части тела.</BM_SpacerLMGCombatModule_InstallHuman.description>
+  <BM_SpacerLMGCombatModule_InstallHuman.jobString>Установка модуля ручного пулемёта.</BM_SpacerLMGCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerLMGCombatModule_RemoveFromReplacement.label>remove LMG module</BM_SpacerLMGCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerLMGCombatModule_RemoveFromReplacement.description>Remove LMG module.</BM_SpacerLMGCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerLMGCombatModule_RemoveFromReplacement.jobString>Removing LMG module.</BM_SpacerLMGCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerLMGCombatModule_RemoveFromReplacement.label>удалить модуль ручного пулемёта</BM_SpacerLMGCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerLMGCombatModule_RemoveFromReplacement.description>Удалить модуль ручного пулемёта.</BM_SpacerLMGCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerLMGCombatModule_RemoveFromReplacement.jobString>Удаление модуля ручного пулемёта.</BM_SpacerLMGCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerSniperRifleCombatModule_InstallAnimal.label>install sniper rifle module</BM_SpacerSniperRifleCombatModule_InstallAnimal.label>
-  <BM_SpacerSniperRifleCombatModule_InstallAnimal.description>Install a sniper rifle module into the body part's combat module slot.</BM_SpacerSniperRifleCombatModule_InstallAnimal.description>
-  <BM_SpacerSniperRifleCombatModule_InstallAnimal.jobString>Installing sniper rifle module.</BM_SpacerSniperRifleCombatModule_InstallAnimal.jobString>
+  <BM_SpacerSniperRifleCombatModule_InstallAnimal.label>установить модуль снайперской винтовки</BM_SpacerSniperRifleCombatModule_InstallAnimal.label>
+  <BM_SpacerSniperRifleCombatModule_InstallAnimal.description>Установить модуль снайперской винтовки в слот боевого модуля части тела.</BM_SpacerSniperRifleCombatModule_InstallAnimal.description>
+  <BM_SpacerSniperRifleCombatModule_InstallAnimal.jobString>Установка модуля снайперской винтовки.</BM_SpacerSniperRifleCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerSniperRifleCombatModule_InstallHuman.label>install sniper rifle module</BM_SpacerSniperRifleCombatModule_InstallHuman.label>
-  <BM_SpacerSniperRifleCombatModule_InstallHuman.description>Install a sniper rifle module into the body part's combat module slot.</BM_SpacerSniperRifleCombatModule_InstallHuman.description>
-  <BM_SpacerSniperRifleCombatModule_InstallHuman.jobString>Installing sniper rifle module.</BM_SpacerSniperRifleCombatModule_InstallHuman.jobString>
+  <BM_SpacerSniperRifleCombatModule_InstallHuman.label>установить модуль снайперской винтовки</BM_SpacerSniperRifleCombatModule_InstallHuman.label>
+  <BM_SpacerSniperRifleCombatModule_InstallHuman.description>Установить модуль снайперской винтовки в слот боевого модуля части тела.</BM_SpacerSniperRifleCombatModule_InstallHuman.description>
+  <BM_SpacerSniperRifleCombatModule_InstallHuman.jobString>Установка модуля снайперской винтовки.</BM_SpacerSniperRifleCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.label>remove sniper rifle module</BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.description>Remove sniper rifle module.</BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.jobString>Removing sniper rifle module.</BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.label>удалить модуль снайперской винтовки</BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.description>Удалить модуль снайперской винтовки.</BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.jobString>Удаление модуля снайперской винтовки.</BM_SpacerSniperRifleCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerPumpShotgunCombatModule_InstallAnimal.label>install pump shotgun module</BM_SpacerPumpShotgunCombatModule_InstallAnimal.label>
-  <BM_SpacerPumpShotgunCombatModule_InstallAnimal.description>Install a pump shotgun module into the body part's combat module slot.</BM_SpacerPumpShotgunCombatModule_InstallAnimal.description>
-  <BM_SpacerPumpShotgunCombatModule_InstallAnimal.jobString>Installing pump shotgun module.</BM_SpacerPumpShotgunCombatModule_InstallAnimal.jobString>
+  <BM_SpacerPumpShotgunCombatModule_InstallAnimal.label>установить модуль помпового дробовика</BM_SpacerPumpShotgunCombatModule_InstallAnimal.label>
+  <BM_SpacerPumpShotgunCombatModule_InstallAnimal.description>Установить модуль помпового дробовика в слот боевого модуля части тела.</BM_SpacerPumpShotgunCombatModule_InstallAnimal.description>
+  <BM_SpacerPumpShotgunCombatModule_InstallAnimal.jobString>Установка модуля помпового дробовика.</BM_SpacerPumpShotgunCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerPumpShotgunCombatModule_InstallHuman.label>install pump shotgun module</BM_SpacerPumpShotgunCombatModule_InstallHuman.label>
-  <BM_SpacerPumpShotgunCombatModule_InstallHuman.description>Install a pump shotgun module into the body part's combat module slot.</BM_SpacerPumpShotgunCombatModule_InstallHuman.description>
-  <BM_SpacerPumpShotgunCombatModule_InstallHuman.jobString>Installing pump shotgun module.</BM_SpacerPumpShotgunCombatModule_InstallHuman.jobString>
+  <BM_SpacerPumpShotgunCombatModule_InstallHuman.label>установить модуль помпового дробовика</BM_SpacerPumpShotgunCombatModule_InstallHuman.label>
+  <BM_SpacerPumpShotgunCombatModule_InstallHuman.description>Установить модуль помпового дробовика в слот боевого модуля части тела.</BM_SpacerPumpShotgunCombatModule_InstallHuman.description>
+  <BM_SpacerPumpShotgunCombatModule_InstallHuman.jobString>Установка модуля помпового дробовика.</BM_SpacerPumpShotgunCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.label>remove pump shotgun module</BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.description>Remove pump shotgun module.</BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.jobString>Removing pump shotgun module.</BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.label>удалить модуль помпового дробовика</BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.description>Удалить модуль помпового дробовика.</BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.jobString>Удаление модуля помпового дробовика.</BM_SpacerPumpShotgunCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerHeavySMGCombatModule_InstallAnimal.label>install heavy SMG module</BM_SpacerHeavySMGCombatModule_InstallAnimal.label>
-  <BM_SpacerHeavySMGCombatModule_InstallAnimal.description>Install a heavy SMG module into the body part's combat module slot.</BM_SpacerHeavySMGCombatModule_InstallAnimal.description>
-  <BM_SpacerHeavySMGCombatModule_InstallAnimal.jobString>Installing heavy SMG module.</BM_SpacerHeavySMGCombatModule_InstallAnimal.jobString>
+  <BM_SpacerHeavySMGCombatModule_InstallAnimal.label>установить модуль тяжёлого ПП</BM_SpacerHeavySMGCombatModule_InstallAnimal.label>
+  <BM_SpacerHeavySMGCombatModule_InstallAnimal.description>Установить модуль тяжёлого пистолета-пулемёта в слот боевого модуля части тела.</BM_SpacerHeavySMGCombatModule_InstallAnimal.description>
+  <BM_SpacerHeavySMGCombatModule_InstallAnimal.jobString>Установка модуля тяжёлого ПП.</BM_SpacerHeavySMGCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerHeavySMGCombatModule_InstallHuman.label>install heavy SMG module</BM_SpacerHeavySMGCombatModule_InstallHuman.label>
-  <BM_SpacerHeavySMGCombatModule_InstallHuman.description>Install a heavy SMG module into the body part's combat module slot.</BM_SpacerHeavySMGCombatModule_InstallHuman.description>
-  <BM_SpacerHeavySMGCombatModule_InstallHuman.jobString>Installing heavy SMG module.</BM_SpacerHeavySMGCombatModule_InstallHuman.jobString>
+  <BM_SpacerHeavySMGCombatModule_InstallHuman.label>установить модуль тяжёлого ПП</BM_SpacerHeavySMGCombatModule_InstallHuman.label>
+  <BM_SpacerHeavySMGCombatModule_InstallHuman.description>Установить модуль тяжёлого пистолета-пулемёта в слот боевого модуля части тела.</BM_SpacerHeavySMGCombatModule_InstallHuman.description>
+  <BM_SpacerHeavySMGCombatModule_InstallHuman.jobString>Установка модуля тяжёлого ПП.</BM_SpacerHeavySMGCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.label>remove heavy SMG module</BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.description>Remove heavy SMG module.</BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.jobString>Removing heavy SMG module.</BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.label>удалить модуль тяжёлого ПП</BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.description>Удалить модуль тяжёлого пистолета-пулемёта.</BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.jobString>Удаление модуля тяжёлого ПП.</BM_SpacerHeavySMGCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerAssaultRifleCombatModule_InstallAnimal.label>install assault rifle module</BM_SpacerAssaultRifleCombatModule_InstallAnimal.label>
-  <BM_SpacerAssaultRifleCombatModule_InstallAnimal.description>Install an assault rifle module into the body part's combat module slot.</BM_SpacerAssaultRifleCombatModule_InstallAnimal.description>
-  <BM_SpacerAssaultRifleCombatModule_InstallAnimal.jobString>Installing assault rifle module.</BM_SpacerAssaultRifleCombatModule_InstallAnimal.jobString>
+  <BM_SpacerAssaultRifleCombatModule_InstallAnimal.label>установить модуль штурмовой винтовки</BM_SpacerAssaultRifleCombatModule_InstallAnimal.label>
+  <BM_SpacerAssaultRifleCombatModule_InstallAnimal.description>Установить модуль штурмовой винтовки в слот боевого модуля части тела.</BM_SpacerAssaultRifleCombatModule_InstallAnimal.description>
+  <BM_SpacerAssaultRifleCombatModule_InstallAnimal.jobString>Установка модуля штурмовой винтовки.</BM_SpacerAssaultRifleCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerAssaultRifleCombatModule_InstallHuman.label>install assault rifle module</BM_SpacerAssaultRifleCombatModule_InstallHuman.label>
-  <BM_SpacerAssaultRifleCombatModule_InstallHuman.description>Install an assault rifle module into the body part's combat module slot.</BM_SpacerAssaultRifleCombatModule_InstallHuman.description>
-  <BM_SpacerAssaultRifleCombatModule_InstallHuman.jobString>Installing assault rifle module.</BM_SpacerAssaultRifleCombatModule_InstallHuman.jobString>
+  <BM_SpacerAssaultRifleCombatModule_InstallHuman.label>установить модуль штурмовой винтовки</BM_SpacerAssaultRifleCombatModule_InstallHuman.label>
+  <BM_SpacerAssaultRifleCombatModule_InstallHuman.description>Установить модуль штурмовой винтовки в слот боевого модуля части тела.</BM_SpacerAssaultRifleCombatModule_InstallHuman.description>
+  <BM_SpacerAssaultRifleCombatModule_InstallHuman.jobString>Установка модуля штурмовой винтовки.</BM_SpacerAssaultRifleCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.label>remove assault rifle module</BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.description>Remove assault rifle module.</BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.jobString>Removing assault rifle module.</BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.label>удалить модуль штурмовой винтовки</BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.description>Удалить модуль штурмовой винтовки.</BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.jobString>Удаление модуля штурмовой винтовки.</BM_SpacerAssaultRifleCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerEMPLauncherCombatModule_InstallAnimal.label>install EMP launcher module</BM_SpacerEMPLauncherCombatModule_InstallAnimal.label>
-  <BM_SpacerEMPLauncherCombatModule_InstallAnimal.description>Install an EMP launcher module into the body part's combat module slot.</BM_SpacerEMPLauncherCombatModule_InstallAnimal.description>
-  <BM_SpacerEMPLauncherCombatModule_InstallAnimal.jobString>Installing EMP launcher module.</BM_SpacerEMPLauncherCombatModule_InstallAnimal.jobString>
+  <BM_SpacerEMPLauncherCombatModule_InstallAnimal.label>установить модуль EMP гранатомёта</BM_SpacerEMPLauncherCombatModule_InstallAnimal.label>
+  <BM_SpacerEMPLauncherCombatModule_InstallAnimal.description>Установить модуль EMP гранатомёта в слот боевого модуля части тела.</BM_SpacerEMPLauncherCombatModule_InstallAnimal.description>
+  <BM_SpacerEMPLauncherCombatModule_InstallAnimal.jobString>Установка модуля EMP гранатомёта.</BM_SpacerEMPLauncherCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerEMPLauncherCombatModule_InstallHuman.label>install EMP launcher module</BM_SpacerEMPLauncherCombatModule_InstallHuman.label>
-  <BM_SpacerEMPLauncherCombatModule_InstallHuman.description>Install an EMP launcher module into the body part's combat module slot.</BM_SpacerEMPLauncherCombatModule_InstallHuman.description>
-  <BM_SpacerEMPLauncherCombatModule_InstallHuman.jobString>Installing EMP launcher module.</BM_SpacerEMPLauncherCombatModule_InstallHuman.jobString>
+  <BM_SpacerEMPLauncherCombatModule_InstallHuman.label>установить модуль EMP гранатомёта</BM_SpacerEMPLauncherCombatModule_InstallHuman.label>
+  <BM_SpacerEMPLauncherCombatModule_InstallHuman.description>Установить модуль EMP гранатомёта в слот боевого модуля части тела.</BM_SpacerEMPLauncherCombatModule_InstallHuman.description>
+  <BM_SpacerEMPLauncherCombatModule_InstallHuman.jobString>Установка модуля EMP гранатомёта.</BM_SpacerEMPLauncherCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.label>remove EMP launcher module</BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.description>Remove EMP launcher module.</BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.jobString>Removing EMP launcher module.</BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.label>удалить модуль EMP гранатомёта</BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.description>Удалить модуль EMP гранатомёта.</BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.jobString>Удаление модуля EMP гранатомёта.</BM_SpacerEMPLauncherCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.label>install incendiary launcher module</BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.label>
-  <BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.description>Install an incendiary launcher module into the body part's combat module slot.</BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.description>
-  <BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.jobString>Installing incendiary launcher module.</BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.jobString>
+  <BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.label>установить модуль зажигательного гранатомёта</BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.label>
+  <BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.description>Установить модуль зажигательного гранатомёта в слот боевого модуля части тела.</BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.description>
+  <BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.jobString>Установка модуля зажигательного гранатомёта.</BM_SpacerIncendiaryLauncherCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.label>install incendiary launcher module</BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.label>
-  <BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.description>Install an incendiary launcher module into the body part's combat module slot.</BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.description>
-  <BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.jobString>Installing incendiary launcher module.</BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.jobString>
+  <BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.label>установить модуль зажигательного гранатомёта</BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.label>
+  <BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.description>Установить модуль зажигательного гранатомёта в слот боевого модуля части тела.</BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.description>
+  <BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.jobString>Установка модуля зажигательного гранатомёта.</BM_SpacerIncendiaryLauncherCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.label>remove incendiary launcher module</BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.description>Remove incendiary launcher module.</BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.jobString>Removing incendiary launcher module.</BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.label>удалить модуль зажигательного гранатомёта</BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.description>Удалить модуль зажигательного гранатомёта.</BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.jobString>Удаление модуля зажигательного гранатомёта.</BM_SpacerIncendiaryLauncherCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerSmokeLauncherCombatModule_InstallAnimal.label>install smoke launcher module</BM_SpacerSmokeLauncherCombatModule_InstallAnimal.label>
-  <BM_SpacerSmokeLauncherCombatModule_InstallAnimal.description>Install a smoke launcher module into the body part's combat module slot.</BM_SpacerSmokeLauncherCombatModule_InstallAnimal.description>
-  <BM_SpacerSmokeLauncherCombatModule_InstallAnimal.jobString>Installing smoke launcher module.</BM_SpacerSmokeLauncherCombatModule_InstallAnimal.jobString>
+  <BM_SpacerSmokeLauncherCombatModule_InstallAnimal.label>установить модуль дымового гранатомёта</BM_SpacerSmokeLauncherCombatModule_InstallAnimal.label>
+  <BM_SpacerSmokeLauncherCombatModule_InstallAnimal.description>Установить модуль дымового гранатомёта в слот боевого модуля части тела.</BM_SpacerSmokeLauncherCombatModule_InstallAnimal.description>
+  <BM_SpacerSmokeLauncherCombatModule_InstallAnimal.jobString>Установка модуля дымового гранатомёта.</BM_SpacerSmokeLauncherCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerSmokeLauncherCombatModule_InstallHuman.label>install smoke launcher module</BM_SpacerSmokeLauncherCombatModule_InstallHuman.label>
-  <BM_SpacerSmokeLauncherCombatModule_InstallHuman.description>Install a smoke launcher module into the body part's combat module slot.</BM_SpacerSmokeLauncherCombatModule_InstallHuman.description>
-  <BM_SpacerSmokeLauncherCombatModule_InstallHuman.jobString>Installing smoke launcher module.</BM_SpacerSmokeLauncherCombatModule_InstallHuman.jobString>
+  <BM_SpacerSmokeLauncherCombatModule_InstallHuman.label>установить модуль дымового гранатомёта</BM_SpacerSmokeLauncherCombatModule_InstallHuman.label>
+  <BM_SpacerSmokeLauncherCombatModule_InstallHuman.description>Установить модуль дымового гранатомёта в слот боевого модуля части тела.</BM_SpacerSmokeLauncherCombatModule_InstallHuman.description>
+  <BM_SpacerSmokeLauncherCombatModule_InstallHuman.jobString>Установка модуля дымового гранатомёта.</BM_SpacerSmokeLauncherCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.label>remove smoke launcher module</BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.description>Remove smoke launcher module.</BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.jobString>Removing smoke launcher module.</BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.label>удалить модуль дымового гранатомёта</BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.description>Удалить модуль дымового гранатомёта.</BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.jobString>Удаление модуля дымового гранатомёта.</BM_SpacerSmokeLauncherCombatModule_RemoveFromReplacement.jobString>
 
 
 </LanguageData>

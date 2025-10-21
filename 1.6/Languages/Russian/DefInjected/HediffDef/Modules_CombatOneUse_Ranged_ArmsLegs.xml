@@ -3,26 +3,26 @@
 
   <!-- orbital bombardment -->
 
-  <BM_SpacerOrbitalBombardmentAbilityModule.label>orbital bombardment module</BM_SpacerOrbitalBombardmentAbilityModule.label>
-  <BM_SpacerOrbitalBombardmentAbilityModule.description>An installed orbital bombardment ability module.</BM_SpacerOrbitalBombardmentAbilityModule.description>
-  <BM_SpacerOrbitalBombardmentAbilityModule.comps.0.verbs.0.label>orbital bombardment</BM_SpacerOrbitalBombardmentAbilityModule.comps.0.verbs.0.label>
-  <BM_SpacerOrbitalBombardmentAbilityModule.comps.0.verbProps.0.label>orbital bombardment</BM_SpacerOrbitalBombardmentAbilityModule.comps.0.verbProps.0.label>
+  <BM_SpacerOrbitalBombardmentAbilityModule.label>модуль орбитальной бомбардировки</BM_SpacerOrbitalBombardmentAbilityModule.label>
+  <BM_SpacerOrbitalBombardmentAbilityModule.description>Установленный модуль орбитальной бомбардировки.</BM_SpacerOrbitalBombardmentAbilityModule.description>
+  <BM_SpacerOrbitalBombardmentAbilityModule.comps.0.verbs.0.label>орбитальная бомбардировка</BM_SpacerOrbitalBombardmentAbilityModule.comps.0.verbs.0.label>
+  <BM_SpacerOrbitalBombardmentAbilityModule.comps.0.verbProps.0.label>орбитальная бомбардировка</BM_SpacerOrbitalBombardmentAbilityModule.comps.0.verbProps.0.label>
 
 
   <!-- orbital power beam -->
 
-  <BM_SpacerOrbitalPowerBeamAbilityModule.label>orbital power beam module</BM_SpacerOrbitalPowerBeamAbilityModule.label>
-  <BM_SpacerOrbitalPowerBeamAbilityModule.description>An installed orbital power beam ability module.</BM_SpacerOrbitalPowerBeamAbilityModule.description>
-  <BM_SpacerOrbitalPowerBeamAbilityModule.comps.0.verbs.0.label>orbital power beam</BM_SpacerOrbitalPowerBeamAbilityModule.comps.0.verbs.0.label>
-  <BM_SpacerOrbitalPowerBeamAbilityModule.comps.0.verbProps.0.label>orbital power beam</BM_SpacerOrbitalPowerBeamAbilityModule.comps.0.verbProps.0.label>
+  <BM_SpacerOrbitalPowerBeamAbilityModule.label>модуль орбитального силового луча</BM_SpacerOrbitalPowerBeamAbilityModule.label>
+  <BM_SpacerOrbitalPowerBeamAbilityModule.description>Установленный модуль орбитального силового луча.</BM_SpacerOrbitalPowerBeamAbilityModule.description>
+  <BM_SpacerOrbitalPowerBeamAbilityModule.comps.0.verbs.0.label>орбитальный силовой луч</BM_SpacerOrbitalPowerBeamAbilityModule.comps.0.verbs.0.label>
+  <BM_SpacerOrbitalPowerBeamAbilityModule.comps.0.verbProps.0.label>орбитальный силовой луч</BM_SpacerOrbitalPowerBeamAbilityModule.comps.0.verbProps.0.label>
 
 
   <!-- tornado generator -->
 
-  <BM_SpacerTornadoGeneratorAbilityModule.label>tornado generator module</BM_SpacerTornadoGeneratorAbilityModule.label>
-  <BM_SpacerTornadoGeneratorAbilityModule.description>An installed tornado generator ability module.</BM_SpacerTornadoGeneratorAbilityModule.description>
-  <BM_SpacerTornadoGeneratorAbilityModule.comps.0.verbs.0.label>tornado generator</BM_SpacerTornadoGeneratorAbilityModule.comps.0.verbs.0.label>
-  <BM_SpacerTornadoGeneratorAbilityModule.comps.0.verbProps.0.label>tornado generator</BM_SpacerTornadoGeneratorAbilityModule.comps.0.verbProps.0.label>
+  <BM_SpacerTornadoGeneratorAbilityModule.label>модуль генератора торнадо</BM_SpacerTornadoGeneratorAbilityModule.label>
+  <BM_SpacerTornadoGeneratorAbilityModule.description>Установленный модуль генератора торнадо.</BM_SpacerTornadoGeneratorAbilityModule.description>
+  <BM_SpacerTornadoGeneratorAbilityModule.comps.0.verbs.0.label>генератор торнадо</BM_SpacerTornadoGeneratorAbilityModule.comps.0.verbs.0.label>
+  <BM_SpacerTornadoGeneratorAbilityModule.comps.0.verbProps.0.label>генератор торнадо</BM_SpacerTornadoGeneratorAbilityModule.comps.0.verbProps.0.label>
 
 
 </LanguageData>

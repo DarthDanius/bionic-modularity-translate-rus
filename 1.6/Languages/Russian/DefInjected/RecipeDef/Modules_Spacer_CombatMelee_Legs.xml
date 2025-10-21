@@ -3,16 +3,16 @@
 
   <!-- Module -->
 
-  <BM_SpacerPowerKickCombatModule_InstallHuman.label>install power kick module</BM_SpacerPowerKickCombatModule_InstallHuman.label>
-  <BM_SpacerPowerKickCombatModule_InstallHuman.description>Install a power kick module into the body part's combat module slot.</BM_SpacerPowerKickCombatModule_InstallHuman.description>
-  <BM_SpacerPowerKickCombatModule_InstallHuman.jobString>Installing power kick module.</BM_SpacerPowerKickCombatModule_InstallHuman.jobString>
+  <BM_SpacerPowerKickCombatModule_InstallHuman.label>установить модуль силового удара</BM_SpacerPowerKickCombatModule_InstallHuman.label>
+  <BM_SpacerPowerKickCombatModule_InstallHuman.description>Установить модуль силового удара в слот боевого модуля части тела.</BM_SpacerPowerKickCombatModule_InstallHuman.description>
+  <BM_SpacerPowerKickCombatModule_InstallHuman.jobString>Установка модуля силового удара.</BM_SpacerPowerKickCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerPowerKickCombatModule_RemoveFromReplacement.label>remove power kick module</BM_SpacerPowerKickCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerPowerKickCombatModule_RemoveFromReplacement.description>Remove power kick module.</BM_SpacerPowerKickCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerPowerKickCombatModule_RemoveFromReplacement.jobString>Removing power kick module.</BM_SpacerPowerKickCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerPowerKickCombatModule_RemoveFromReplacement.label>удалить модуль силового удара</BM_SpacerPowerKickCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerPowerKickCombatModule_RemoveFromReplacement.description>Удалить модуль силового удара.</BM_SpacerPowerKickCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerPowerKickCombatModule_RemoveFromReplacement.jobString>Удаление модуля силового удара.</BM_SpacerPowerKickCombatModule_RemoveFromReplacement.jobString>
 
 
 </LanguageData>

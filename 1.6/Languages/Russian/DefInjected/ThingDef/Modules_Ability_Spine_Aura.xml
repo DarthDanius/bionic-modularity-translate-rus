@@ -3,32 +3,32 @@
 
   <!-- pyroprojector -->
 
-  <BM_SpacerPyroprojectorAbilityModule.label>pyroprojector module</BM_SpacerPyroprojectorAbilityModule.label>
-  <BM_SpacerPyroprojectorAbilityModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular module is capable of producing immense amounts of heat and trapping it in a bubble-like barrier it projects around its host, cooking and igniting everything within its range. While the user is safe from being directly affected by the implant when it's active, it will scorch both enemies and allies that do not possess sufficient protection from heat and fire.</BM_SpacerPyroprojectorAbilityModule.description>
+  <BM_SpacerPyroprojectorAbilityModule.label>модуль пиропроектора</BM_SpacerPyroprojectorAbilityModule.label>
+  <BM_SpacerPyroprojectorAbilityModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель позвоночника. Этот модуль способен производить огромное количество тепла и удерживать его в пузыреподобном барьере, который он проецирует вокруг носителя, поджаривая и воспламеняя всё в пределах своего радиуса. Хотя пользователь защищён от прямого воздействия импланта, когда он активен, он будет обжигать как врагов, так и союзников, не обладающих достаточной защитой от тепла и огня.</BM_SpacerPyroprojectorAbilityModule.description>
 
 
   <!-- magprojector -->
 
-  <BM_SpacerMagprojectorAbilityModule.label>magprojector module</BM_SpacerMagprojectorAbilityModule.label>
-  <BM_SpacerMagprojectorAbilityModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular model is capable of projecting a bubble-like barrier for the purpose of containing and intensifying electromagnetic disturbances that it emits when active, creating an area that's extremely harmful to electronic equipment. While the user is safe from being directly affected by the module, it will damage any nearby machinery and implants that are vulnerable to EMP attacks, regardless of who they belong to.</BM_SpacerMagprojectorAbilityModule.description>
+  <BM_SpacerMagprojectorAbilityModule.label>модуль магпроектора</BM_SpacerMagprojectorAbilityModule.label>
+  <BM_SpacerMagprojectorAbilityModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель позвоночника. Эта модель способна проецировать пузыреподобный барьер для сдерживания и усиления электромагнитных помех, которые она испускает при активности, создавая область, крайне вредную для электронного оборудования. Хотя пользователь защищён от прямого воздействия модуля, он будет повреждать любую nearby технику и импланты, уязвимые к EMP-атакам, независимо от их принадлежности.</BM_SpacerMagprojectorAbilityModule.description>
 
 
   <!-- medprojector -->
 
-  <BM_SpacerMedprojectorAbilityModule.label>medprojector module</BM_SpacerMedprojectorAbilityModule.label>
-  <BM_SpacerMedprojectorAbilityModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular module is capable of projecting a bubble-like barrier for the purpose of containing the swarm of healing nanites and aerosolized glitterworld drugs that it releases when active. Anyone within its range will slowly have their non-permanent wounds and injuries healed. Needs to be loaded with glitterworld medicine in order to function.</BM_SpacerMedprojectorAbilityModule.description>
+  <BM_SpacerMedprojectorAbilityModule.label>модуль медпроектора</BM_SpacerMedprojectorAbilityModule.label>
+  <BM_SpacerMedprojectorAbilityModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель позвоночника. Этот модуль способен проецировать пузыреподобный барьер для сдерживания роя лечащих нанитов и аэрозолизированных лекарств с блестящих миров, которые он выпускает при активности. Любой в пределах его радиуса будет медленно излечивать свои непостоянные раны и повреждения. Для работы требуется загрузка лекарств с блестящих миров.</BM_SpacerMedprojectorAbilityModule.description>
 
 
   <!-- radprojector -->
 
-  <BM_SpacerRadprojectorAbilityModule.label>radprojector module</BM_SpacerRadprojectorAbilityModule.label>
-  <BM_SpacerRadprojectorAbilityModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular module is capable of producing immense amounts of harmful radiation and trapping it in a bubble-like barrier it projects around its host, poisoning everyone within its range. While the user is safe from being directly affected by the implant when it's active, it will hurt both enemies and allies that do not possess sufficient protection.</BM_SpacerRadprojectorAbilityModule.description>
+  <BM_SpacerRadprojectorAbilityModule.label>модуль радпроектора</BM_SpacerRadprojectorAbilityModule.label>
+  <BM_SpacerRadprojectorAbilityModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель позвоночника. Этот модуль способен производить огромное количество вредной радиации и удерживать её в пузыреподобном барьере, который он проецирует вокруг носителя, отравляя всех в пределах своего радиуса. Хотя пользователь защищён от прямого воздействия импланта, когда он активен, он будет вредить как врагам, так и союзникам, не обладающим достаточной защитой.</BM_SpacerRadprojectorAbilityModule.description>
 
 
   <!-- cryoprojector -->
 
-  <BM_SpacerCryoprojectorAbilityModule.label>cryoprojector module</BM_SpacerCryoprojectorAbilityModule.label>
-  <BM_SpacerCryoprojectorAbilityModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular module is capable of producing immense amounts of a cryogenic microgas and trapping it in a bubble-like barrier it projects around its host, slowly freezing everything within its range. While the user is safe from being directly affected by the implant when it's active, it will harm both enemies and allies that do not possess sufficient protection.</BM_SpacerCryoprojectorAbilityModule.description>
+  <BM_SpacerCryoprojectorAbilityModule.label>модуль криопроектора</BM_SpacerCryoprojectorAbilityModule.label>
+  <BM_SpacerCryoprojectorAbilityModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель позвоночника. Этот модуль способен производить огромное количество криогенного микрогаза и удерживать его в пузыреподобном барьере, который он проецирует вокруг носителя, медленно замораживая всё в пределах своего радиуса. Хотя пользователь защищён от прямого воздействия импланта, когда он активен, он будет вредить как врагам, так и союзникам, не обладающим достаточной защитой.</BM_SpacerCryoprojectorAbilityModule.description>
 
 
 </LanguageData>

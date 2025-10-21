@@ -3,8 +3,8 @@
 
   <!-- smoke spewer module -->
 
-  <BM_SpacerSmokeSpewerAbilityModule.label>smoke spewer module</BM_SpacerSmokeSpewerAbilityModule.label>
-  <BM_SpacerSmokeSpewerAbilityModule.description>An installed smoke spewer ability module.</BM_SpacerSmokeSpewerAbilityModule.description>
+  <BM_SpacerSmokeSpewerAbilityModule.label>дымовой модуль</BM_SpacerSmokeSpewerAbilityModule.label>
+  <BM_SpacerSmokeSpewerAbilityModule.description>Установленный дымовой модуль.</BM_SpacerSmokeSpewerAbilityModule.description>
 
 
 </LanguageData>

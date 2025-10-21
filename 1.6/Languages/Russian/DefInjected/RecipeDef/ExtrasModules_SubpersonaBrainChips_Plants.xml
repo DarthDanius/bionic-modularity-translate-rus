@@ -3,20 +3,20 @@
 
   <!-- Implant production [Biotech required] -->
 
-  <BM_SpacerBotanistSubpersonaChip_Produce.label>make botanist subpersona</BM_SpacerBotanistSubpersonaChip_Produce.label>
-  <BM_SpacerBotanistSubpersonaChip_Produce.description>Make a botanist subpersona.</BM_SpacerBotanistSubpersonaChip_Produce.description>
-  <BM_SpacerBotanistSubpersonaChip_Produce.jobString>Making botanist subpersona.</BM_SpacerBotanistSubpersonaChip_Produce.jobString>
+  <BM_SpacerBotanistSubpersonaChip_Produce.label>создать подличность ботаника</BM_SpacerBotanistSubpersonaChip_Produce.label>
+  <BM_SpacerBotanistSubpersonaChip_Produce.description>Создать подличность ботаника.</BM_SpacerBotanistSubpersonaChip_Produce.description>
+  <BM_SpacerBotanistSubpersonaChip_Produce.jobString>Создание подличности ботаника.</BM_SpacerBotanistSubpersonaChip_Produce.jobString>
 
 
   <!-- Implant Installation -->
 
-  <Install_BM_SpacerBotanistSubpersonaChip.label>install botanist subpersona</Install_BM_SpacerBotanistSubpersonaChip.label>
-  <Install_BM_SpacerBotanistSubpersonaChip.description>Install botanist subpersona.</Install_BM_SpacerBotanistSubpersonaChip.description>
-  <Install_BM_SpacerBotanistSubpersonaChip.jobString>Installing botanist subpersona.</Install_BM_SpacerBotanistSubpersonaChip.jobString>
+  <Install_BM_SpacerBotanistSubpersonaChip.label>установить подличность ботаника</Install_BM_SpacerBotanistSubpersonaChip.label>
+  <Install_BM_SpacerBotanistSubpersonaChip.description>Установить подличность ботаника.</Install_BM_SpacerBotanistSubpersonaChip.description>
+  <Install_BM_SpacerBotanistSubpersonaChip.jobString>Установка подличности ботаника.</Install_BM_SpacerBotanistSubpersonaChip.jobString>
 
-  <Remove_BM_SpacerBotanistSubpersonaChip.label>remove botanist subpersona</Remove_BM_SpacerBotanistSubpersonaChip.label>
-  <Remove_BM_SpacerBotanistSubpersonaChip.description>Remove botanist subpersona.</Remove_BM_SpacerBotanistSubpersonaChip.description>
-  <Remove_BM_SpacerBotanistSubpersonaChip.jobString>Removing botanist subpersona.</Remove_BM_SpacerBotanistSubpersonaChip.jobString>
+  <Remove_BM_SpacerBotanistSubpersonaChip.label>удалить подличность ботаника</Remove_BM_SpacerBotanistSubpersonaChip.label>
+  <Remove_BM_SpacerBotanistSubpersonaChip.description>Удалить подличность ботаника.</Remove_BM_SpacerBotanistSubpersonaChip.description>
+  <Remove_BM_SpacerBotanistSubpersonaChip.jobString>Удаление подличности ботаника.</Remove_BM_SpacerBotanistSubpersonaChip.jobString>
 
 
 </LanguageData>

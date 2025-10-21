@@ -3,20 +3,20 @@
 
   <!-- flashlight -->
 
-  <BM_SpacerFlashlightUtilityModule.label>flashlight module</BM_SpacerFlashlightUtilityModule.label>
-  <BM_SpacerFlashlightUtilityModule.description>A high-tech device that can be installed into an ear or any compatible ear replacement. This particular module acts as a compact and portable flashlight which makes sitting around in darkness slightly less upsetting.</BM_SpacerFlashlightUtilityModule.description>
+  <BM_SpacerFlashlightUtilityModule.label>утилитарный модуль фонаря</BM_SpacerFlashlightUtilityModule.label>
+  <BM_SpacerFlashlightUtilityModule.description>Высокотехнологичное устройство, которое можно установить в ухо или любую совместимую замену уха. Этот конкретный модуль действует как компактный и портативный фонарь, который делает нахождение в темноте немного менее удручающим.</BM_SpacerFlashlightUtilityModule.description>
 
 
   <!-- tunenode -->
 
-  <BM_SpacerTunenodeUtilityModule.label>tunenode module</BM_SpacerTunenodeUtilityModule.label>
-  <BM_SpacerTunenodeUtilityModule.description>A high-tech device that can be installed into an ear or any compatible ear replacement. This particular model is equipped with a compact comms array calibrated to receive audio data such as music. The sources of the data often vary, a mix of melodies from ancient satellite constructs, radio stations from neighboring planets and distant glitterworlds creates a very unique listening experience.</BM_SpacerTunenodeUtilityModule.description>
+  <BM_SpacerTunenodeUtilityModule.label>утилитарный модуль аудиоузла</BM_SpacerTunenodeUtilityModule.label>
+  <BM_SpacerTunenodeUtilityModule.description>Высокотехнологичное устройство, которое можно установить в ухо или любую совместимую замену уха. Эта конкретная модель оснащена компактной коммуникационной решёткой, настроенной на приём аудиоданных, таких как музыка. Источники данных часто различаются - смесь мелодий с древних спутниковых конструкций, радиостанций с соседних планет и далёких сверкающих миров создаёт уникальный аудиоопыт.</BM_SpacerTunenodeUtilityModule.description>
 
 
   <!-- echolocation -->
 
-  <BM_SpacerEcholocationUtilityModule.label>echolocation module</BM_SpacerEcholocationUtilityModule.label>
-  <BM_SpacerEcholocationUtilityModule.description>A high-tech device that can be installed into an ear or any compatible ear replacement. This particular module is capable of gathering data through an echolocation-like process and sending it directly to the brain. It is then received in a form of a subconscious understanding of the surrounding area, including objects outside of one's field of view.</BM_SpacerEcholocationUtilityModule.description>
+  <BM_SpacerEcholocationUtilityModule.label>утилитарный модуль эхолокации</BM_SpacerEcholocationUtilityModule.label>
+  <BM_SpacerEcholocationUtilityModule.description>Высокотехнологичное устройство, которое можно установить в ухо или любую совместимую замену уха. Этот конкретный модуль способен собирать данные с помощью процесса, похожего на эхолокацию, и отправлять их непосредственно в мозг. Они воспринимаются в виде подсознательного понимания окружающей территории, включая объекты вне поля зрения.</BM_SpacerEcholocationUtilityModule.description>
 
 
 </LanguageData>

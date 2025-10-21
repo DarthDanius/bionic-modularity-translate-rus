@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Bionic modularity</name>
+	<name>Bionic modularity (Russion translate)</name>
 	<packageId>MrKociak.YABEMBionicModularity</packageId>
 	<author>MrKociak</author>
 	<supportedVersions>
@@ -29,5 +29,5 @@
 		<li>vat.epoeforked</li>
 	</loadBefore>
 	<incompatibleWith></incompatibleWith>
-	<description>Adds a variety of add-ons for your bionics.</description>
+	<description>Добавляет разнообразные дополнения для ваших бионических имплантов.</description>
 </ModMetaData>

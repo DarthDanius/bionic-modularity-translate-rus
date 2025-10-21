@@ -3,18 +3,18 @@
 
   <!-- frag grenade -->
 
-  <BM_SpacerFragGrenadeCombatModule.label>frag grenade module</BM_SpacerFragGrenadeCombatModule.label>
-  <BM_SpacerFragGrenadeCombatModule.description>An installed frag grenade combat module.</BM_SpacerFragGrenadeCombatModule.description>
-  <BM_SpacerFragGrenadeCombatModule.comps.0.verbs.0.label>frag grenade</BM_SpacerFragGrenadeCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerFragGrenadeCombatModule.comps.0.verbProps.0.label>frag grenade</BM_SpacerFragGrenadeCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerFragGrenadeCombatModule.label>модуль осколочной гранаты</BM_SpacerFragGrenadeCombatModule.label>
+  <BM_SpacerFragGrenadeCombatModule.description>Установленный боевой модуль осколочной гранаты.</BM_SpacerFragGrenadeCombatModule.description>
+  <BM_SpacerFragGrenadeCombatModule.comps.0.verbs.0.label>осколочная граната</BM_SpacerFragGrenadeCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerFragGrenadeCombatModule.comps.0.verbProps.0.label>осколочная граната</BM_SpacerFragGrenadeCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- EMP grenade -->
 
-  <BM_SpacerEMPGrenadeCombatModule.label>EMP grenade module</BM_SpacerEMPGrenadeCombatModule.label>
-  <BM_SpacerEMPGrenadeCombatModule.description>An installed EMP grenade combat module.</BM_SpacerEMPGrenadeCombatModule.description>
-  <BM_SpacerEMPGrenadeCombatModule.comps.0.verbs.0.label>EMP grenade</BM_SpacerEMPGrenadeCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerEMPGrenadeCombatModule.comps.0.verbProps.0.label>EMP grenade</BM_SpacerEMPGrenadeCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerEMPGrenadeCombatModule.label>модуль ЭМИ гранаты</BM_SpacerEMPGrenadeCombatModule.label>
+  <BM_SpacerEMPGrenadeCombatModule.description>Установленный боевой модуль ЭМИ гранаты.</BM_SpacerEMPGrenadeCombatModule.description>
+  <BM_SpacerEMPGrenadeCombatModule.comps.0.verbs.0.label>ЭМИ граната</BM_SpacerEMPGrenadeCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerEMPGrenadeCombatModule.comps.0.verbProps.0.label>ЭМИ граната</BM_SpacerEMPGrenadeCombatModule.comps.0.verbProps.0.label>
 
 
 </LanguageData>

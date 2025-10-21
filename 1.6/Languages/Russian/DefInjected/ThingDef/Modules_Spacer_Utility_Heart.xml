@@ -3,20 +3,20 @@
 
   <!-- hemofilter -->
 
-  <BM_SpacerHemofilterUtilityModule.label>hemofilter module</BM_SpacerHemofilterUtilityModule.label>
-  <BM_SpacerHemofilterUtilityModule.description>A high-tech device that can be installed into a heart or any compatible artificial heart replacement. This particular model is equipped with a variety of advanced filters that help break down and eliminate harmful elements from the host’s blood.</BM_SpacerHemofilterUtilityModule.description>
+  <BM_SpacerHemofilterUtilityModule.label>утилитарный модуль гемофильтра</BM_SpacerHemofilterUtilityModule.label>
+  <BM_SpacerHemofilterUtilityModule.description>Высокотехнологичное устройство, которое можно установить в сердце или любую совместимую искусственную замену сердца. Эта конкретная модель оснащена рядом продвинутых фильтров, которые помогают расщеплять и устранять вредные элементы из крови носителя.</BM_SpacerHemofilterUtilityModule.description>
 
 
   <!-- biowelder -->
 
-  <BM_SpacerBiowelderUtilityModule.label>biowelder module</BM_SpacerBiowelderUtilityModule.label>
-  <BM_SpacerBiowelderUtilityModule.description>A high-tech device that can be installed into a heart or any any compatible artificial heart replacement. This particular model frequently releases a small swarm of biowelder mechanites throughout the host's body, greatly increasing the rate at which their wounds heal.</BM_SpacerBiowelderUtilityModule.description>
+  <BM_SpacerBiowelderUtilityModule.label>утилитарный модуль биосварки</BM_SpacerBiowelderUtilityModule.label>
+  <BM_SpacerBiowelderUtilityModule.description>Высокотехнологичное устройство, которое можно установить в сердце или любую совместимую искусственную замену сердца. Эта конкретная модель периодически выпускает небольшой рой механитов-биосварщиков по всему телу носителя, значительно увеличивая скорость заживления ран.</BM_SpacerBiowelderUtilityModule.description>
 
 
   <!-- coagulator -->
 
-  <BM_SpacerCoagulatorUtilityModule.label>coagulator module</BM_SpacerCoagulatorUtilityModule.label>
-  <BM_SpacerCoagulatorUtilityModule.description>A high-tech device that can be installed into a heart or any any compatible artificial heart replacement. This particular model releases coagulating factors in response to blood loss, reducing bleeding rate significantly.</BM_SpacerCoagulatorUtilityModule.description>
+  <BM_SpacerCoagulatorUtilityModule.label>утилитарный модуль коагулятора</BM_SpacerCoagulatorUtilityModule.label>
+  <BM_SpacerCoagulatorUtilityModule.description>Высокотехнологичное устройство, которое можно установить в сердце или любую совместимую искусственную замену сердца. Эта конкретная модель выпускает коагулирующие факторы в ответ на кровопотерю, значительно снижая скорость кровотечения.</BM_SpacerCoagulatorUtilityModule.description>
 
 
 </LanguageData>

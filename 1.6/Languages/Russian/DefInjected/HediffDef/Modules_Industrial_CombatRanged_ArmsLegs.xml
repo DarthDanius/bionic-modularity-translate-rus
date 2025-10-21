@@ -3,10 +3,10 @@
 
   <!-- autopistol -->
 
-  <BM_SpacerAutopistolCombatModule.label>autopistol module</BM_SpacerAutopistolCombatModule.label>
-  <BM_SpacerAutopistolCombatModule.description>An installed autopistol combat module.</BM_SpacerAutopistolCombatModule.description>
-  <BM_SpacerAutopistolCombatModule.comps.0.verbs.0.label>autopistol</BM_SpacerAutopistolCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerAutopistolCombatModule.comps.0.verbProps.0.label>autopistol</BM_SpacerAutopistolCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerAutopistolCombatModule.label>модуль автопистолета</BM_SpacerAutopistolCombatModule.label>
+  <BM_SpacerAutopistolCombatModule.description>Установленный боевой модуль автопистолета.</BM_SpacerAutopistolCombatModule.description>
+  <BM_SpacerAutopistolCombatModule.comps.0.verbs.0.label>автопистолет</BM_SpacerAutopistolCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerAutopistolCombatModule.comps.0.verbProps.0.label>автопистолет</BM_SpacerAutopistolCombatModule.comps.0.verbProps.0.label>
 
 
 </LanguageData>

@@ -3,14 +3,14 @@
 
   <!-- Chempower -->
 
-  <BM_SpacerChempowerPowerModule.label>chempower module</BM_SpacerChempowerPowerModule.label>
-  <BM_SpacerChempowerPowerModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular model is capable of greatly enhancing its host's body by supplying it with additional energy produced by a miniature chemfuel generator. It has to be regularly fueled with chemfuel in order to function.</BM_SpacerChempowerPowerModule.description>
+  <BM_SpacerChempowerPowerModule.label>химэнергомодуль</BM_SpacerChempowerPowerModule.label>
+  <BM_SpacerChempowerPowerModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель позвоночника. Эта модель способна значительно усиливать тело носителя, снабжая его дополнительной энергией, производимой миниатюрным генератором на химтопливе. Для работы требуется регулярная заправка химтопливом.</BM_SpacerChempowerPowerModule.description>
 
 
   <!-- Atomipower -->
 
-  <BM_SpacerAtomipowerPowerModule.label>atompower module</BM_SpacerAtomipowerPowerModule.label>
-  <BM_SpacerAtomipowerPowerModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular model is capable of greatly enhancing its host's body by supplying it with additional energy produced by a miniature nuclear generator. It has to be regularly fueled with uranium in order to function.</BM_SpacerAtomipowerPowerModule.description>
+  <BM_SpacerAtomipowerPowerModule.label>атомэнергомодуль</BM_SpacerAtomipowerPowerModule.label>
+  <BM_SpacerAtomipowerPowerModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель позвоночника. Эта модель способна значительно усиливать тело носителя, снабжая его дополнительной энергией, производимой миниатюрным ядерным генератором. Для работы требуется регулярная заправка ураном.</BM_SpacerAtomipowerPowerModule.description>
 
 
 </LanguageData>

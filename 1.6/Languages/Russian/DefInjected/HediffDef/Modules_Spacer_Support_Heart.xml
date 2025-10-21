@@ -3,8 +3,8 @@
 
   <!-- resurrector -->
 
-  <BM_SpacerResurrectorSupportModule.label>resurrector module</BM_SpacerResurrectorSupportModule.label>
-  <BM_SpacerResurrectorSupportModule.description>An installed resurrector module.</BM_SpacerResurrectorSupportModule.description>
+  <BM_SpacerResurrectorSupportModule.label>модуль воскрешения</BM_SpacerResurrectorSupportModule.label>
+  <BM_SpacerResurrectorSupportModule.description>Установленный модуль воскрешения.</BM_SpacerResurrectorSupportModule.description>
 
 
 </LanguageData>

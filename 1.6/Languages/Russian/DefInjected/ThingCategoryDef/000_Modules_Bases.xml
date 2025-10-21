@@ -3,17 +3,17 @@
 
   <!-- Categories -->
 
-  <BM_BionicModules.label>bionic modules</BM_BionicModules.label>
+  <BM_BionicModules.label>бионические модули</BM_BionicModules.label>
 
 
   <!-- Subcategories, based on slots -->
 
-  <BM_BionicModules_UtilitySlot.label>utility slot modules</BM_BionicModules_UtilitySlot.label>
-  <BM_BionicModules_WorkSlot.label>work slot modules</BM_BionicModules_WorkSlot.label>
-  <BM_BionicModules_CombatSlot.label>combat slot modules</BM_BionicModules_CombatSlot.label>
-  <BM_BionicModules_SupportSlot.label>support slot modules</BM_BionicModules_SupportSlot.label>
-  <BM_BionicModules_AbilitySlot.label>ability slot modules</BM_BionicModules_AbilitySlot.label>
-  <BM_BionicModules_PowerSlot.label>power slot modules</BM_BionicModules_PowerSlot.label>
+  <BM_BionicModules_UtilitySlot.label>утилитарные модули</BM_BionicModules_UtilitySlot.label>
+  <BM_BionicModules_WorkSlot.label>рабочие модули</BM_BionicModules_WorkSlot.label>
+  <BM_BionicModules_CombatSlot.label>боевые модули</BM_BionicModules_CombatSlot.label>
+  <BM_BionicModules_SupportSlot.label>поддерживающие модули</BM_BionicModules_SupportSlot.label>
+  <BM_BionicModules_AbilitySlot.label>модули способностей</BM_BionicModules_AbilitySlot.label>
+  <BM_BionicModules_PowerSlot.label>энергомодули</BM_BionicModules_PowerSlot.label>
 
 
 </LanguageData>

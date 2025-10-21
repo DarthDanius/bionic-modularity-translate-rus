@@ -3,68 +3,68 @@
 
   <!-- Module -->
 
-  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal.label>install powerslash horn module</BM_SpacerPowerSlashHornCombatModule_InstallAnimal.label>
-  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal.description>Install a powerslash horn module into the body part's combat module slot.</BM_SpacerPowerSlashHornCombatModule_InstallAnimal.description>
-  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal.jobString>Installing powerslash horn module.</BM_SpacerPowerSlashHornCombatModule_InstallAnimal.jobString>
+  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal.label>установить модуль силового режущего рога</BM_SpacerPowerSlashHornCombatModule_InstallAnimal.label>
+  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal.description>Установить модуль силового режущего рога в слот боевого модуля части тела.</BM_SpacerPowerSlashHornCombatModule_InstallAnimal.description>
+  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal.jobString>Установка модуля силового режущего рога.</BM_SpacerPowerSlashHornCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerPowerSlashHornCombatModule_InstallHuman.label>install powerslash horn module</BM_SpacerPowerSlashHornCombatModule_InstallHuman.label>
-  <BM_SpacerPowerSlashHornCombatModule_InstallHuman.description>Install a powerslash horn module into the body part's combat module slot.</BM_SpacerPowerSlashHornCombatModule_InstallHuman.description>
-  <BM_SpacerPowerSlashHornCombatModule_InstallHuman.jobString>Installing powerslash horn module.</BM_SpacerPowerSlashHornCombatModule_InstallHuman.jobString>
+  <BM_SpacerPowerSlashHornCombatModule_InstallHuman.label>установить модуль силового режущего рога</BM_SpacerPowerSlashHornCombatModule_InstallHuman.label>
+  <BM_SpacerPowerSlashHornCombatModule_InstallHuman.description>Установить модуль силового режущего рога в слот боевого модуля части тела.</BM_SpacerPowerSlashHornCombatModule_InstallHuman.description>
+  <BM_SpacerPowerSlashHornCombatModule_InstallHuman.jobString>Установка модуля силового режущего рога.</BM_SpacerPowerSlashHornCombatModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.label>install powerslash horn module.</BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.label>
-  <BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.description>Install a powerslash horn module into the body part's combat module slot.</BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.description>
-  <BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.jobString>Installing powerslash horn module.</BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.jobString>
+  <BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.label>установить модуль силового режущего рога</BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.label>
+  <BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.description>Установить модуль силового режущего рога в слот боевого модуля части тела.</BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.description>
+  <BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.jobString>Установка модуля силового режущего рога.</BM_SpacerPowerSlashHornCombatModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.label>install powerslash horn module.</BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.label>
-  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.description>Install a powerslash horn module into the body part's combat module slot.</BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.description>
-  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.jobString>Installing powerslash horn module.</BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.label>установить модуль силового режущего рога</BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.label>
+  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.description>Установить модуль силового режущего рога в слот боевого модуля части тела.</BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.description>
+  <BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.jobString>Установка модуля силового режущего рога.</BM_SpacerPowerSlashHornCombatModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.label>remove powerslash horn module</BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.description>Remove powerslash horn module.</BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.jobString>Removing powerslash horn module.</BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.label>удалить модуль силового режущего рога</BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.description>Удалить модуль силового режущего рога.</BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.jobString>Удаление модуля силового режущего рога.</BM_SpacerPowerSlashHornCombatModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.label>remove powerslash horn module</BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.label>
-  <BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.description>Remove powerslash horn module.</BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.description>
-  <BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.jobString>Removing powerslash horn module.</BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.jobString>
+  <BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.label>удалить модуль силового режущего рога</BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.label>
+  <BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.description>Удалить модуль силового режущего рога.</BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.description>
+  <BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.jobString>Удаление модуля силового режущего рога.</BM_SpacerPowerSlashHornCombatModule_RemoveFromNatural.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.label>install powerstrike horn module</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.label>
-  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.description>Install a powerstrike horn module into the body part's combat module slot.</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.description>
-  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.jobString>Installing powerstrike horn module.</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.jobString>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.label>установить модуль силового ударного рога</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.label>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.description>Установить модуль силового ударного рога в слот боевого модуля части тела.</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.description>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.jobString>Установка модуля силового ударного рога.</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman.label>install powerstrike horn module</BM_SpacerPowerStrikeHornCombatModule_InstallHuman.label>
-  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman.description>Install a powerstrike horn module into the body part's combat module slot.</BM_SpacerPowerStrikeHornCombatModule_InstallHuman.description>
-  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman.jobString>Installing powerstrike horn module.</BM_SpacerPowerStrikeHornCombatModule_InstallHuman.jobString>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman.label>установить модуль силового ударного рога</BM_SpacerPowerStrikeHornCombatModule_InstallHuman.label>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman.description>Установить модуль силового ударного рога в слот боевого модуля части тела.</BM_SpacerPowerStrikeHornCombatModule_InstallHuman.description>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman.jobString>Установка модуля силового ударного рога.</BM_SpacerPowerStrikeHornCombatModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.label>install powerstrike horn module.</BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.label>
-  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.description>Install a powerstrike horn module into the body part's combat module slot.</BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.description>
-  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.jobString>Installing powerstrike horn module.</BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.jobString>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.label>установить модуль силового ударного рога</BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.label>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.description>Установить модуль силового ударного рога в слот боевого модуля части тела.</BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.description>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.jobString>Установка модуля силового ударного рога.</BM_SpacerPowerStrikeHornCombatModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.label>install powerstrike horn module.</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.label>
-  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.description>Install a powerstrike horn module into the body part's combat module slot.</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.description>
-  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.jobString>Installing powerstrike horn module.</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.label>установить модуль силового ударного рога</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.label>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.description>Установить модуль силового ударного рога в слот боевого модуля части тела.</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.description>
+  <BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.jobString>Установка модуля силового ударного рога.</BM_SpacerPowerStrikeHornCombatModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.label>remove powerstrike horn module</BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.description>Remove powerstrike horn module.</BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.jobString>Removing powerstrike horn module.</BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.label>удалить модуль силового ударного рога</BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.description>Удалить модуль силового ударного рога.</BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.jobString>Удаление модуля силового ударного рога.</BM_SpacerPowerStrikeHornCombatModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.label>remove powerstrike horn module</BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.label>
-  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.description>Remove powerstrike horn module.</BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.description>
-  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.jobString>Removing powerstrike horn module.</BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.jobString>
+  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.label>удалить модуль силового ударного рога</BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.label>
+  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.description>Удалить модуль силового ударного рога.</BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.description>
+  <BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.jobString>Удаление модуля силового ударного рога.</BM_SpacerPowerStrikeHornCombatModule_RemoveFromNatural.jobString>
 
 
 </LanguageData>

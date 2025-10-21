@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <BM_SmokeSilent.label>smoke</BM_SmokeSilent.label>
-  <BM_SmokeSilent.deathMessage>{0} has been killed.</BM_SmokeSilent.deathMessage>
-
+  <BM_SmokeSilent.label>дым</BM_SmokeSilent.label>
+  <BM_SmokeSilent.deathMessage>{0} был(а) убит(а).</BM_SmokeSilent.deathMessage>
 
 </LanguageData>

@@ -3,20 +3,20 @@
 
   <!-- Implant production [Biotech required] -->
 
-  <BM_SpacerMinerSubpersonaChip_Produce.label>make miner subpersona</BM_SpacerMinerSubpersonaChip_Produce.label>
-  <BM_SpacerMinerSubpersonaChip_Produce.description>Make a miner subpersona.</BM_SpacerMinerSubpersonaChip_Produce.description>
-  <BM_SpacerMinerSubpersonaChip_Produce.jobString>Making miner subpersona.</BM_SpacerMinerSubpersonaChip_Produce.jobString>
+  <BM_SpacerMinerSubpersonaChip_Produce.label>создать подличность шахтера</BM_SpacerMinerSubpersonaChip_Produce.label>
+  <BM_SpacerMinerSubpersonaChip_Produce.description>Создать подличность шахтера.</BM_SpacerMinerSubpersonaChip_Produce.description>
+  <BM_SpacerMinerSubpersonaChip_Produce.jobString>Создание подличности шахтера.</BM_SpacerMinerSubpersonaChip_Produce.jobString>
 
 
   <!-- Implant Installation -->
 
-  <Install_BM_SpacerMinerSubpersonaChip.label>install miner subpersona</Install_BM_SpacerMinerSubpersonaChip.label>
-  <Install_BM_SpacerMinerSubpersonaChip.description>Install miner subpersona.</Install_BM_SpacerMinerSubpersonaChip.description>
-  <Install_BM_SpacerMinerSubpersonaChip.jobString>Installing miner subpersona.</Install_BM_SpacerMinerSubpersonaChip.jobString>
+  <Install_BM_SpacerMinerSubpersonaChip.label>установить подличность шахтера</Install_BM_SpacerMinerSubpersonaChip.label>
+  <Install_BM_SpacerMinerSubpersonaChip.description>Установить подличность шахтера.</Install_BM_SpacerMinerSubpersonaChip.description>
+  <Install_BM_SpacerMinerSubpersonaChip.jobString>Установка подличности шахтера.</Install_BM_SpacerMinerSubpersonaChip.jobString>
 
-  <Remove_BM_SpacerMinerSubpersonaChip.label>remove miner subpersona</Remove_BM_SpacerMinerSubpersonaChip.label>
-  <Remove_BM_SpacerMinerSubpersonaChip.description>Remove miner subpersona.</Remove_BM_SpacerMinerSubpersonaChip.description>
-  <Remove_BM_SpacerMinerSubpersonaChip.jobString>Removing miner subpersona.</Remove_BM_SpacerMinerSubpersonaChip.jobString>
+  <Remove_BM_SpacerMinerSubpersonaChip.label>удалить подличность шахтера</Remove_BM_SpacerMinerSubpersonaChip.label>
+  <Remove_BM_SpacerMinerSubpersonaChip.description>Удалить подличность шахтера.</Remove_BM_SpacerMinerSubpersonaChip.description>
+  <Remove_BM_SpacerMinerSubpersonaChip.jobString>Удаление подличности шахтера.</Remove_BM_SpacerMinerSubpersonaChip.jobString>
 
 
 </LanguageData>

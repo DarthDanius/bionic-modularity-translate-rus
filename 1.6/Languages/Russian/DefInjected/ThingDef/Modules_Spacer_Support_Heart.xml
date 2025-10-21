@@ -3,8 +3,8 @@
 
   <!-- resurrector -->
 
-  <BM_SpacerResurrectorSupportModule.label>resurrector module</BM_SpacerResurrectorSupportModule.label>
-  <BM_SpacerResurrectorSupportModule.description>A high-tech device that can be installed into a heart or any compatible artificial heart replacement. This particular module is capable of reviving its host. The resurrection process begins shortly after death and might take a few hours or up to a few days depending on the state of the body, damage and decay caused by diseases or toxins slows down the process significantly, but causes no further complications. It needs to be loaded with a resurrector mech serum in order to work, a single serum can supply the implant with enough mechanites to perform two resurrections.</BM_SpacerResurrectorSupportModule.description>
+  <BM_SpacerResurrectorSupportModule.label>модуль воскресителя</BM_SpacerResurrectorSupportModule.label>
+  <BM_SpacerResurrectorSupportModule.description>Высокотехнологичное устройство, которое можно установить в сердце или любой совместимый искусственный заменитель сердца. Этот модуль способен воскрешать своего носителя. Процесс воскрешения начинается вскоре после смерти и может занять несколько часов или до нескольких дней в зависимости от состояния тела - повреждения и разложение, вызванные болезнями или токсинами, значительно замедляют процесс, но не вызывают дальнейших осложнений. Для работы требуется загрузка мех-сыворотки воскрешения - одной сыворотки достаточно, чтобы снабдить имплант механитами для двух воскрешений.</BM_SpacerResurrectorSupportModule.description>
 
 
 </LanguageData>

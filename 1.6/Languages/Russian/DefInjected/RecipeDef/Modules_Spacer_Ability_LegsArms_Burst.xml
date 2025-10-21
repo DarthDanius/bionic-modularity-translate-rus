@@ -3,72 +3,72 @@
 
   <!-- Module -->
 
-  <BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.label>install high-explosive burst module</BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.label>
-  <BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.description>Install a high-explosive burst module into the body part's ability module slot.</BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.description>
-  <BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.jobString>Installing high-explosive burst module.</BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.jobString>
+  <BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.label>установить модуль фугасного взрыва</BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.label>
+  <BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.description>Установить модуль фугасного взрыва в слот модуля способностей части тела.</BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.description>
+  <BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.jobString>Установка модуля фугасного взрыва.</BM_SpacerHighExplosiveBurstAbilityModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.label>remove high-explosive burst module</BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.label>
-  <BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.description>Remove high-explosive burst module.</BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.description>
-  <BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.jobString>Removing high-explosive burst module.</BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.label>удалить модуль фугасного взрыва</BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.description>Удалить модуль фугасного взрыва.</BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.jobString>Удаление модуля фугасного взрыва.</BM_SpacerHighExplosiveBurstAbilityModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerFirefoamBurstAbilityModule_InstallHuman.label>install firefoam burst module</BM_SpacerFirefoamBurstAbilityModule_InstallHuman.label>
-  <BM_SpacerFirefoamBurstAbilityModule_InstallHuman.description>Install a firefoam burst module into the body part's ability module slot.</BM_SpacerFirefoamBurstAbilityModule_InstallHuman.description>
-  <BM_SpacerFirefoamBurstAbilityModule_InstallHuman.jobString>Installing firefoam burst module.</BM_SpacerFirefoamBurstAbilityModule_InstallHuman.jobString>
+  <BM_SpacerFirefoamBurstAbilityModule_InstallHuman.label>установить модуль огнетушащего взрыва</BM_SpacerFirefoamBurstAbilityModule_InstallHuman.label>
+  <BM_SpacerFirefoamBurstAbilityModule_InstallHuman.description>Установить модуль огнетушащего взрыва в слот модуля способностей части тела.</BM_SpacerFirefoamBurstAbilityModule_InstallHuman.description>
+  <BM_SpacerFirefoamBurstAbilityModule_InstallHuman.jobString>Установка модуля огнетушащего взрыва.</BM_SpacerFirefoamBurstAbilityModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.label>remove firefoam burst module</BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.label>
-  <BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.description>Remove firefoam burst module.</BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.description>
-  <BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.jobString>Removing firefoam burst module.</BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.label>удалить модуль огнетушащего взрыва</BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.description>Удалить модуль огнетушащего взрыва.</BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.jobString>Удаление модуля огнетушащего взрыва.</BM_SpacerFirefoamBurstAbilityModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerSmokeBurstAbilityModule_InstallHuman.label>install smoke burst module</BM_SpacerSmokeBurstAbilityModule_InstallHuman.label>
-  <BM_SpacerSmokeBurstAbilityModule_InstallHuman.description>Install a smoke burst module into the body part's ability module slot.</BM_SpacerSmokeBurstAbilityModule_InstallHuman.description>
-  <BM_SpacerSmokeBurstAbilityModule_InstallHuman.jobString>Installing smoke burst module.</BM_SpacerSmokeBurstAbilityModule_InstallHuman.jobString>
+  <BM_SpacerSmokeBurstAbilityModule_InstallHuman.label>установить модуль дымового взрыва</BM_SpacerSmokeBurstAbilityModule_InstallHuman.label>
+  <BM_SpacerSmokeBurstAbilityModule_InstallHuman.description>Установить модуль дымового взрыва в слот модуля способностей части тела.</BM_SpacerSmokeBurstAbilityModule_InstallHuman.description>
+  <BM_SpacerSmokeBurstAbilityModule_InstallHuman.jobString>Установка модуля дымового взрыва.</BM_SpacerSmokeBurstAbilityModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.label>remove smoke burst module</BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.label>
-  <BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.description>Remove smoke burst module.</BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.description>
-  <BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.jobString>Removing smoke burst module.</BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.label>удалить модуль дымового взрыва</BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.description>Удалить модуль дымового взрыва.</BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.jobString>Удаление модуля дымового взрыва.</BM_SpacerSmokeBurstAbilityModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerEMPBurstAbilityModule_InstallHuman.label>install EMP burst module</BM_SpacerEMPBurstAbilityModule_InstallHuman.label>
-  <BM_SpacerEMPBurstAbilityModule_InstallHuman.description>Install an EMP burst module into the body part's ability module slot.</BM_SpacerEMPBurstAbilityModule_InstallHuman.description>
-  <BM_SpacerEMPBurstAbilityModule_InstallHuman.jobString>Installing EMP burst module.</BM_SpacerEMPBurstAbilityModule_InstallHuman.jobString>
+  <BM_SpacerEMPBurstAbilityModule_InstallHuman.label>установить модуль EMP взрыва</BM_SpacerEMPBurstAbilityModule_InstallHuman.label>
+  <BM_SpacerEMPBurstAbilityModule_InstallHuman.description>Установить модуль EMP взрыва в слот модуля способностей части тела.</BM_SpacerEMPBurstAbilityModule_InstallHuman.description>
+  <BM_SpacerEMPBurstAbilityModule_InstallHuman.jobString>Установка модуля EMP взрыва.</BM_SpacerEMPBurstAbilityModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.label>remove EMP burst module</BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.label>
-  <BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.description>Remove EMP burst module.</BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.description>
-  <BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.jobString>Removing EMP burst module.</BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.label>удалить модуль EMP взрыва</BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.description>Удалить модуль EMP взрыва.</BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.jobString>Удаление модуля EMP взрыва.</BM_SpacerEMPBurstAbilityModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.label>install incendiary burst module</BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.label>
-  <BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.description>Install an incendiary burst module into the body part's ability module slot.</BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.description>
-  <BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.jobString>Installing incendiary burst module.</BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.jobString>
+  <BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.label>установить модуль зажигательного взрыва</BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.label>
+  <BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.description>Установить модуль зажигательного взрыва в слот модуля способностей части тела.</BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.description>
+  <BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.jobString>Установка модуля зажигательного взрыва.</BM_SpacerIncendiaryBurstAbilityModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.label>remove incendiary burst module</BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.label>
-  <BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.description>Remove incendiary burst module.</BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.description>
-  <BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.jobString>Removing incendiary burst module.</BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.label>удалить модуль зажигательного взрыва</BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.description>Удалить модуль зажигательного взрыва.</BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.jobString>Удаление модуля зажигательного взрыва.</BM_SpacerIncendiaryBurstAbilityModule_RemoveFromReplacement.jobString>
 
 
 </LanguageData>

@@ -3,14 +3,14 @@
 
   <!-- faunamaster -->
 
-  <BM_SpacerTamerWorkModule.label>faunamaster module</BM_SpacerTamerWorkModule.label>
-  <BM_SpacerTamerWorkModule.description>An installed faunamaster work module.</BM_SpacerTamerWorkModule.description>
+  <BM_SpacerTamerWorkModule.label>модуль укротителя</BM_SpacerTamerWorkModule.label>
+  <BM_SpacerTamerWorkModule.description>Установленный модуль укротителя.</BM_SpacerTamerWorkModule.description>
 
 
   <!-- mindreader -->
 
-  <BM_SpacerMindreaderWorkModule.label>mindreader module</BM_SpacerMindreaderWorkModule.label>
-  <BM_SpacerMindreaderWorkModule.description>An installed mindreader work module.</BM_SpacerMindreaderWorkModule.description>
+  <BM_SpacerMindreaderWorkModule.label>модуль чтения мыслей</BM_SpacerMindreaderWorkModule.label>
+  <BM_SpacerMindreaderWorkModule.description>Установленный модуль чтения мыслей.</BM_SpacerMindreaderWorkModule.description>
 
 
 </LanguageData>

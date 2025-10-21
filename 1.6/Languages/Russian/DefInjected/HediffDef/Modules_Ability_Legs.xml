@@ -3,15 +3,15 @@
 
   <!-- leap module -->
 
-  <BM_SpacerLeapAbilityModule.label>leap module</BM_SpacerLeapAbilityModule.label>
-  <BM_SpacerLeapAbilityModule.description>An installed leap ability module.</BM_SpacerLeapAbilityModule.description>
+  <BM_SpacerLeapAbilityModule.label>прыжковый модуль</BM_SpacerLeapAbilityModule.label>
+  <BM_SpacerLeapAbilityModule.description>Установленный прыжковый модуль.</BM_SpacerLeapAbilityModule.description>
 
 
   <!-- Removal -->
 
-  <BM_SpacerLeapAbilityModule_WarmupJammer.label>ability warmup</BM_SpacerLeapAbilityModule_WarmupJammer.label>
-  <BM_SpacerLeapAbilityModule_WarmupJammer.description>The mechanical leap ability is warming up.</BM_SpacerLeapAbilityModule_WarmupJammer.description>
-  <BM_SpacerLeapAbilityModule_WarmupJammer.labelNoun>ability warmup</BM_SpacerLeapAbilityModule_WarmupJammer.labelNoun>
+  <BM_SpacerLeapAbilityModule_WarmupJammer.label>подготовка способности</BM_SpacerLeapAbilityModule_WarmupJammer.label>
+  <BM_SpacerLeapAbilityModule_WarmupJammer.description>Способность механического прыжка подготавливается.</BM_SpacerLeapAbilityModule_WarmupJammer.description>
+  <BM_SpacerLeapAbilityModule_WarmupJammer.labelNoun>подготовка способности</BM_SpacerLeapAbilityModule_WarmupJammer.labelNoun>
 
 
 </LanguageData>

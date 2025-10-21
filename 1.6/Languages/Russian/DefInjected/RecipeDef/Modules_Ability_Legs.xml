@@ -3,16 +3,16 @@
 
   <!-- Module -->
 
-  <BM_SpacerLeapAbilityModule_InstallHuman.label>install leap module</BM_SpacerLeapAbilityModule_InstallHuman.label>
-  <BM_SpacerLeapAbilityModule_InstallHuman.description>Install a leap module into the body part's ability module slot.</BM_SpacerLeapAbilityModule_InstallHuman.description>
-  <BM_SpacerLeapAbilityModule_InstallHuman.jobString>Installing leap module.</BM_SpacerLeapAbilityModule_InstallHuman.jobString>
+  <BM_SpacerLeapAbilityModule_InstallHuman.label>установить прыжковый модуль</BM_SpacerLeapAbilityModule_InstallHuman.label>
+  <BM_SpacerLeapAbilityModule_InstallHuman.description>Установить прыжковый модуль в слот модуля способностей части тела.</BM_SpacerLeapAbilityModule_InstallHuman.description>
+  <BM_SpacerLeapAbilityModule_InstallHuman.jobString>Установка прыжкового модуля.</BM_SpacerLeapAbilityModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerLeapAbilityModule_RemoveFromReplacement.label>remove leap module</BM_SpacerLeapAbilityModule_RemoveFromReplacement.label>
-  <BM_SpacerLeapAbilityModule_RemoveFromReplacement.description>Remove leap module.</BM_SpacerLeapAbilityModule_RemoveFromReplacement.description>
-  <BM_SpacerLeapAbilityModule_RemoveFromReplacement.jobString>Removing leap module.</BM_SpacerLeapAbilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerLeapAbilityModule_RemoveFromReplacement.label>удалить прыжковый модуль</BM_SpacerLeapAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerLeapAbilityModule_RemoveFromReplacement.description>Удалить прыжковый модуль.</BM_SpacerLeapAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerLeapAbilityModule_RemoveFromReplacement.jobString>Удаление прыжкового модуля.</BM_SpacerLeapAbilityModule_RemoveFromReplacement.jobString>
 
 
 </LanguageData>

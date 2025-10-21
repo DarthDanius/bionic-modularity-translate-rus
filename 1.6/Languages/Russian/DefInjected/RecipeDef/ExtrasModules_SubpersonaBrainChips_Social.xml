@@ -3,20 +3,20 @@
 
   <!-- Implant production [Biotech required] -->
 
-  <BM_SpacerSocialiteSubpersonaChip_Produce.label>make socialite subpersona</BM_SpacerSocialiteSubpersonaChip_Produce.label>
-  <BM_SpacerSocialiteSubpersonaChip_Produce.description>Make a socialite subpersona.</BM_SpacerSocialiteSubpersonaChip_Produce.description>
-  <BM_SpacerSocialiteSubpersonaChip_Produce.jobString>Making socialite subpersona.</BM_SpacerSocialiteSubpersonaChip_Produce.jobString>
+  <BM_SpacerSocialiteSubpersonaChip_Produce.label>создать подличность коммуникатора</BM_SpacerSocialiteSubpersonaChip_Produce.label>
+  <BM_SpacerSocialiteSubpersonaChip_Produce.description>Создать подличность коммуникатора.</BM_SpacerSocialiteSubpersonaChip_Produce.description>
+  <BM_SpacerSocialiteSubpersonaChip_Produce.jobString>Создание подличности коммуникатора.</BM_SpacerSocialiteSubpersonaChip_Produce.jobString>
 
 
   <!-- Implant Installation -->
 
-  <Install_BM_SpacerSocialiteSubpersonaChip.label>install socialite subpersona</Install_BM_SpacerSocialiteSubpersonaChip.label>
-  <Install_BM_SpacerSocialiteSubpersonaChip.description>Install socialite subpersona.</Install_BM_SpacerSocialiteSubpersonaChip.description>
-  <Install_BM_SpacerSocialiteSubpersonaChip.jobString>Installing socialite subpersona.</Install_BM_SpacerSocialiteSubpersonaChip.jobString>
+  <Install_BM_SpacerSocialiteSubpersonaChip.label>установить подличность коммуникатора</Install_BM_SpacerSocialiteSubpersonaChip.label>
+  <Install_BM_SpacerSocialiteSubpersonaChip.description>Установить подличность коммуникатора.</Install_BM_SpacerSocialiteSubpersonaChip.description>
+  <Install_BM_SpacerSocialiteSubpersonaChip.jobString>Установка подличности коммуникатора.</Install_BM_SpacerSocialiteSubpersonaChip.jobString>
 
-  <Remove_BM_SpacerSocialiteSubpersonaChip.label>remove socialite subpersona</Remove_BM_SpacerSocialiteSubpersonaChip.label>
-  <Remove_BM_SpacerSocialiteSubpersonaChip.description>Remove socialite subpersona.</Remove_BM_SpacerSocialiteSubpersonaChip.description>
-  <Remove_BM_SpacerSocialiteSubpersonaChip.jobString>Removing socialite subpersona.</Remove_BM_SpacerSocialiteSubpersonaChip.jobString>
+  <Remove_BM_SpacerSocialiteSubpersonaChip.label>удалить подличность коммуникатора</Remove_BM_SpacerSocialiteSubpersonaChip.label>
+  <Remove_BM_SpacerSocialiteSubpersonaChip.description>Удалить подличность коммуникатора.</Remove_BM_SpacerSocialiteSubpersonaChip.description>
+  <Remove_BM_SpacerSocialiteSubpersonaChip.jobString>Удаление подличности коммуникатора.</Remove_BM_SpacerSocialiteSubpersonaChip.jobString>
 
 
 </LanguageData>

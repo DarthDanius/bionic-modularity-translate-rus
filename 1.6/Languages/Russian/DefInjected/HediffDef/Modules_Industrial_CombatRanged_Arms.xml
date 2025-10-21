@@ -3,82 +3,82 @@
 
   <!-- minigun -->
 
-  <BM_SpacerMinigunCombatModule.label>minigun module</BM_SpacerMinigunCombatModule.label>
-  <BM_SpacerMinigunCombatModule.description>An installed minigun combat module.</BM_SpacerMinigunCombatModule.description>
-  <BM_SpacerMinigunCombatModule.comps.0.verbs.0.label>minigun</BM_SpacerMinigunCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerMinigunCombatModule.comps.0.verbProps.0.label>minigun</BM_SpacerMinigunCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerMinigunCombatModule.label>модуль минигана</BM_SpacerMinigunCombatModule.label>
+  <BM_SpacerMinigunCombatModule.description>Установленный боевой модуль минигана.</BM_SpacerMinigunCombatModule.description>
+  <BM_SpacerMinigunCombatModule.comps.0.verbs.0.label>миниган</BM_SpacerMinigunCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerMinigunCombatModule.comps.0.verbProps.0.label>миниган</BM_SpacerMinigunCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- chain shotgun -->
 
-  <BM_SpacerChainShotgunCombatModule.label>chain shotgun module</BM_SpacerChainShotgunCombatModule.label>
-  <BM_SpacerChainShotgunCombatModule.description>An installed chain shotgun combat module.</BM_SpacerChainShotgunCombatModule.description>
-  <BM_SpacerChainShotgunCombatModule.comps.0.verbs.0.label>chain shotgun</BM_SpacerChainShotgunCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerChainShotgunCombatModule.comps.0.verbProps.0.label>chain shotgun</BM_SpacerChainShotgunCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerChainShotgunCombatModule.label>модуль цепного дробовика</BM_SpacerChainShotgunCombatModule.label>
+  <BM_SpacerChainShotgunCombatModule.description>Установленный боевой модуль цепного дробовика.</BM_SpacerChainShotgunCombatModule.description>
+  <BM_SpacerChainShotgunCombatModule.comps.0.verbs.0.label>цепной дробовик</BM_SpacerChainShotgunCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerChainShotgunCombatModule.comps.0.verbProps.0.label>цепной дробовик</BM_SpacerChainShotgunCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- LMG -->
 
-  <BM_SpacerLMGCombatModule.label>LMG module</BM_SpacerLMGCombatModule.label>
-  <BM_SpacerLMGCombatModule.description>An installed LMG combat module.</BM_SpacerLMGCombatModule.description>
-  <BM_SpacerLMGCombatModule.comps.0.verbs.0.label>LMG</BM_SpacerLMGCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerLMGCombatModule.comps.0.verbProps.0.label>LMG</BM_SpacerLMGCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerLMGCombatModule.label>модуль ручного пулемета</BM_SpacerLMGCombatModule.label>
+  <BM_SpacerLMGCombatModule.description>Установленный боевой модуль ручного пулемета.</BM_SpacerLMGCombatModule.description>
+  <BM_SpacerLMGCombatModule.comps.0.verbs.0.label>ручной пулемет</BM_SpacerLMGCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerLMGCombatModule.comps.0.verbProps.0.label>ручной пулемет</BM_SpacerLMGCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- sniper rifle -->
 
-  <BM_SpacerSniperRifleCombatModule.label>sniper rifle module</BM_SpacerSniperRifleCombatModule.label>
-  <BM_SpacerSniperRifleCombatModule.description>An installed sniper rifle combat module.</BM_SpacerSniperRifleCombatModule.description>
-  <BM_SpacerSniperRifleCombatModule.comps.0.verbs.0.label>sniper rifle</BM_SpacerSniperRifleCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerSniperRifleCombatModule.comps.0.verbProps.0.label>sniper rifle</BM_SpacerSniperRifleCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerSniperRifleCombatModule.label>модуль снайперской винтовки</BM_SpacerSniperRifleCombatModule.label>
+  <BM_SpacerSniperRifleCombatModule.description>Установленный боевой модуль снайперской винтовки.</BM_SpacerSniperRifleCombatModule.description>
+  <BM_SpacerSniperRifleCombatModule.comps.0.verbs.0.label>снайперская винтовка</BM_SpacerSniperRifleCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerSniperRifleCombatModule.comps.0.verbProps.0.label>снайперская винтовка</BM_SpacerSniperRifleCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- pump shotgun -->
 
-  <BM_SpacerPumpShotgunCombatModule.label>pump shotgun module</BM_SpacerPumpShotgunCombatModule.label>
-  <BM_SpacerPumpShotgunCombatModule.description>An installed pump shotgun combat module.</BM_SpacerPumpShotgunCombatModule.description>
-  <BM_SpacerPumpShotgunCombatModule.comps.0.verbs.0.label>pump shotgun</BM_SpacerPumpShotgunCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerPumpShotgunCombatModule.comps.0.verbProps.0.label>pump shotgun</BM_SpacerPumpShotgunCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerPumpShotgunCombatModule.label>модуль помпового дробовика</BM_SpacerPumpShotgunCombatModule.label>
+  <BM_SpacerPumpShotgunCombatModule.description>Установленный боевой модуль помпового дробовика.</BM_SpacerPumpShotgunCombatModule.description>
+  <BM_SpacerPumpShotgunCombatModule.comps.0.verbs.0.label>помповый дробовик</BM_SpacerPumpShotgunCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerPumpShotgunCombatModule.comps.0.verbProps.0.label>помповый дробовик</BM_SpacerPumpShotgunCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- heavy SMG -->
 
-  <BM_SpacerHeavySMGCombatModule.label>heavy SMG module</BM_SpacerHeavySMGCombatModule.label>
-  <BM_SpacerHeavySMGCombatModule.description>An installed heavy SMG combat module.</BM_SpacerHeavySMGCombatModule.description>
-  <BM_SpacerHeavySMGCombatModule.comps.0.verbs.0.label>heavy SMG</BM_SpacerHeavySMGCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerHeavySMGCombatModule.comps.0.verbProps.0.label>heavy SMG</BM_SpacerHeavySMGCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerHeavySMGCombatModule.label>модуль тяжелого ПП</BM_SpacerHeavySMGCombatModule.label>
+  <BM_SpacerHeavySMGCombatModule.description>Установленный боевой модуль тяжелого пистолета-пулемета.</BM_SpacerHeavySMGCombatModule.description>
+  <BM_SpacerHeavySMGCombatModule.comps.0.verbs.0.label>тяжелый ПП</BM_SpacerHeavySMGCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerHeavySMGCombatModule.comps.0.verbProps.0.label>тяжелый ПП</BM_SpacerHeavySMGCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- assault rifle -->
 
-  <BM_SpacerAssaultRifleCombatModule.label>assault rifle module</BM_SpacerAssaultRifleCombatModule.label>
-  <BM_SpacerAssaultRifleCombatModule.description>An installed assault rifle combat module.</BM_SpacerAssaultRifleCombatModule.description>
-  <BM_SpacerAssaultRifleCombatModule.comps.0.verbs.0.label>assault rifle</BM_SpacerAssaultRifleCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerAssaultRifleCombatModule.comps.0.verbProps.0.label>assault rifle</BM_SpacerAssaultRifleCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerAssaultRifleCombatModule.label>модуль штурмовой винтовки</BM_SpacerAssaultRifleCombatModule.label>
+  <BM_SpacerAssaultRifleCombatModule.description>Установленный боевой модуль штурмовой винтовки.</BM_SpacerAssaultRifleCombatModule.description>
+  <BM_SpacerAssaultRifleCombatModule.comps.0.verbs.0.label>штурмовая винтовка</BM_SpacerAssaultRifleCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerAssaultRifleCombatModule.comps.0.verbProps.0.label>штурмовая винтовка</BM_SpacerAssaultRifleCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- EMP launcher -->
 
-  <BM_SpacerEMPLauncherCombatModule.label>EMP launcher module</BM_SpacerEMPLauncherCombatModule.label>
-  <BM_SpacerEMPLauncherCombatModule.description>An installed EMP launcher combat module.</BM_SpacerEMPLauncherCombatModule.description>
-  <BM_SpacerEMPLauncherCombatModule.comps.0.verbs.0.label>EMP launcher</BM_SpacerEMPLauncherCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerEMPLauncherCombatModule.comps.0.verbProps.0.label>EMP launcher</BM_SpacerEMPLauncherCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerEMPLauncherCombatModule.label>модуль ЭМИ гранатомета</BM_SpacerEMPLauncherCombatModule.label>
+  <BM_SpacerEMPLauncherCombatModule.description>Установленный боевой модуль ЭМИ гранатомета.</BM_SpacerEMPLauncherCombatModule.description>
+  <BM_SpacerEMPLauncherCombatModule.comps.0.verbs.0.label>ЭМИ гранатомет</BM_SpacerEMPLauncherCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerEMPLauncherCombatModule.comps.0.verbProps.0.label>ЭМИ гранатомет</BM_SpacerEMPLauncherCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- incendiary launcher -->
 
-  <BM_SpacerIncendiaryLauncherCombatModule.label>incendiary launcher module</BM_SpacerIncendiaryLauncherCombatModule.label>
-  <BM_SpacerIncendiaryLauncherCombatModule.description>An installed incendiary launcher combat module.</BM_SpacerIncendiaryLauncherCombatModule.description>
-  <BM_SpacerIncendiaryLauncherCombatModule.comps.0.verbs.0.label>incendiary launcher</BM_SpacerIncendiaryLauncherCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerIncendiaryLauncherCombatModule.comps.0.verbProps.0.label>incendiary launcher</BM_SpacerIncendiaryLauncherCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerIncendiaryLauncherCombatModule.label>модуль зажигательного гранатомета</BM_SpacerIncendiaryLauncherCombatModule.label>
+  <BM_SpacerIncendiaryLauncherCombatModule.description>Установленный боевой модуль зажигательного гранатомета.</BM_SpacerIncendiaryLauncherCombatModule.description>
+  <BM_SpacerIncendiaryLauncherCombatModule.comps.0.verbs.0.label>зажигательный гранатомет</BM_SpacerIncendiaryLauncherCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerIncendiaryLauncherCombatModule.comps.0.verbProps.0.label>зажигательный гранатомет</BM_SpacerIncendiaryLauncherCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- smoke launcher -->
 
-  <BM_SpacerSmokeLauncherCombatModule.label>smoke launcher module</BM_SpacerSmokeLauncherCombatModule.label>
-  <BM_SpacerSmokeLauncherCombatModule.description>An installed smoke launcher combat module.</BM_SpacerSmokeLauncherCombatModule.description>
-  <BM_SpacerSmokeLauncherCombatModule.comps.0.verbs.0.label>smoke launcher</BM_SpacerSmokeLauncherCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerSmokeLauncherCombatModule.comps.0.verbProps.0.label>smoke launcher</BM_SpacerSmokeLauncherCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerSmokeLauncherCombatModule.label>модуль дымового гранатомета</BM_SpacerSmokeLauncherCombatModule.label>
+  <BM_SpacerSmokeLauncherCombatModule.description>Установленный боевой модуль дымового гранатомета.</BM_SpacerSmokeLauncherCombatModule.description>
+  <BM_SpacerSmokeLauncherCombatModule.comps.0.verbs.0.label>дымовой гранатомет</BM_SpacerSmokeLauncherCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerSmokeLauncherCombatModule.comps.0.verbProps.0.label>дымовой гранатомет</BM_SpacerSmokeLauncherCombatModule.comps.0.verbProps.0.label>
 
 
 </LanguageData>

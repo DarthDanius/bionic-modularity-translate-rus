@@ -3,9 +3,9 @@
 
   <!-- power fist -->
 
-  <BM_SpacerPowerFistCombatModule.label>power fist module</BM_SpacerPowerFistCombatModule.label>
-  <BM_SpacerPowerFistCombatModule.description>An installed power fist combat module.</BM_SpacerPowerFistCombatModule.description>
-  <BM_SpacerPowerFistCombatModule.comps.0.tools.0.label>power fist</BM_SpacerPowerFistCombatModule.comps.0.tools.0.label>
+  <BM_SpacerPowerFistCombatModule.label>модуль силового кулака</BM_SpacerPowerFistCombatModule.label>
+  <BM_SpacerPowerFistCombatModule.description>Установленный боевой модуль силового кулака.</BM_SpacerPowerFistCombatModule.description>
+  <BM_SpacerPowerFistCombatModule.comps.0.tools.0.label>силовой кулак</BM_SpacerPowerFistCombatModule.comps.0.tools.0.label>
 
 
 </LanguageData>

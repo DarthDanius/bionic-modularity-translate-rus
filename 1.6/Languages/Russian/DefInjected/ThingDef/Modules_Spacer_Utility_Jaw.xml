@@ -3,20 +3,20 @@
 
   <!-- silence -->
 
-  <BM_SpacerSilenceUtilityModule.label>silence module</BM_SpacerSilenceUtilityModule.label>
-  <BM_SpacerSilenceUtilityModule.description>A high-tech device that can be installed into a jaw or any compatible jaw replacement. This particular model prevents the user from speaking. Made with the intention of being a part of an experimental form of therapy, it has later found more use on various prison planets.</BM_SpacerSilenceUtilityModule.description>
+  <BM_SpacerSilenceUtilityModule.label>утилитарный модуль безмолвия</BM_SpacerSilenceUtilityModule.label>
+  <BM_SpacerSilenceUtilityModule.description>Высокотехнологичное устройство, которое можно установить в челюсть или любую совместимую замену челюсти. Эта конкретная модель предотвращает возможность разговаривать. Созданная как часть экспериментальной формы терапии, она позже нашла большее применение на различных тюремных планетах.</BM_SpacerSilenceUtilityModule.description>
 
 
   <!-- devourer -->
 
-  <BM_SpacerDevourerUtilityModule.label>devourer module</BM_SpacerDevourerUtilityModule.label>
-  <BM_SpacerDevourerUtilityModule.description>A high-tech device that can be installed into a jaw or any compatible jaw replacement. This particular model allows the mouth to be opened to a degree that would normally require the unhinging of one's jaw, allowing the user to consume food significantly faster. Highly flexible and stretchy synthetic skin prevents injuries or disfiguration that would result from such a maneuver.</BM_SpacerDevourerUtilityModule.description>
+  <BM_SpacerDevourerUtilityModule.label>утилитарный модуль пожирателя</BM_SpacerDevourerUtilityModule.label>
+  <BM_SpacerDevourerUtilityModule.description>Высокотехнологичное устройство, которое можно установить в челюсть или любую совместимую замену челюсти. Эта конкретная модель позволяет открывать рот до степени, которая обычно требует вывиха челюсти, позволяя пользователю потреблять пищу значительно быстрее. Высокогибкая и эластичная синтетическая кожа предотвращает травмы или уродства, которые могли бы возникнуть в результате такого манёвра.</BM_SpacerDevourerUtilityModule.description>
 
 
   <!-- voicemod -->
 
-  <BM_SpacerVoicemodUtilityModule.label>voicemod module</BM_SpacerVoicemodUtilityModule.label>
-  <BM_SpacerVoicemodUtilityModule.description>A high-tech device that can be installed into a jaw or any compatible jaw replacement. This particular module allows its user to adjust their voice on the fly, making it more pleasant to listen to. The implant can also partially drown out a person's irritating speech patterns.</BM_SpacerVoicemodUtilityModule.description>
+  <BM_SpacerVoicemodUtilityModule.label>утилитарный модуль голосовой модуляции</BM_SpacerVoicemodUtilityModule.label>
+  <BM_SpacerVoicemodUtilityModule.description>Высокотехнологичное устройство, которое можно установить в челюсть или любую совместимую замену челюсти. Этот конкретный модуль позволяет пользователю настраивать свой голос на лету, делая его более приятным для слуха. Имплант также может частично подавлять раздражающие речевые паттерны человека.</BM_SpacerVoicemodUtilityModule.description>
 
 
 </LanguageData>

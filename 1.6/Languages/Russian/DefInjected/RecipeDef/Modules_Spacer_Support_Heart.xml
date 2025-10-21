@@ -3,46 +3,46 @@
 
   <!-- Module -->
 
-  <BM_SpacerResurrectorSupportModule_InstallAnimal.label>install resurrector module</BM_SpacerResurrectorSupportModule_InstallAnimal.label>
-  <BM_SpacerResurrectorSupportModule_InstallAnimal.description>Install a resurrector module into the body part's support module slot.</BM_SpacerResurrectorSupportModule_InstallAnimal.description>
-  <BM_SpacerResurrectorSupportModule_InstallAnimal.jobString>Installing resurrector module.</BM_SpacerResurrectorSupportModule_InstallAnimal.jobString>
+  <BM_SpacerResurrectorSupportModule_InstallAnimal.label>установить модуль воскресителя</BM_SpacerResurrectorSupportModule_InstallAnimal.label>
+  <BM_SpacerResurrectorSupportModule_InstallAnimal.description>Установить модуль воскресителя в слот поддерживающего модуля части тела.</BM_SpacerResurrectorSupportModule_InstallAnimal.description>
+  <BM_SpacerResurrectorSupportModule_InstallAnimal.jobString>Установка модуля воскресителя.</BM_SpacerResurrectorSupportModule_InstallAnimal.jobString>
 
-  <BM_SpacerResurrectorSupportModule_InstallHuman.label>install resurrector module</BM_SpacerResurrectorSupportModule_InstallHuman.label>
-  <BM_SpacerResurrectorSupportModule_InstallHuman.description>Install a resurrector module into the body part's support module slot.</BM_SpacerResurrectorSupportModule_InstallHuman.description>
-  <BM_SpacerResurrectorSupportModule_InstallHuman.jobString>Installing resurrector module.</BM_SpacerResurrectorSupportModule_InstallHuman.jobString>
+  <BM_SpacerResurrectorSupportModule_InstallHuman.label>установить модуль воскресителя</BM_SpacerResurrectorSupportModule_InstallHuman.label>
+  <BM_SpacerResurrectorSupportModule_InstallHuman.description>Установить модуль воскресителя в слот поддерживающего модуля части тела.</BM_SpacerResurrectorSupportModule_InstallHuman.description>
+  <BM_SpacerResurrectorSupportModule_InstallHuman.jobString>Установка модуля воскресителя.</BM_SpacerResurrectorSupportModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerResurrectorSupportModule_InstallHuman_Implant.label>install resurrector module.</BM_SpacerResurrectorSupportModule_InstallHuman_Implant.label>
-  <BM_SpacerResurrectorSupportModule_InstallHuman_Implant.description>Install a resurrector module into the body part's support module slot.</BM_SpacerResurrectorSupportModule_InstallHuman_Implant.description>
-  <BM_SpacerResurrectorSupportModule_InstallHuman_Implant.jobString>Installing resurrector module.</BM_SpacerResurrectorSupportModule_InstallHuman_Implant.jobString>
+  <BM_SpacerResurrectorSupportModule_InstallHuman_Implant.label>установить модуль воскресителя</BM_SpacerResurrectorSupportModule_InstallHuman_Implant.label>
+  <BM_SpacerResurrectorSupportModule_InstallHuman_Implant.description>Установить модуль воскресителя в слот поддерживающего модуля части тела.</BM_SpacerResurrectorSupportModule_InstallHuman_Implant.description>
+  <BM_SpacerResurrectorSupportModule_InstallHuman_Implant.jobString>Установка модуля воскресителя.</BM_SpacerResurrectorSupportModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.label>install resurrector module.</BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.label>
-  <BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.description>Install a resurrector module into the body part's support module slot.</BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.description>
-  <BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.jobString>Installing resurrector module.</BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.label>установить модуль воскресителя</BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.label>
+  <BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.description>Установить модуль воскресителя в слот поддерживающего модуля части тела.</BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.description>
+  <BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.jobString>Установка модуля воскресителя.</BM_SpacerResurrectorSupportModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerResurrectorSupportModule_RemoveFromReplacement.label>remove resurrector module</BM_SpacerResurrectorSupportModule_RemoveFromReplacement.label>
-  <BM_SpacerResurrectorSupportModule_RemoveFromReplacement.description>Remove resurrector module.</BM_SpacerResurrectorSupportModule_RemoveFromReplacement.description>
-  <BM_SpacerResurrectorSupportModule_RemoveFromReplacement.jobString>Removing resurrector module.</BM_SpacerResurrectorSupportModule_RemoveFromReplacement.jobString>
+  <BM_SpacerResurrectorSupportModule_RemoveFromReplacement.label>удалить модуль воскресителя</BM_SpacerResurrectorSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerResurrectorSupportModule_RemoveFromReplacement.description>Удалить модуль воскресителя.</BM_SpacerResurrectorSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerResurrectorSupportModule_RemoveFromReplacement.jobString>Удаление модуля воскресителя.</BM_SpacerResurrectorSupportModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerResurrectorSupportModule_RemoveFromNatural.label>remove resurrector module</BM_SpacerResurrectorSupportModule_RemoveFromNatural.label>
-  <BM_SpacerResurrectorSupportModule_RemoveFromNatural.description>Remove resurrector module.</BM_SpacerResurrectorSupportModule_RemoveFromNatural.description>
-  <BM_SpacerResurrectorSupportModule_RemoveFromNatural.jobString>Removing resurrector module.</BM_SpacerResurrectorSupportModule_RemoveFromNatural.jobString>
+  <BM_SpacerResurrectorSupportModule_RemoveFromNatural.label>удалить модуль воскресителя</BM_SpacerResurrectorSupportModule_RemoveFromNatural.label>
+  <BM_SpacerResurrectorSupportModule_RemoveFromNatural.description>Удалить модуль воскресителя.</BM_SpacerResurrectorSupportModule_RemoveFromNatural.description>
+  <BM_SpacerResurrectorSupportModule_RemoveFromNatural.jobString>Удаление модуля воскресителя.</BM_SpacerResurrectorSupportModule_RemoveFromNatural.jobString>
 
 
   <!-- Hediff Fuel Recipes -->
 
-  <BM_SpacerResurrectorSupportModule_IncreaseFuel.label>Insert resurrector mech serum</BM_SpacerResurrectorSupportModule_IncreaseFuel.label>
-  <BM_SpacerResurrectorSupportModule_IncreaseFuel.description>Insert a resurrector mech serum into the patient’s resurrector module.</BM_SpacerResurrectorSupportModule_IncreaseFuel.description>
-  <BM_SpacerResurrectorSupportModule_IncreaseFuel.jobString>Inserting resurrector mech serum.</BM_SpacerResurrectorSupportModule_IncreaseFuel.jobString>
+  <BM_SpacerResurrectorSupportModule_IncreaseFuel.label>Вставить мех-сыворотку воскрешения</BM_SpacerResurrectorSupportModule_IncreaseFuel.label>
+  <BM_SpacerResurrectorSupportModule_IncreaseFuel.description>Вставить мех-сыворотку воскрешения в модуль воскресителя пациента.</BM_SpacerResurrectorSupportModule_IncreaseFuel.description>
+  <BM_SpacerResurrectorSupportModule_IncreaseFuel.jobString>Вставка мех-сыворотки воскрешения.</BM_SpacerResurrectorSupportModule_IncreaseFuel.jobString>
 
-  <BM_SpacerResurrectorSupportModule_DecreaseFuel.label>Remove resurrector mech serum</BM_SpacerResurrectorSupportModule_DecreaseFuel.label>
-  <BM_SpacerResurrectorSupportModule_DecreaseFuel.description>Remove the resurrector mech serum from the patient’s resurrector module.</BM_SpacerResurrectorSupportModule_DecreaseFuel.description>
-  <BM_SpacerResurrectorSupportModule_DecreaseFuel.jobString>Removing resurrector mech serum.</BM_SpacerResurrectorSupportModule_DecreaseFuel.jobString>
+  <BM_SpacerResurrectorSupportModule_DecreaseFuel.label>Извлечь мех-сыворотку воскрешения</BM_SpacerResurrectorSupportModule_DecreaseFuel.label>
+  <BM_SpacerResurrectorSupportModule_DecreaseFuel.description>Извлечь мех-сыворотку воскрешения из модуля воскресителя пациента.</BM_SpacerResurrectorSupportModule_DecreaseFuel.description>
+  <BM_SpacerResurrectorSupportModule_DecreaseFuel.jobString>Извлечение мех-сыворотки воскрешения.</BM_SpacerResurrectorSupportModule_DecreaseFuel.jobString>
 
 
 </LanguageData>

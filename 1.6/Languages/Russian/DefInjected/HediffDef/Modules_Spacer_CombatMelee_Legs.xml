@@ -3,9 +3,9 @@
 
   <!-- power kick -->
 
-  <BM_SpacerPowerKickCombatModule.label>power kick module</BM_SpacerPowerKickCombatModule.label>
-  <BM_SpacerPowerKickCombatModule.description>An installed power kick combat module.</BM_SpacerPowerKickCombatModule.description>
-  <BM_SpacerPowerKickCombatModule.comps.0.tools.0.label>power kick</BM_SpacerPowerKickCombatModule.comps.0.tools.0.label>
+  <BM_SpacerPowerKickCombatModule.label>модуль силового удара</BM_SpacerPowerKickCombatModule.label>
+  <BM_SpacerPowerKickCombatModule.description>Установленный боевой модуль силового удара.</BM_SpacerPowerKickCombatModule.description>
+  <BM_SpacerPowerKickCombatModule.comps.0.tools.0.label>силовой удар</BM_SpacerPowerKickCombatModule.comps.0.tools.0.label>
 
 
 </LanguageData>

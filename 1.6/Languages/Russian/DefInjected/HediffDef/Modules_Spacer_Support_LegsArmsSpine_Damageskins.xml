@@ -3,26 +3,26 @@
 
   <!-- pyroweave -->
 
-  <BM_SpacerPyroweaveSupportModule.label>pyroweave module</BM_SpacerPyroweaveSupportModule.label>
-  <BM_SpacerPyroweaveSupportModule.description>An installed pyroweave support module.</BM_SpacerPyroweaveSupportModule.description>
+  <BM_SpacerPyroweaveSupportModule.label>пиротканевый модуль</BM_SpacerPyroweaveSupportModule.label>
+  <BM_SpacerPyroweaveSupportModule.description>Установленный пиротканевый модуль.</BM_SpacerPyroweaveSupportModule.description>
 
 
   <!-- magweave -->
 
-  <BM_SpacerMagweaveSupportModule.label>magweave module</BM_SpacerMagweaveSupportModule.label>
-  <BM_SpacerMagweaveSupportModule.description>An installed magweave support module.</BM_SpacerMagweaveSupportModule.description>
+  <BM_SpacerMagweaveSupportModule.label>магнитный тканевый модуль</BM_SpacerMagweaveSupportModule.label>
+  <BM_SpacerMagweaveSupportModule.description>Установленный магнитный тканевый модуль.</BM_SpacerMagweaveSupportModule.description>
 
 
   <!-- cryoweave -->
 
-  <BM_SpacerCryoweaveSupportModule.label>cryoweave module</BM_SpacerCryoweaveSupportModule.label>
-  <BM_SpacerCryoweaveSupportModule.description>An installed cryoweave support module.</BM_SpacerCryoweaveSupportModule.description>
+  <BM_SpacerCryoweaveSupportModule.label>криотканевый модуль</BM_SpacerCryoweaveSupportModule.label>
+  <BM_SpacerCryoweaveSupportModule.description>Установленный криотканевый модуль.</BM_SpacerCryoweaveSupportModule.description>
 
 
   <!-- toxweave -->
 
-  <BM_SpacerToxweaveSupportModule.label>toxweave module</BM_SpacerToxweaveSupportModule.label>
-  <BM_SpacerToxweaveSupportModule.description>An installed toxweave support module.</BM_SpacerToxweaveSupportModule.description>
+  <BM_SpacerToxweaveSupportModule.label>токсичный тканевый модуль</BM_SpacerToxweaveSupportModule.label>
+  <BM_SpacerToxweaveSupportModule.description>Установленный токсичный тканевый модуль.</BM_SpacerToxweaveSupportModule.description>
 
 
 </LanguageData>

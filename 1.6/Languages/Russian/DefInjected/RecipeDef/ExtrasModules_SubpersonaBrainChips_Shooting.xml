@@ -3,20 +3,20 @@
 
   <!-- Implant production [Biotech required] -->
 
-  <BM_SpacerRangerSubpersonaChip_Produce.label>make ranger subpersona</BM_SpacerRangerSubpersonaChip_Produce.label>
-  <BM_SpacerRangerSubpersonaChip_Produce.description>Make a ranger subpersona.</BM_SpacerRangerSubpersonaChip_Produce.description>
-  <BM_SpacerRangerSubpersonaChip_Produce.jobString>Making ranger subpersona.</BM_SpacerRangerSubpersonaChip_Produce.jobString>
+  <BM_SpacerRangerSubpersonaChip_Produce.label>создать подличность рейнджера</BM_SpacerRangerSubpersonaChip_Produce.label>
+  <BM_SpacerRangerSubpersonaChip_Produce.description>Создать подличность рейнджера.</BM_SpacerRangerSubpersonaChip_Produce.description>
+  <BM_SpacerRangerSubpersonaChip_Produce.jobString>Создание подличности рейнджера.</BM_SpacerRangerSubpersonaChip_Produce.jobString>
 
 
   <!-- Implant Installation -->
 
-  <Install_BM_SpacerRangerSubpersonaChip.label>install ranger subpersona</Install_BM_SpacerRangerSubpersonaChip.label>
-  <Install_BM_SpacerRangerSubpersonaChip.description>Install ranger subpersona.</Install_BM_SpacerRangerSubpersonaChip.description>
-  <Install_BM_SpacerRangerSubpersonaChip.jobString>Installing ranger subpersona.</Install_BM_SpacerRangerSubpersonaChip.jobString>
+  <Install_BM_SpacerRangerSubpersonaChip.label>установить подличность рейнджера</Install_BM_SpacerRangerSubpersonaChip.label>
+  <Install_BM_SpacerRangerSubpersonaChip.description>Установить подличность рейнджера.</Install_BM_SpacerRangerSubpersonaChip.description>
+  <Install_BM_SpacerRangerSubpersonaChip.jobString>Установка подличности рейнджера.</Install_BM_SpacerRangerSubpersonaChip.jobString>
 
-  <Remove_BM_SpacerRangerSubpersonaChip.label>remove ranger subpersona</Remove_BM_SpacerRangerSubpersonaChip.label>
-  <Remove_BM_SpacerRangerSubpersonaChip.description>Remove ranger subpersona.</Remove_BM_SpacerRangerSubpersonaChip.description>
-  <Remove_BM_SpacerRangerSubpersonaChip.jobString>Removing ranger subpersona.</Remove_BM_SpacerRangerSubpersonaChip.jobString>
+  <Remove_BM_SpacerRangerSubpersonaChip.label>удалить подличность рейнджера</Remove_BM_SpacerRangerSubpersonaChip.label>
+  <Remove_BM_SpacerRangerSubpersonaChip.description>Удалить подличность рейнджера.</Remove_BM_SpacerRangerSubpersonaChip.description>
+  <Remove_BM_SpacerRangerSubpersonaChip.jobString>Удаление подличности рейнджера.</Remove_BM_SpacerRangerSubpersonaChip.jobString>
 
 
 </LanguageData>

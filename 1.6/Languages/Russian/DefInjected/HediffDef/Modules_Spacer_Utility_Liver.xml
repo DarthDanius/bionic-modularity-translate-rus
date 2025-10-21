@@ -3,32 +3,32 @@
 
   <!-- Alcohol synthesizer -->
 
-  <BM_SpacerAlcoholSynthesizerUtilityModule.label>Alcohol synthesizer module</BM_SpacerAlcoholSynthesizerUtilityModule.label>
-  <BM_SpacerAlcoholSynthesizerUtilityModule.description>An installed alcohol synthesizer utility module.</BM_SpacerAlcoholSynthesizerUtilityModule.description>
+  <BM_SpacerAlcoholSynthesizerUtilityModule.label>модуль синтезатора алкоголя</BM_SpacerAlcoholSynthesizerUtilityModule.label>
+  <BM_SpacerAlcoholSynthesizerUtilityModule.description>Установленный модуль синтезатора алкоголя.</BM_SpacerAlcoholSynthesizerUtilityModule.description>
 
 
   <!-- Psychite synthesizer -->
 
-  <BM_SpacerPsychiteSynthesizerUtilityModule.label>Psychite synthesizer module</BM_SpacerPsychiteSynthesizerUtilityModule.label>
-  <BM_SpacerPsychiteSynthesizerUtilityModule.description>An installed psychite synthesizer utility module.</BM_SpacerPsychiteSynthesizerUtilityModule.description>
+  <BM_SpacerPsychiteSynthesizerUtilityModule.label>модуль синтезатора психина</BM_SpacerPsychiteSynthesizerUtilityModule.label>
+  <BM_SpacerPsychiteSynthesizerUtilityModule.description>Установленный модуль синтезатора психина.</BM_SpacerPsychiteSynthesizerUtilityModule.description>
 
 
   <!-- Smokeleaf synthesizer -->
 
-  <BM_SpacerSmokeleafSynthesizerUtilityModule.label>Smokeleaf synthesizer module</BM_SpacerSmokeleafSynthesizerUtilityModule.label>
-  <BM_SpacerSmokeleafSynthesizerUtilityModule.description>An installed smokeleaf synthesizer utility module.</BM_SpacerSmokeleafSynthesizerUtilityModule.description>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule.label>модуль синтезатора дымолиста</BM_SpacerSmokeleafSynthesizerUtilityModule.label>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule.description>Установленный модуль синтезатора дымолиста.</BM_SpacerSmokeleafSynthesizerUtilityModule.description>
 
 
   <!-- GoJuice synthesizer -->
 
-  <BM_SpacerGoJuiceSynthesizerUtilityModule.label>go-juice synthesizer module</BM_SpacerGoJuiceSynthesizerUtilityModule.label>
-  <BM_SpacerGoJuiceSynthesizerUtilityModule.description>An installed go-juice synthesizer utility module.</BM_SpacerGoJuiceSynthesizerUtilityModule.description>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule.label>модуль синтезатора го-сока</BM_SpacerGoJuiceSynthesizerUtilityModule.label>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule.description>Установленный модуль синтезатора го-сока.</BM_SpacerGoJuiceSynthesizerUtilityModule.description>
 
 
   <!-- WakeUp synthesizer -->
 
-  <BM_SpacerWakeUpSynthesizerUtilityModule.label>wake-up synthesizer module</BM_SpacerWakeUpSynthesizerUtilityModule.label>
-  <BM_SpacerWakeUpSynthesizerUtilityModule.description>An installed wake-up synthesizer utility module.</BM_SpacerWakeUpSynthesizerUtilityModule.description>
+  <BM_SpacerWakeUpSynthesizerUtilityModule.label>модуль синтезатора вейк-апа</BM_SpacerWakeUpSynthesizerUtilityModule.label>
+  <BM_SpacerWakeUpSynthesizerUtilityModule.description>Установленный модуль синтезатора вейк-апа.</BM_SpacerWakeUpSynthesizerUtilityModule.description>
 
 
 </LanguageData>

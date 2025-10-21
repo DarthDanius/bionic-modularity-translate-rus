@@ -3,16 +3,16 @@
 
   <!-- Module -->
 
-  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.label>install smoke spewer module</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.label>
-  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.description>Install a smoke spewer module into the body part's ability module slot.</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.description>
-  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.jobString>Installing smoke spewer module.</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.jobString>
+  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.label>установить модуль дымового излучателя</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.label>
+  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.description>Установить модуль дымового излучателя в слот модуля способностей части тела.</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.description>
+  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.jobString>Установка модуля дымового излучателя.</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.label>remove smoke spewer module</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.label>
-  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.description>Remove smoke spewer module.</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.description>
-  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.jobString>Removing smoke spewer module.</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.label>удалить модуль дымового излучателя</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.description>Удалить модуль дымового излучателя.</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.jobString>Удаление модуля дымового излучателя.</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.jobString>
 
 
 </LanguageData>

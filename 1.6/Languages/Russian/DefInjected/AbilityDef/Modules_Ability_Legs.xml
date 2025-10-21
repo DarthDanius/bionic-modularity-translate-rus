@@ -1,15 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Removal -->
 
-  <BM_SpacerLeapAbilityModule_One.label>mechanical leap</BM_SpacerLeapAbilityModule_One.label>
-  <BM_SpacerLeapAbilityModule_One.description>Jump to a distant location using special mechanical muscles.</BM_SpacerLeapAbilityModule_One.description>
-  <BM_SpacerLeapAbilityModule_One.verbProperties.label>jump</BM_SpacerLeapAbilityModule_One.verbProperties.label>
+  <BM_SpacerLeapAbilityModule_One.label>механический прыжок</BM_SpacerLeapAbilityModule_One.label>
+  <BM_SpacerLeapAbilityModule_One.description>Прыжок в отдаленную точку с использованием специальных механических мышц.</BM_SpacerLeapAbilityModule_One.description>
+  <BM_SpacerLeapAbilityModule_One.verbProperties.label>прыгнуть</BM_SpacerLeapAbilityModule_One.verbProperties.label>
 
-  <BM_SpacerLeapAbilityModule_Two.label>mechanical leap</BM_SpacerLeapAbilityModule_Two.label>
-  <BM_SpacerLeapAbilityModule_Two.description>Jump to a distant location using special mechanical muscles.</BM_SpacerLeapAbilityModule_Two.description>
-  <BM_SpacerLeapAbilityModule_Two.verbProperties.label>jump</BM_SpacerLeapAbilityModule_Two.verbProperties.label>
-
+  <BM_SpacerLeapAbilityModule_Two.label>механический прыжок</BM_SpacerLeapAbilityModule_Two.label>
+  <BM_SpacerLeapAbilityModule_Two.description>Прыжок в отдаленную точку с использованием специальных механических мышц.</BM_SpacerLeapAbilityModule_Two.description>
+  <BM_SpacerLeapAbilityModule_Two.verbProperties.label>прыгнуть</BM_SpacerLeapAbilityModule_Two.verbProperties.label>
 
 </LanguageData>

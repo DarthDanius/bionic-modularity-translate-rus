@@ -3,9 +3,9 @@
 
   <!-- power fang -->
 
-  <BM_SpacerPowerFangCombatModule.label>power fang module</BM_SpacerPowerFangCombatModule.label>
-  <BM_SpacerPowerFangCombatModule.description>An installed power fang combat module.</BM_SpacerPowerFangCombatModule.description>
-  <BM_SpacerPowerFangCombatModule.comps.0.tools.0.label>power fang</BM_SpacerPowerFangCombatModule.comps.0.tools.0.label>
+  <BM_SpacerPowerFangCombatModule.label>модуль силового клыка</BM_SpacerPowerFangCombatModule.label>
+  <BM_SpacerPowerFangCombatModule.description>Установленный боевой модуль силового клыка.</BM_SpacerPowerFangCombatModule.description>
+  <BM_SpacerPowerFangCombatModule.comps.0.tools.0.label>силовой клык</BM_SpacerPowerFangCombatModule.comps.0.tools.0.label>
 
 
 </LanguageData>

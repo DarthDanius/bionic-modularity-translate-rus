@@ -3,28 +3,28 @@
 
   <!-- Chempower -->
 
-  <BM_SpacerChempowerPowerModule.label>chempower module</BM_SpacerChempowerPowerModule.label>
-  <BM_SpacerChempowerPowerModule.description>An installed chempower module.</BM_SpacerChempowerPowerModule.description>
-  <BM_SpacerChempowerPowerModule.stages.0.label>Inactive</BM_SpacerChempowerPowerModule.stages.0.label>
-  <BM_SpacerChempowerPowerModule.stages.1.label>Active</BM_SpacerChempowerPowerModule.stages.1.label>
+  <BM_SpacerChempowerPowerModule.label>химический энергомодуль</BM_SpacerChempowerPowerModule.label>
+  <BM_SpacerChempowerPowerModule.description>Установленный химический энергомодуль.</BM_SpacerChempowerPowerModule.description>
+  <BM_SpacerChempowerPowerModule.stages.0.label>Неактивен</BM_SpacerChempowerPowerModule.stages.0.label>
+  <BM_SpacerChempowerPowerModule.stages.1.label>Активен</BM_SpacerChempowerPowerModule.stages.1.label>
 
-  <BM_SpacerChempowerPowerModule_Animal.label>chempower module</BM_SpacerChempowerPowerModule_Animal.label>
-  <BM_SpacerChempowerPowerModule_Animal.description>An installed chempower module.</BM_SpacerChempowerPowerModule_Animal.description>
-  <BM_SpacerChempowerPowerModule_Animal.stages.0.label>Inactive</BM_SpacerChempowerPowerModule_Animal.stages.0.label>
-  <BM_SpacerChempowerPowerModule_Animal.stages.1.label>Active</BM_SpacerChempowerPowerModule_Animal.stages.1.label>
+  <BM_SpacerChempowerPowerModule_Animal.label>химический энергомодуль</BM_SpacerChempowerPowerModule_Animal.label>
+  <BM_SpacerChempowerPowerModule_Animal.description>Установленный химический энергомодуль.</BM_SpacerChempowerPowerModule_Animal.description>
+  <BM_SpacerChempowerPowerModule_Animal.stages.0.label>Неактивен</BM_SpacerChempowerPowerModule_Animal.stages.0.label>
+  <BM_SpacerChempowerPowerModule_Animal.stages.1.label>Активен</BM_SpacerChempowerPowerModule_Animal.stages.1.label>
 
 
   <!-- Atomipower -->
 
-  <BM_SpacerAtomipowerPowerModule.label>atompower module</BM_SpacerAtomipowerPowerModule.label>
-  <BM_SpacerAtomipowerPowerModule.description>An installed atompower module.</BM_SpacerAtomipowerPowerModule.description>
-  <BM_SpacerAtomipowerPowerModule.stages.0.label>Inactive</BM_SpacerAtomipowerPowerModule.stages.0.label>
-  <BM_SpacerAtomipowerPowerModule.stages.1.label>Active</BM_SpacerAtomipowerPowerModule.stages.1.label>
+  <BM_SpacerAtomipowerPowerModule.label>атомный энергомодуль</BM_SpacerAtomipowerPowerModule.label>
+  <BM_SpacerAtomipowerPowerModule.description>Установленный атомный энергомодуль.</BM_SpacerAtomipowerPowerModule.description>
+  <BM_SpacerAtomipowerPowerModule.stages.0.label>Неактивен</BM_SpacerAtomipowerPowerModule.stages.0.label>
+  <BM_SpacerAtomipowerPowerModule.stages.1.label>Активен</BM_SpacerAtomipowerPowerModule.stages.1.label>
 
-  <BM_SpacerAtomipowerPowerModule_Animal.label>atompower module</BM_SpacerAtomipowerPowerModule_Animal.label>
-  <BM_SpacerAtomipowerPowerModule_Animal.description>An installed atompower module.</BM_SpacerAtomipowerPowerModule_Animal.description>
-  <BM_SpacerAtomipowerPowerModule_Animal.stages.0.label>Inactive</BM_SpacerAtomipowerPowerModule_Animal.stages.0.label>
-  <BM_SpacerAtomipowerPowerModule_Animal.stages.1.label>Active</BM_SpacerAtomipowerPowerModule_Animal.stages.1.label>
+  <BM_SpacerAtomipowerPowerModule_Animal.label>атомный энергомодуль</BM_SpacerAtomipowerPowerModule_Animal.label>
+  <BM_SpacerAtomipowerPowerModule_Animal.description>Установленный атомный энергомодуль.</BM_SpacerAtomipowerPowerModule_Animal.description>
+  <BM_SpacerAtomipowerPowerModule_Animal.stages.0.label>Неактивен</BM_SpacerAtomipowerPowerModule_Animal.stages.0.label>
+  <BM_SpacerAtomipowerPowerModule_Animal.stages.1.label>Активен</BM_SpacerAtomipowerPowerModule_Animal.stages.1.label>
 
 
 </LanguageData>

@@ -3,18 +3,18 @@
 
   <!-- charge rifle -->
 
-  <BM_SpacerChargeRifleCombatModule.label>charge rifle module</BM_SpacerChargeRifleCombatModule.label>
-  <BM_SpacerChargeRifleCombatModule.description>An installed charge rifle combat module.</BM_SpacerChargeRifleCombatModule.description>
-  <BM_SpacerChargeRifleCombatModule.comps.0.verbs.0.label>charge rifle</BM_SpacerChargeRifleCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerChargeRifleCombatModule.comps.0.verbProps.0.label>charge rifle</BM_SpacerChargeRifleCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerChargeRifleCombatModule.label>модуль зарядной винтовки</BM_SpacerChargeRifleCombatModule.label>
+  <BM_SpacerChargeRifleCombatModule.description>Установленный боевой модуль зарядной винтовки.</BM_SpacerChargeRifleCombatModule.description>
+  <BM_SpacerChargeRifleCombatModule.comps.0.verbs.0.label>зарядная винтовка</BM_SpacerChargeRifleCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerChargeRifleCombatModule.comps.0.verbProps.0.label>зарядная винтовка</BM_SpacerChargeRifleCombatModule.comps.0.verbProps.0.label>
 
 
   <!-- charge lance -->
 
-  <BM_SpacerChargeLanceCombatModule.label>charge lance module</BM_SpacerChargeLanceCombatModule.label>
-  <BM_SpacerChargeLanceCombatModule.description>An installed charge lance combat module.</BM_SpacerChargeLanceCombatModule.description>
-  <BM_SpacerChargeLanceCombatModule.comps.0.verbs.0.label>charge lance</BM_SpacerChargeLanceCombatModule.comps.0.verbs.0.label>
-  <BM_SpacerChargeLanceCombatModule.comps.0.verbProps.0.label>charge lance</BM_SpacerChargeLanceCombatModule.comps.0.verbProps.0.label>
+  <BM_SpacerChargeLanceCombatModule.label>модуль зарядного копья</BM_SpacerChargeLanceCombatModule.label>
+  <BM_SpacerChargeLanceCombatModule.description>Установленный боевой модуль зарядного копья.</BM_SpacerChargeLanceCombatModule.description>
+  <BM_SpacerChargeLanceCombatModule.comps.0.verbs.0.label>зарядное копье</BM_SpacerChargeLanceCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerChargeLanceCombatModule.comps.0.verbProps.0.label>зарядное копье</BM_SpacerChargeLanceCombatModule.comps.0.verbProps.0.label>
 
 
 </LanguageData>

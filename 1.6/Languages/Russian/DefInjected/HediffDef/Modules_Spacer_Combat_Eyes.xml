@@ -3,14 +3,14 @@
 
   <!-- brawler lens -->
 
-  <BM_SpacerBrawlerCombatModule.label>brawler lens module</BM_SpacerBrawlerCombatModule.label>
-  <BM_SpacerBrawlerCombatModule.description>An installed brawler lens combat module.</BM_SpacerBrawlerCombatModule.description>
+  <BM_SpacerBrawlerCombatModule.label>линза бойца</BM_SpacerBrawlerCombatModule.label>
+  <BM_SpacerBrawlerCombatModule.description>Установленная боевая линза бойца.</BM_SpacerBrawlerCombatModule.description>
 
 
   <!-- ranger lens -->
 
-  <BM_SpacerRangerCombatModule.label>ranger lens module</BM_SpacerRangerCombatModule.label>
-  <BM_SpacerRangerCombatModule.description>An installed ranger lens combat module.</BM_SpacerRangerCombatModule.description>
+  <BM_SpacerRangerCombatModule.label>линза рейнджера</BM_SpacerRangerCombatModule.label>
+  <BM_SpacerRangerCombatModule.description>Установленная боевая линза рейнджера.</BM_SpacerRangerCombatModule.description>
 
 
 </LanguageData>

@@ -3,44 +3,44 @@
 
   <!-- Module -->
 
-  <BM_SpacerPowerClawCombatModule_InstallHuman.label>install power claw module</BM_SpacerPowerClawCombatModule_InstallHuman.label>
-  <BM_SpacerPowerClawCombatModule_InstallHuman.description>Install a power claw module into the body part's combat module slot.</BM_SpacerPowerClawCombatModule_InstallHuman.description>
-  <BM_SpacerPowerClawCombatModule_InstallHuman.jobString>Installing power claw module.</BM_SpacerPowerClawCombatModule_InstallHuman.jobString>
+  <BM_SpacerPowerClawCombatModule_InstallHuman.label>установить модуль силового когтя</BM_SpacerPowerClawCombatModule_InstallHuman.label>
+  <BM_SpacerPowerClawCombatModule_InstallHuman.description>Установить модуль силового когтя в слот боевого модуля части тела.</BM_SpacerPowerClawCombatModule_InstallHuman.description>
+  <BM_SpacerPowerClawCombatModule_InstallHuman.jobString>Установка модуля силового когтя.</BM_SpacerPowerClawCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerPowerClawCombatModule_RemoveFromReplacement.label>remove power claw module</BM_SpacerPowerClawCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerPowerClawCombatModule_RemoveFromReplacement.description>Remove power claw module.</BM_SpacerPowerClawCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerPowerClawCombatModule_RemoveFromReplacement.jobString>Removing power claw module.</BM_SpacerPowerClawCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerPowerClawCombatModule_RemoveFromReplacement.label>удалить модуль силового когтя</BM_SpacerPowerClawCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerPowerClawCombatModule_RemoveFromReplacement.description>Удалить модуль силового когтя.</BM_SpacerPowerClawCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerPowerClawCombatModule_RemoveFromReplacement.jobString>Удаление модуля силового когтя.</BM_SpacerPowerClawCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerPowerBladeCombatModule_InstallHuman.label>install power blade module</BM_SpacerPowerBladeCombatModule_InstallHuman.label>
-  <BM_SpacerPowerBladeCombatModule_InstallHuman.description>Install a power blade module into the body part's combat module slot.</BM_SpacerPowerBladeCombatModule_InstallHuman.description>
-  <BM_SpacerPowerBladeCombatModule_InstallHuman.jobString>Installing power blade module.</BM_SpacerPowerBladeCombatModule_InstallHuman.jobString>
+  <BM_SpacerPowerBladeCombatModule_InstallHuman.label>установить модуль силового клинка</BM_SpacerPowerBladeCombatModule_InstallHuman.label>
+  <BM_SpacerPowerBladeCombatModule_InstallHuman.description>Установить модуль силового клинка в слот боевого модуля части тела.</BM_SpacerPowerBladeCombatModule_InstallHuman.description>
+  <BM_SpacerPowerBladeCombatModule_InstallHuman.jobString>Установка модуля силового клинка.</BM_SpacerPowerBladeCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.label>remove power blade module</BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.description>Remove power blade module.</BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.jobString>Removing power blade module.</BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.label>удалить модуль силового клинка</BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.description>Удалить модуль силового клинка.</BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.jobString>Удаление модуля силового клинка.</BM_SpacerPowerBladeCombatModule_RemoveFromReplacement.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerPowerSawCombatModule_InstallHuman.label>install power saw module</BM_SpacerPowerSawCombatModule_InstallHuman.label>
-  <BM_SpacerPowerSawCombatModule_InstallHuman.description>Install a power saw module into the body part's combat module slot.</BM_SpacerPowerSawCombatModule_InstallHuman.description>
-  <BM_SpacerPowerSawCombatModule_InstallHuman.jobString>Installing power saw module.</BM_SpacerPowerSawCombatModule_InstallHuman.jobString>
+  <BM_SpacerPowerSawCombatModule_InstallHuman.label>установить модуль силовой пилы</BM_SpacerPowerSawCombatModule_InstallHuman.label>
+  <BM_SpacerPowerSawCombatModule_InstallHuman.description>Установить модуль силовой пилы в слот боевого модуля части тела.</BM_SpacerPowerSawCombatModule_InstallHuman.description>
+  <BM_SpacerPowerSawCombatModule_InstallHuman.jobString>Установка модуля силовой пилы.</BM_SpacerPowerSawCombatModule_InstallHuman.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerPowerSawCombatModule_RemoveFromReplacement.label>remove power saw module</BM_SpacerPowerSawCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerPowerSawCombatModule_RemoveFromReplacement.description>Remove power saw module.</BM_SpacerPowerSawCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerPowerSawCombatModule_RemoveFromReplacement.jobString>Removing power saw module.</BM_SpacerPowerSawCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerPowerSawCombatModule_RemoveFromReplacement.label>удалить модуль силовой пилы</BM_SpacerPowerSawCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerPowerSawCombatModule_RemoveFromReplacement.description>Удалить модуль силовой пилы.</BM_SpacerPowerSawCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerPowerSawCombatModule_RemoveFromReplacement.jobString>Удаление модуля силовой пилы.</BM_SpacerPowerSawCombatModule_RemoveFromReplacement.jobString>
 
 
 </LanguageData>

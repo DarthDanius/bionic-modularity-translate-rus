@@ -3,101 +3,101 @@
 
   <!-- Module -->
 
-  <BM_SpacerAtmofilterUtilityModule_InstallAnimal.label>install atmofilter module</BM_SpacerAtmofilterUtilityModule_InstallAnimal.label>
-  <BM_SpacerAtmofilterUtilityModule_InstallAnimal.description>Install an atmofilter module into the body part's utility module slot.</BM_SpacerAtmofilterUtilityModule_InstallAnimal.description>
-  <BM_SpacerAtmofilterUtilityModule_InstallAnimal.jobString>Installing atmofilter module.</BM_SpacerAtmofilterUtilityModule_InstallAnimal.jobString>
+  <BM_SpacerAtmofilterUtilityModule_InstallAnimal.label>установить модуль атмосфильтра</BM_SpacerAtmofilterUtilityModule_InstallAnimal.label>
+  <BM_SpacerAtmofilterUtilityModule_InstallAnimal.description>Установить модуль атмосфильтра в слот утилитарного модуля части тела.</BM_SpacerAtmofilterUtilityModule_InstallAnimal.description>
+  <BM_SpacerAtmofilterUtilityModule_InstallAnimal.jobString>Установка модуля атмосфильтра.</BM_SpacerAtmofilterUtilityModule_InstallAnimal.jobString>
 
-  <BM_SpacerAtmofilterUtilityModule_InstallHuman.label>install atmofilter module</BM_SpacerAtmofilterUtilityModule_InstallHuman.label>
-  <BM_SpacerAtmofilterUtilityModule_InstallHuman.description>Install an atmofilter module into the body part's utility module slot.</BM_SpacerAtmofilterUtilityModule_InstallHuman.description>
-  <BM_SpacerAtmofilterUtilityModule_InstallHuman.jobString>Installing atmofilter module.</BM_SpacerAtmofilterUtilityModule_InstallHuman.jobString>
+  <BM_SpacerAtmofilterUtilityModule_InstallHuman.label>установить модуль атмосфильтра</BM_SpacerAtmofilterUtilityModule_InstallHuman.label>
+  <BM_SpacerAtmofilterUtilityModule_InstallHuman.description>Установить модуль атмосфильтра в слот утилитарного модуля части тела.</BM_SpacerAtmofilterUtilityModule_InstallHuman.description>
+  <BM_SpacerAtmofilterUtilityModule_InstallHuman.jobString>Установка модуля атмосфильтра.</BM_SpacerAtmofilterUtilityModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.label>install atmofilter module.</BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.label>
-  <BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.description>Install an atmofilter module into the body part's utility module slot.</BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.description>
-  <BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.jobString>Installing atmofilter module.</BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.jobString>
+  <BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.label>установить модуль атмосфильтра</BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.description>Установить модуль атмосфильтра в слот утилитарного модуля части тела.</BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.jobString>Установка модуля атмосфильтра.</BM_SpacerAtmofilterUtilityModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.label>install atmofilter module.</BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.label>
-  <BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.description>Install an atmofilter module into the body part's utility module slot.</BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.description>
-  <BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.jobString>Installing atmofilter module.</BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.label>установить модуль атмосфильтра</BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.description>Установить модуль атмосфильтра в слот утилитарного модуля части тела.</BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.jobString>Установка модуля атмосфильтра.</BM_SpacerAtmofilterUtilityModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.label>remove atmofilter module</BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.label>
-  <BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.description>Remove atmofilter module.</BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.description>
-  <BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.jobString>Removing atmofilter module.</BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.label>удалить модуль атмосфильтра</BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.description>Удалить модуль атмосфильтра.</BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.jobString>Удаление модуля атмосфильтра.</BM_SpacerAtmofilterUtilityModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.label>remove atmofilter module</BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.label>
-  <BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.description>Remove atmofilter module.</BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.description>
-  <BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.jobString>Removing atmofilter module.</BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.jobString>
+  <BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.label>удалить модуль атмосфильтра</BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.description>Удалить модуль атмосфильтра.</BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.jobString>Удаление модуля атмосфильтра.</BM_SpacerAtmofilterUtilityModule_RemoveFromNatural.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerHeaterUtilityModule_InstallAnimal.label>install heater module</BM_SpacerHeaterUtilityModule_InstallAnimal.label>
-  <BM_SpacerHeaterUtilityModule_InstallAnimal.description>Install a heater module into the body part's utility module slot.</BM_SpacerHeaterUtilityModule_InstallAnimal.description>
-  <BM_SpacerHeaterUtilityModule_InstallAnimal.jobString>Installing heater module.</BM_SpacerHeaterUtilityModule_InstallAnimal.jobString>
+  <BM_SpacerHeaterUtilityModule_InstallAnimal.label>установить модуль обогревателя</BM_SpacerHeaterUtilityModule_InstallAnimal.label>
+  <BM_SpacerHeaterUtilityModule_InstallAnimal.description>Установить модуль обогревателя в слот утилитарного модуля части тела.</BM_SpacerHeaterUtilityModule_InstallAnimal.description>
+  <BM_SpacerHeaterUtilityModule_InstallAnimal.jobString>Установка модуля обогревателя.</BM_SpacerHeaterUtilityModule_InstallAnimal.jobString>
 
-  <BM_SpacerHeaterUtilityModule_InstallHuman.label>install heater module</BM_SpacerHeaterUtilityModule_InstallHuman.label>
-  <BM_SpacerHeaterUtilityModule_InstallHuman.description>Install a heater module into the body part's utility module slot.</BM_SpacerHeaterUtilityModule_InstallHuman.description>
-  <BM_SpacerHeaterUtilityModule_InstallHuman.jobString>Installing heater module.</BM_SpacerHeaterUtilityModule_InstallHuman.jobString>
+  <BM_SpacerHeaterUtilityModule_InstallHuman.label>установить модуль обогревателя</BM_SpacerHeaterUtilityModule_InstallHuman.label>
+  <BM_SpacerHeaterUtilityModule_InstallHuman.description>Установить модуль обогревателя в слот утилитарного модуля части тела.</BM_SpacerHeaterUtilityModule_InstallHuman.description>
+  <BM_SpacerHeaterUtilityModule_InstallHuman.jobString>Установка модуля обогревателя.</BM_SpacerHeaterUtilityModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerHeaterUtilityModule_InstallHuman_Implant.label>install heater module.</BM_SpacerHeaterUtilityModule_InstallHuman_Implant.label>
-  <BM_SpacerHeaterUtilityModule_InstallHuman_Implant.description>Install a heater module into the body part's utility module slot.</BM_SpacerHeaterUtilityModule_InstallHuman_Implant.description>
-  <BM_SpacerHeaterUtilityModule_InstallHuman_Implant.jobString>Installing heater module.</BM_SpacerHeaterUtilityModule_InstallHuman_Implant.jobString>
+  <BM_SpacerHeaterUtilityModule_InstallHuman_Implant.label>установить модуль обогревателя</BM_SpacerHeaterUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerHeaterUtilityModule_InstallHuman_Implant.description>Установить модуль обогревателя в слот утилитарного модуля части тела.</BM_SpacerHeaterUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerHeaterUtilityModule_InstallHuman_Implant.jobString>Установка модуля обогревателя.</BM_SpacerHeaterUtilityModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.label>install heater module.</BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.label>
-  <BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.description>Install a heater module into the body part's utility module slot.</BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.description>
-  <BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.jobString>Installing heater module.</BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.label>установить модуль обогревателя</BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.description>Установить модуль обогревателя в слот утилитарного модуля части тела.</BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.jobString>Установка модуля обогревателя.</BM_SpacerHeaterUtilityModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerHeaterUtilityModule_RemoveFromReplacement.label>remove heater module</BM_SpacerHeaterUtilityModule_RemoveFromReplacement.label>
-  <BM_SpacerHeaterUtilityModule_RemoveFromReplacement.description>Remove heater module.</BM_SpacerHeaterUtilityModule_RemoveFromReplacement.description>
-  <BM_SpacerHeaterUtilityModule_RemoveFromReplacement.jobString>Removing heater module.</BM_SpacerHeaterUtilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerHeaterUtilityModule_RemoveFromReplacement.label>удалить модуль обогревателя</BM_SpacerHeaterUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerHeaterUtilityModule_RemoveFromReplacement.description>Удалить модуль обогревателя.</BM_SpacerHeaterUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerHeaterUtilityModule_RemoveFromReplacement.jobString>Удаление модуля обогревателя.</BM_SpacerHeaterUtilityModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerHeaterUtilityModule_RemoveFromNatural.label>remove heater module</BM_SpacerHeaterUtilityModule_RemoveFromNatural.label>
-  <BM_SpacerHeaterUtilityModule_RemoveFromNatural.description>Remove heater module.</BM_SpacerHeaterUtilityModule_RemoveFromNatural.description>
-  <BM_SpacerHeaterUtilityModule_RemoveFromNatural.jobString>Removing heater module.</BM_SpacerHeaterUtilityModule_RemoveFromNatural.jobString>
+  <BM_SpacerHeaterUtilityModule_RemoveFromNatural.label>удалить модуль обогревателя</BM_SpacerHeaterUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerHeaterUtilityModule_RemoveFromNatural.description>Удалить модуль обогревателя.</BM_SpacerHeaterUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerHeaterUtilityModule_RemoveFromNatural.jobString>Удаление модуля обогревателя.</BM_SpacerHeaterUtilityModule_RemoveFromNatural.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerCoolerUtilityModule_InstallAnimal.label>install cooler module</BM_SpacerCoolerUtilityModule_InstallAnimal.label>
-  <BM_SpacerCoolerUtilityModule_InstallAnimal.description>Install a cooler module into the body part's utility module slot.</BM_SpacerCoolerUtilityModule_InstallAnimal.description>
-  <BM_SpacerCoolerUtilityModule_InstallAnimal.jobString>Installing cooler module.</BM_SpacerCoolerUtilityModule_InstallAnimal.jobString>
+  <BM_SpacerCoolerUtilityModule_InstallAnimal.label>установить модуль охладителя</BM_SpacerCoolerUtilityModule_InstallAnimal.label>
+  <BM_SpacerCoolerUtilityModule_InstallAnimal.description>Установить модуль охладителя в слот утилитарного модуля части тела.</BM_SpacerCoolerUtilityModule_InstallAnimal.description>
+  <BM_SpacerCoolerUtilityModule_InstallAnimal.jobString>Установка модуля охладителя.</BM_SpacerCoolerUtilityModule_InstallAnimal.jobString>
 
-  <BM_SpacerCoolerUtilityModule_InstallHuman.label>install cooler module</BM_SpacerCoolerUtilityModule_InstallHuman.label>
-  <BM_SpacerCoolerUtilityModule_InstallHuman.description>Install a cooler module into the body part's utility module slot.</BM_SpacerCoolerUtilityModule_InstallHuman.description>
-  <BM_SpacerCoolerUtilityModule_InstallHuman.jobString>Installing cooler module.</BM_SpacerCoolerUtilityModule_InstallHuman.jobString>
+  <BM_SpacerCoolerUtilityModule_InstallHuman.label>установить модуль охладителя</BM_SpacerCoolerUtilityModule_InstallHuman.label>
+  <BM_SpacerCoolerUtilityModule_InstallHuman.description>Установить модуль охладителя в слот утилитарного модуля части тела.</BM_SpacerCoolerUtilityModule_InstallHuman.description>
+  <BM_SpacerCoolerUtilityModule_InstallHuman.jobString>Установка модуля охладителя.</BM_SpacerCoolerUtilityModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerCoolerUtilityModule_InstallHuman_Implant.label>install cooler module.</BM_SpacerCoolerUtilityModule_InstallHuman_Implant.label>
-  <BM_SpacerCoolerUtilityModule_InstallHuman_Implant.description>Install a cooler module into the body part's utility module slot.</BM_SpacerCoolerUtilityModule_InstallHuman_Implant.description>
-  <BM_SpacerCoolerUtilityModule_InstallHuman_Implant.jobString>Installing cooler module.</BM_SpacerCoolerUtilityModule_InstallHuman_Implant.jobString>
+  <BM_SpacerCoolerUtilityModule_InstallHuman_Implant.label>установить модуль охладителя</BM_SpacerCoolerUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerCoolerUtilityModule_InstallHuman_Implant.description>Установить модуль охладителя в слот утилитарного модуля части тела.</BM_SpacerCoolerUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerCoolerUtilityModule_InstallHuman_Implant.jobString>Установка модуля охладителя.</BM_SpacerCoolerUtilityModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.label>install cooler module.</BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.label>
-  <BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.description>Install a cooler module into the body part's utility module slot.</BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.description>
-  <BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.jobString>Installing cooler module.</BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.label>установить модуль охладителя</BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.description>Установить модуль охладителя в слот утилитарного модуля части тела.</BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.jobString>Установка модуля охладителя.</BM_SpacerCoolerUtilityModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerCoolerUtilityModule_RemoveFromReplacement.label>remove cooler module</BM_SpacerCoolerUtilityModule_RemoveFromReplacement.label>
-  <BM_SpacerCoolerUtilityModule_RemoveFromReplacement.description>Remove cooler module.</BM_SpacerCoolerUtilityModule_RemoveFromReplacement.description>
-  <BM_SpacerCoolerUtilityModule_RemoveFromReplacement.jobString>Removing cooler module.</BM_SpacerCoolerUtilityModule_RemoveFromReplacement.jobString>
+  <BM_SpacerCoolerUtilityModule_RemoveFromReplacement.label>удалить модуль охладителя</BM_SpacerCoolerUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerCoolerUtilityModule_RemoveFromReplacement.description>Удалить модуль охладителя.</BM_SpacerCoolerUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerCoolerUtilityModule_RemoveFromReplacement.jobString>Удаление модуля охладителя.</BM_SpacerCoolerUtilityModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerCoolerUtilityModule_RemoveFromNatural.label>remove cooler module</BM_SpacerCoolerUtilityModule_RemoveFromNatural.label>
-  <BM_SpacerCoolerUtilityModule_RemoveFromNatural.description>Remove cooler module.</BM_SpacerCoolerUtilityModule_RemoveFromNatural.description>
-  <BM_SpacerCoolerUtilityModule_RemoveFromNatural.jobString>Removing cooler module.</BM_SpacerCoolerUtilityModule_RemoveFromNatural.jobString>
+  <BM_SpacerCoolerUtilityModule_RemoveFromNatural.label>удалить модуль охладителя</BM_SpacerCoolerUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerCoolerUtilityModule_RemoveFromNatural.description>Удалить модуль охладителя.</BM_SpacerCoolerUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerCoolerUtilityModule_RemoveFromNatural.jobString>Удаление модуля охладителя.</BM_SpacerCoolerUtilityModule_RemoveFromNatural.jobString>
 
 
 </LanguageData>

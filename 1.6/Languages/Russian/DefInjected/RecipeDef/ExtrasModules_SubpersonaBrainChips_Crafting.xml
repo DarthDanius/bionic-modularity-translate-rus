@@ -3,20 +3,20 @@
 
   <!-- Implant production [Biotech required] -->
 
-  <BM_SpacerAssemblerSubpersonaChip_Produce.label>make assembler subpersona</BM_SpacerAssemblerSubpersonaChip_Produce.label>
-  <BM_SpacerAssemblerSubpersonaChip_Produce.description>Make a assembler subpersona.</BM_SpacerAssemblerSubpersonaChip_Produce.description>
-  <BM_SpacerAssemblerSubpersonaChip_Produce.jobString>Making assembler subpersona.</BM_SpacerAssemblerSubpersonaChip_Produce.jobString>
+  <BM_SpacerAssemblerSubpersonaChip_Produce.label>создать подличность сборщика</BM_SpacerAssemblerSubpersonaChip_Produce.label>
+  <BM_SpacerAssemblerSubpersonaChip_Produce.description>Создать подличность сборщика.</BM_SpacerAssemblerSubpersonaChip_Produce.description>
+  <BM_SpacerAssemblerSubpersonaChip_Produce.jobString>Создание подличности сборщика.</BM_SpacerAssemblerSubpersonaChip_Produce.jobString>
 
 
   <!-- Implant Installation -->
 
-  <Install_BM_SpacerAssemblerSubpersonaChip.label>install assembler subpersona</Install_BM_SpacerAssemblerSubpersonaChip.label>
-  <Install_BM_SpacerAssemblerSubpersonaChip.description>Install assembler subpersona.</Install_BM_SpacerAssemblerSubpersonaChip.description>
-  <Install_BM_SpacerAssemblerSubpersonaChip.jobString>Installing assembler subpersona.</Install_BM_SpacerAssemblerSubpersonaChip.jobString>
+  <Install_BM_SpacerAssemblerSubpersonaChip.label>установить подличность сборщика</Install_BM_SpacerAssemblerSubpersonaChip.label>
+  <Install_BM_SpacerAssemblerSubpersonaChip.description>Установить подличность сборщика.</Install_BM_SpacerAssemblerSubpersonaChip.description>
+  <Install_BM_SpacerAssemblerSubpersonaChip.jobString>Установка подличности сборщика.</Install_BM_SpacerAssemblerSubpersonaChip.jobString>
 
-  <Remove_BM_SpacerAssemblerSubpersonaChip.label>remove assembler subpersona</Remove_BM_SpacerAssemblerSubpersonaChip.label>
-  <Remove_BM_SpacerAssemblerSubpersonaChip.description>Remove assembler subpersona.</Remove_BM_SpacerAssemblerSubpersonaChip.description>
-  <Remove_BM_SpacerAssemblerSubpersonaChip.jobString>Removing assembler subpersona.</Remove_BM_SpacerAssemblerSubpersonaChip.jobString>
+  <Remove_BM_SpacerAssemblerSubpersonaChip.label>удалить подличность сборщика</Remove_BM_SpacerAssemblerSubpersonaChip.label>
+  <Remove_BM_SpacerAssemblerSubpersonaChip.description>Удалить подличность сборщика.</Remove_BM_SpacerAssemblerSubpersonaChip.description>
+  <Remove_BM_SpacerAssemblerSubpersonaChip.jobString>Удаление подличности сборщика.</Remove_BM_SpacerAssemblerSubpersonaChip.jobString>
 
 
 </LanguageData>

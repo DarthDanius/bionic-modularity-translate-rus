@@ -3,8 +3,8 @@
 
 
 
-  <BM_RefueledWith>Fuel:</BM_RefueledWith>
-  <BM_FuelLevel>Fuel level:</BM_FuelLevel>
-  <!--Was too lazy to figure out how to put the chemical's label in the middle of the line-->
+  <BM_RefueledWith>Топливо:</BM_RefueledWith>
+  <BM_FuelLevel>Уровень топлива:</BM_FuelLevel>
+  <!--Было лень разбираться, как вставить название химиката в середину строки-->
 
 </LanguageData>

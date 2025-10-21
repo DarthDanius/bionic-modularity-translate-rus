@@ -3,26 +3,26 @@
 
   <!-- pyroweave -->
 
-  <BM_SpacerPyroweaveSupportModule.label>pyroweave module</BM_SpacerPyroweaveSupportModule.label>
-  <BM_SpacerPyroweaveSupportModule.description>A high-tech device that can be installed into any compatible artificial limb or spine replacement. This particular model, upon detecting an attack on the user, sends out a directional burst of highly combustible micro-gas toward the attacker through the module's vent-like openings. Due to its limited effective range it is most potent in close-quarters combat, especially against assailants within melee range.</BM_SpacerPyroweaveSupportModule.description>
+  <BM_SpacerPyroweaveSupportModule.label>пироплетёный модуль</BM_SpacerPyroweaveSupportModule.label>
+  <BM_SpacerPyroweaveSupportModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель конечности или позвоночника. Эта модель, обнаружив атаку на пользователя, выпускает направленный выброс высокогорючего микрогаза в сторону атакующего через вентиляционные отверстия модуля. Из-за ограниченной эффективной дальности наиболее эффективен в ближнем бою, особенно против нападающих в пределах дистанции рукопашной схватки.</BM_SpacerPyroweaveSupportModule.description>
 
 
   <!-- magweave -->
 
-  <BM_SpacerMagweaveSupportModule.label>magweave module</BM_SpacerMagweaveSupportModule.label>
-  <BM_SpacerMagweaveSupportModule.description>A high-tech device that can be installed into any compatible artificial limb or spine replacement. This particular model, upon detecting an attack on the user, sends out a directional electromagnetic pulse towards the attacker. Due to its limited effective range it is most potent in close-quarters combat, especially against assailants within melee range.</BM_SpacerMagweaveSupportModule.description>
+  <BM_SpacerMagweaveSupportModule.label>магплетёный модуль</BM_SpacerMagweaveSupportModule.label>
+  <BM_SpacerMagweaveSupportModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель конечности или позвоночника. Эта модель, обнаружив атаку на пользователя, выпускает направленный электромагнитный импульс в сторону атакующего. Из-за ограниченной эффективной дальности наиболее эффективен в ближнем бою, особенно против нападающих в пределах дистанции рукопашной схватки.</BM_SpacerMagweaveSupportModule.description>
 
 
   <!-- cryoweave -->
 
-  <BM_SpacerCryoweaveSupportModule.label>cryoweave module</BM_SpacerCryoweaveSupportModule.label>
-  <BM_SpacerCryoweaveSupportModule.description>A high-tech device that can be installed into any compatible artificial limb or spine replacement. This particular model, upon detecting an attack on the user, sends out a directional burst of cryogenic micro-gas toward the attacker through the module's vent-like openings. Due to its limited effective range it is most potent in close-quarters combat, especially against assailants within melee range.</BM_SpacerCryoweaveSupportModule.description>
+  <BM_SpacerCryoweaveSupportModule.label>криоплетёный модуль</BM_SpacerCryoweaveSupportModule.label>
+  <BM_SpacerCryoweaveSupportModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель конечности или позвоночника. Эта модель, обнаружив атаку на пользователя, выпускает направленный выброс криогенного микрогаза в сторону атакующего через вентиляционные отверстия модуля. Из-за ограниченной эффективной дальности наиболее эффективен в ближнем бою, особенно против нападающих в пределах дистанции рукопашной схватки.</BM_SpacerCryoweaveSupportModule.description>
 
 
   <!-- toxweave -->
 
-  <BM_SpacerToxweaveSupportModule.label>toxweave module</BM_SpacerToxweaveSupportModule.label>
-  <BM_SpacerToxweaveSupportModule.description>A high-tech device that can be installed into any compatible artificial limb or spine replacement. This particular model, upon detecting an attack on the user, sends out a directional burst of toxic micro-gas toward the attacker through the module's vent-like openings. Due to its limited effective range it is most potent in close-quarters combat, especially against assailants within melee range.</BM_SpacerToxweaveSupportModule.description>
+  <BM_SpacerToxweaveSupportModule.label>токсиплетёный модуль</BM_SpacerToxweaveSupportModule.label>
+  <BM_SpacerToxweaveSupportModule.description>Высокотехнологичное устройство, которое можно установить в любой совместимый искусственный заменитель конечности или позвоночника. Эта модель, обнаружив атаку на пользователя, выпускает направленный выброс токсичного микрогаза в сторону атакующего через вентиляционные отверстия модуля. Из-за ограниченной эффективной дальности наиболее эффективен в ближнем бою, особенно против нападающих в пределах дистанции рукопашной схватки.</BM_SpacerToxweaveSupportModule.description>
 
 
 </LanguageData>

@@ -3,68 +3,68 @@
 
   <!-- Module -->
 
-  <BM_SpacerBrawlerCombatModule_InstallAnimal.label>install brawler lens module</BM_SpacerBrawlerCombatModule_InstallAnimal.label>
-  <BM_SpacerBrawlerCombatModule_InstallAnimal.description>Install a brawler lens module into the body part's combat module slot.</BM_SpacerBrawlerCombatModule_InstallAnimal.description>
-  <BM_SpacerBrawlerCombatModule_InstallAnimal.jobString>Installing brawler lens module.</BM_SpacerBrawlerCombatModule_InstallAnimal.jobString>
+  <BM_SpacerBrawlerCombatModule_InstallAnimal.label>установить модуль линзы рубаки</BM_SpacerBrawlerCombatModule_InstallAnimal.label>
+  <BM_SpacerBrawlerCombatModule_InstallAnimal.description>Установить модуль линзы рубаки в слот боевого модуля части тела.</BM_SpacerBrawlerCombatModule_InstallAnimal.description>
+  <BM_SpacerBrawlerCombatModule_InstallAnimal.jobString>Установка модуля линзы рубаки.</BM_SpacerBrawlerCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerBrawlerCombatModule_InstallHuman.label>install brawler lens module</BM_SpacerBrawlerCombatModule_InstallHuman.label>
-  <BM_SpacerBrawlerCombatModule_InstallHuman.description>Install a brawler lens module into the body part's combat module slot.</BM_SpacerBrawlerCombatModule_InstallHuman.description>
-  <BM_SpacerBrawlerCombatModule_InstallHuman.jobString>Installing brawler lens module.</BM_SpacerBrawlerCombatModule_InstallHuman.jobString>
+  <BM_SpacerBrawlerCombatModule_InstallHuman.label>установить модуль линзы рубаки</BM_SpacerBrawlerCombatModule_InstallHuman.label>
+  <BM_SpacerBrawlerCombatModule_InstallHuman.description>Установить модуль линзы рубаки в слот боевого модуля части тела.</BM_SpacerBrawlerCombatModule_InstallHuman.description>
+  <BM_SpacerBrawlerCombatModule_InstallHuman.jobString>Установка модуля линзы рубаки.</BM_SpacerBrawlerCombatModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerBrawlerCombatModule_InstallHuman_Implant.label>install brawler lens module.</BM_SpacerBrawlerCombatModule_InstallHuman_Implant.label>
-  <BM_SpacerBrawlerCombatModule_InstallHuman_Implant.description>Install a brawler lens module into the body part's combat module slot.</BM_SpacerBrawlerCombatModule_InstallHuman_Implant.description>
-  <BM_SpacerBrawlerCombatModule_InstallHuman_Implant.jobString>Installing brawler lens module.</BM_SpacerBrawlerCombatModule_InstallHuman_Implant.jobString>
+  <BM_SpacerBrawlerCombatModule_InstallHuman_Implant.label>установить модуль линзы рубаки</BM_SpacerBrawlerCombatModule_InstallHuman_Implant.label>
+  <BM_SpacerBrawlerCombatModule_InstallHuman_Implant.description>Установить модуль линзы рубаки в слот боевого модуля части тела.</BM_SpacerBrawlerCombatModule_InstallHuman_Implant.description>
+  <BM_SpacerBrawlerCombatModule_InstallHuman_Implant.jobString>Установка модуля линзы рубаки.</BM_SpacerBrawlerCombatModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.label>install brawler lens module into the body part's combat module slot.</BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.label>
-  <BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.description>Install a brawler lens module.</BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.description>
-  <BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.jobString>Installing brawler lens module.</BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.label>установить модуль линзы рубаки в слот боевого модуля части тела</BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.label>
+  <BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.description>Установить модуль линзы рубаки.</BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.description>
+  <BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.jobString>Установка модуля линзы рубаки.</BM_SpacerBrawlerCombatModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerBrawlerCombatModule_RemoveFromReplacement.label>remove brawler lens module</BM_SpacerBrawlerCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerBrawlerCombatModule_RemoveFromReplacement.description>Remove brawler lens module.</BM_SpacerBrawlerCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerBrawlerCombatModule_RemoveFromReplacement.jobString>Removing brawler lens module.</BM_SpacerBrawlerCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerBrawlerCombatModule_RemoveFromReplacement.label>удалить модуль линзы рубаки</BM_SpacerBrawlerCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerBrawlerCombatModule_RemoveFromReplacement.description>Удалить модуль линзы рубаки.</BM_SpacerBrawlerCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerBrawlerCombatModule_RemoveFromReplacement.jobString>Удаление модуля линзы рубаки.</BM_SpacerBrawlerCombatModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerBrawlerCombatModule_RemoveFromNatural.label>remove brawler lens module</BM_SpacerBrawlerCombatModule_RemoveFromNatural.label>
-  <BM_SpacerBrawlerCombatModule_RemoveFromNatural.description>Remove brawler lens module.</BM_SpacerBrawlerCombatModule_RemoveFromNatural.description>
-  <BM_SpacerBrawlerCombatModule_RemoveFromNatural.jobString>Removing brawler lens module.</BM_SpacerBrawlerCombatModule_RemoveFromNatural.jobString>
+  <BM_SpacerBrawlerCombatModule_RemoveFromNatural.label>удалить модуль линзы рубаки</BM_SpacerBrawlerCombatModule_RemoveFromNatural.label>
+  <BM_SpacerBrawlerCombatModule_RemoveFromNatural.description>Удалить модуль линзы рубаки.</BM_SpacerBrawlerCombatModule_RemoveFromNatural.description>
+  <BM_SpacerBrawlerCombatModule_RemoveFromNatural.jobString>Удаление модуля линзы рубаки.</BM_SpacerBrawlerCombatModule_RemoveFromNatural.jobString>
 
 
   <!-- Module -->
 
-  <BM_SpacerRangerCombatModule_InstallAnimal.label>install ranger lens module</BM_SpacerRangerCombatModule_InstallAnimal.label>
-  <BM_SpacerRangerCombatModule_InstallAnimal.description>Install a ranger lens module into the body part's combat module slot.</BM_SpacerRangerCombatModule_InstallAnimal.description>
-  <BM_SpacerRangerCombatModule_InstallAnimal.jobString>Installing ranger lens module.</BM_SpacerRangerCombatModule_InstallAnimal.jobString>
+  <BM_SpacerRangerCombatModule_InstallAnimal.label>установить модуль линзы рейнджера</BM_SpacerRangerCombatModule_InstallAnimal.label>
+  <BM_SpacerRangerCombatModule_InstallAnimal.description>Установить модуль линзы рейнджера в слот боевого модуля части тела.</BM_SpacerRangerCombatModule_InstallAnimal.description>
+  <BM_SpacerRangerCombatModule_InstallAnimal.jobString>Установка модуля линзы рейнджера.</BM_SpacerRangerCombatModule_InstallAnimal.jobString>
 
-  <BM_SpacerRangerCombatModule_InstallHuman.label>install ranger lens module</BM_SpacerRangerCombatModule_InstallHuman.label>
-  <BM_SpacerRangerCombatModule_InstallHuman.description>Install a ranger lens module into the body part's combat module slot.</BM_SpacerRangerCombatModule_InstallHuman.description>
-  <BM_SpacerRangerCombatModule_InstallHuman.jobString>Installing ranger lens module.</BM_SpacerRangerCombatModule_InstallHuman.jobString>
+  <BM_SpacerRangerCombatModule_InstallHuman.label>установить модуль линзы рейнджера</BM_SpacerRangerCombatModule_InstallHuman.label>
+  <BM_SpacerRangerCombatModule_InstallHuman.description>Установить модуль линзы рейнджера в слот боевого модуля части тела.</BM_SpacerRangerCombatModule_InstallHuman.description>
+  <BM_SpacerRangerCombatModule_InstallHuman.jobString>Установка модуля линзы рейнджера.</BM_SpacerRangerCombatModule_InstallHuman.jobString>
 
 
   <!-- Implant -->
 
-  <BM_SpacerRangerCombatModule_InstallHuman_Implant.label>install ranger lens module.</BM_SpacerRangerCombatModule_InstallHuman_Implant.label>
-  <BM_SpacerRangerCombatModule_InstallHuman_Implant.description>Install a ranger lens module into the body part's combat module slot.</BM_SpacerRangerCombatModule_InstallHuman_Implant.description>
-  <BM_SpacerRangerCombatModule_InstallHuman_Implant.jobString>Installing ranger lens module.</BM_SpacerRangerCombatModule_InstallHuman_Implant.jobString>
+  <BM_SpacerRangerCombatModule_InstallHuman_Implant.label>установить модуль линзы рейнджера</BM_SpacerRangerCombatModule_InstallHuman_Implant.label>
+  <BM_SpacerRangerCombatModule_InstallHuman_Implant.description>Установить модуль линзы рейнджера в слот боевого модуля части тела.</BM_SpacerRangerCombatModule_InstallHuman_Implant.description>
+  <BM_SpacerRangerCombatModule_InstallHuman_Implant.jobString>Установка модуля линзы рейнджера.</BM_SpacerRangerCombatModule_InstallHuman_Implant.jobString>
 
-  <BM_SpacerRangerCombatModule_InstallAnimal_Implant.label>install ranger lens module.</BM_SpacerRangerCombatModule_InstallAnimal_Implant.label>
-  <BM_SpacerRangerCombatModule_InstallAnimal_Implant.description>Install a ranger lens module into the body part's combat module slot.</BM_SpacerRangerCombatModule_InstallAnimal_Implant.description>
-  <BM_SpacerRangerCombatModule_InstallAnimal_Implant.jobString>Installing ranger lens module.</BM_SpacerRangerCombatModule_InstallAnimal_Implant.jobString>
+  <BM_SpacerRangerCombatModule_InstallAnimal_Implant.label>установить модуль линзы рейнджера</BM_SpacerRangerCombatModule_InstallAnimal_Implant.label>
+  <BM_SpacerRangerCombatModule_InstallAnimal_Implant.description>Установить модуль линзы рейнджера в слот боевого модуля части тела.</BM_SpacerRangerCombatModule_InstallAnimal_Implant.description>
+  <BM_SpacerRangerCombatModule_InstallAnimal_Implant.jobString>Установка модуля линзы рейнджера.</BM_SpacerRangerCombatModule_InstallAnimal_Implant.jobString>
 
 
   <!-- Removal -->
 
-  <BM_SpacerRangerCombatModule_RemoveFromReplacement.label>remove ranger lens module</BM_SpacerRangerCombatModule_RemoveFromReplacement.label>
-  <BM_SpacerRangerCombatModule_RemoveFromReplacement.description>Remove ranger lens module.</BM_SpacerRangerCombatModule_RemoveFromReplacement.description>
-  <BM_SpacerRangerCombatModule_RemoveFromReplacement.jobString>Removing ranger lens module.</BM_SpacerRangerCombatModule_RemoveFromReplacement.jobString>
+  <BM_SpacerRangerCombatModule_RemoveFromReplacement.label>удалить модуль линзы рейнджера</BM_SpacerRangerCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerRangerCombatModule_RemoveFromReplacement.description>Удалить модуль линзы рейнджера.</BM_SpacerRangerCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerRangerCombatModule_RemoveFromReplacement.jobString>Удаление модуля линзы рейнджера.</BM_SpacerRangerCombatModule_RemoveFromReplacement.jobString>
 
-  <BM_SpacerRangerCombatModule_RemoveFromNatural.label>remove ranger lens module</BM_SpacerRangerCombatModule_RemoveFromNatural.label>
-  <BM_SpacerRangerCombatModule_RemoveFromNatural.description>Remove ranger lens module.</BM_SpacerRangerCombatModule_RemoveFromNatural.description>
-  <BM_SpacerRangerCombatModule_RemoveFromNatural.jobString>Removing ranger lens module.</BM_SpacerRangerCombatModule_RemoveFromNatural.jobString>
+  <BM_SpacerRangerCombatModule_RemoveFromNatural.label>удалить модуль линзы рейнджера</BM_SpacerRangerCombatModule_RemoveFromNatural.label>
+  <BM_SpacerRangerCombatModule_RemoveFromNatural.description>Удалить модуль линзы рейнджера.</BM_SpacerRangerCombatModule_RemoveFromNatural.description>
+  <BM_SpacerRangerCombatModule_RemoveFromNatural.jobString>Удаление модуля линзы рейнджера.</BM_SpacerRangerCombatModule_RemoveFromNatural.jobString>
 
 
 </LanguageData>
