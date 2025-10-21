@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- resurrector -->
+
+  <BM_SpacerResurrectorSupportModule.label>resurrector module</BM_SpacerResurrectorSupportModule.label>
+  <BM_SpacerResurrectorSupportModule.description>A high-tech device that can be installed into a heart or any compatible artificial heart replacement. This particular module is capable of reviving its host. The resurrection process begins shortly after death and might take a few hours or up to a few days depending on the state of the body, damage and decay caused by diseases or toxins slows down the process significantly, but causes no further complications. It needs to be loaded with a resurrector mech serum in order to work, a single serum can supply the implant with enough mechanites to perform two resurrections.</BM_SpacerResurrectorSupportModule.description>
+
+
+</LanguageData>

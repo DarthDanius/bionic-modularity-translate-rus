@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- doomsday rocket launcher -->
+
+  <BM_SpacerDoomsdayRocketLauncherCombatModule.label>doomsday rocket launcher module</BM_SpacerDoomsdayRocketLauncherCombatModule.label>
+  <BM_SpacerDoomsdayRocketLauncherCombatModule.description>An installed doomsday rocket launcher combat module.</BM_SpacerDoomsdayRocketLauncherCombatModule.description>
+  <BM_SpacerDoomsdayRocketLauncherCombatModule.comps.0.verbs.0.label>doomsday rocket launcher</BM_SpacerDoomsdayRocketLauncherCombatModule.comps.0.verbs.0.label>
+  <BM_SpacerDoomsdayRocketLauncherCombatModule.comps.0.verbProps.0.label>doomsday rocket launcher</BM_SpacerDoomsdayRocketLauncherCombatModule.comps.0.verbProps.0.label>
+
+
+</LanguageData>

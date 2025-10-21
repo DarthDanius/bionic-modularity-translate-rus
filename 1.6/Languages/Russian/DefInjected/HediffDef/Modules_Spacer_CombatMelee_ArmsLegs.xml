@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- power claw -->
+
+  <BM_SpacerPowerClawCombatModule.label>power claw module</BM_SpacerPowerClawCombatModule.label>
+  <BM_SpacerPowerClawCombatModule.description>An installed power claw combat module.</BM_SpacerPowerClawCombatModule.description>
+  <BM_SpacerPowerClawCombatModule.comps.0.tools.0.label>power claw</BM_SpacerPowerClawCombatModule.comps.0.tools.0.label>
+
+
+  <!-- power blade -->
+
+  <BM_SpacerPowerBladeCombatModule.label>power blade module</BM_SpacerPowerBladeCombatModule.label>
+  <BM_SpacerPowerBladeCombatModule.description>An installed power blade combat module.</BM_SpacerPowerBladeCombatModule.description>
+  <BM_SpacerPowerBladeCombatModule.comps.0.tools.0.label>power blade</BM_SpacerPowerBladeCombatModule.comps.0.tools.0.label>
+
+
+  <!-- power saw -->
+
+  <BM_SpacerPowerSawCombatModule.label>power saw module</BM_SpacerPowerSawCombatModule.label>
+  <BM_SpacerPowerSawCombatModule.description>An installed power saw combat module.</BM_SpacerPowerSawCombatModule.description>
+  <BM_SpacerPowerSawCombatModule.comps.0.tools.0.label>power saw</BM_SpacerPowerSawCombatModule.comps.0.tools.0.label>
+
+
+</LanguageData>

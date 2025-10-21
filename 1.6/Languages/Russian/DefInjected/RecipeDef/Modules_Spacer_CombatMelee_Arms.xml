@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerPowerFistCombatModule_InstallHuman.label>install power fist module</BM_SpacerPowerFistCombatModule_InstallHuman.label>
+  <BM_SpacerPowerFistCombatModule_InstallHuman.description>Install a power fist module into the body part's combat module slot.</BM_SpacerPowerFistCombatModule_InstallHuman.description>
+  <BM_SpacerPowerFistCombatModule_InstallHuman.jobString>Installing power fist module.</BM_SpacerPowerFistCombatModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerPowerFistCombatModule_RemoveFromReplacement.label>remove power fist module</BM_SpacerPowerFistCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerPowerFistCombatModule_RemoveFromReplacement.description>Remove power fist module.</BM_SpacerPowerFistCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerPowerFistCombatModule_RemoveFromReplacement.jobString>Removing power fist module.</BM_SpacerPowerFistCombatModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

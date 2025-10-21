@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Implant production [Biotech required] -->
+
+  <BM_SpacerBrawlerSubpersonaChip_Produce.label>make brawler subpersona</BM_SpacerBrawlerSubpersonaChip_Produce.label>
+  <BM_SpacerBrawlerSubpersonaChip_Produce.description>Make a brawler subpersona.</BM_SpacerBrawlerSubpersonaChip_Produce.description>
+  <BM_SpacerBrawlerSubpersonaChip_Produce.jobString>Making brawler subpersona.</BM_SpacerBrawlerSubpersonaChip_Produce.jobString>
+
+
+  <!-- Implant Installation -->
+
+  <Install_BM_SpacerBrawlerSubpersonaChip.label>install brawler subpersona</Install_BM_SpacerBrawlerSubpersonaChip.label>
+  <Install_BM_SpacerBrawlerSubpersonaChip.description>Install brawler subpersona.</Install_BM_SpacerBrawlerSubpersonaChip.description>
+  <Install_BM_SpacerBrawlerSubpersonaChip.jobString>Installing brawler subpersona.</Install_BM_SpacerBrawlerSubpersonaChip.jobString>
+
+  <Remove_BM_SpacerBrawlerSubpersonaChip.label>remove brawler subpersona</Remove_BM_SpacerBrawlerSubpersonaChip.label>
+  <Remove_BM_SpacerBrawlerSubpersonaChip.description>Remove brawler subpersona.</Remove_BM_SpacerBrawlerSubpersonaChip.description>
+  <Remove_BM_SpacerBrawlerSubpersonaChip.jobString>Removing brawler subpersona.</Remove_BM_SpacerBrawlerSubpersonaChip.jobString>
+
+
+</LanguageData>

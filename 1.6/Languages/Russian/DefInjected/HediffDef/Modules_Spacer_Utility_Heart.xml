@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- hemofilter -->
+
+  <BM_SpacerHemofilterUtilityModule.label>hemofilter module</BM_SpacerHemofilterUtilityModule.label>
+  <BM_SpacerHemofilterUtilityModule.description>An installed hemofilter utility module.</BM_SpacerHemofilterUtilityModule.description>
+
+
+  <!-- biowelder -->
+
+  <BM_SpacerBiowelderUtilityModule.label>biowelder module</BM_SpacerBiowelderUtilityModule.label>
+  <BM_SpacerBiowelderUtilityModule.description>An installed biowelder utility module.</BM_SpacerBiowelderUtilityModule.description>
+
+
+  <!-- coagulator -->
+
+  <BM_SpacerCoagulatorUtilityModule.label>coagulator module</BM_SpacerCoagulatorUtilityModule.label>
+  <BM_SpacerCoagulatorUtilityModule.description>An installed coagulator utility module.</BM_SpacerCoagulatorUtilityModule.description>
+
+
+</LanguageData>

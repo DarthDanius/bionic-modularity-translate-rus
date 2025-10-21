@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Implant production [Biotech required] -->
+
+  <BM_SpacerChefSubpersonaChip_Produce.label>make chef subpersona</BM_SpacerChefSubpersonaChip_Produce.label>
+  <BM_SpacerChefSubpersonaChip_Produce.description>Make a chef subpersona.</BM_SpacerChefSubpersonaChip_Produce.description>
+  <BM_SpacerChefSubpersonaChip_Produce.jobString>Making chef subpersona.</BM_SpacerChefSubpersonaChip_Produce.jobString>
+
+
+  <!-- Implant Installation -->
+
+  <Install_BM_SpacerChefSubpersonaChip.label>install chef subpersona</Install_BM_SpacerChefSubpersonaChip.label>
+  <Install_BM_SpacerChefSubpersonaChip.description>Install chef subpersona.</Install_BM_SpacerChefSubpersonaChip.description>
+  <Install_BM_SpacerChefSubpersonaChip.jobString>Installing chef subpersona.</Install_BM_SpacerChefSubpersonaChip.jobString>
+
+  <Remove_BM_SpacerChefSubpersonaChip.label>remove chef subpersona</Remove_BM_SpacerChefSubpersonaChip.label>
+  <Remove_BM_SpacerChefSubpersonaChip.description>Remove chef subpersona.</Remove_BM_SpacerChefSubpersonaChip.description>
+  <Remove_BM_SpacerChefSubpersonaChip.jobString>Removing chef subpersona.</Remove_BM_SpacerChefSubpersonaChip.jobString>
+
+
+</LanguageData>

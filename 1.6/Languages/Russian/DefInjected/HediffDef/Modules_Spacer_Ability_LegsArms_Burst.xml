@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- high-explosive burst module -->
+
+  <BM_SpacerHighExplosiveBurstAbilityModule.label>high-explosive burst module</BM_SpacerHighExplosiveBurstAbilityModule.label>
+  <BM_SpacerHighExplosiveBurstAbilityModule.description>An installed high-explosive burst ability module.</BM_SpacerHighExplosiveBurstAbilityModule.description>
+
+
+  <!-- firefoam burst module -->
+
+  <BM_SpacerFirefoamBurstAbilityModule.label>firefoam burst module</BM_SpacerFirefoamBurstAbilityModule.label>
+  <BM_SpacerFirefoamBurstAbilityModule.description>An installed firefoam burst ability module.</BM_SpacerFirefoamBurstAbilityModule.description>
+
+
+  <!-- smoke burst module -->
+
+  <BM_SpacerSmokeBurstAbilityModule.label>smoke burst module</BM_SpacerSmokeBurstAbilityModule.label>
+  <BM_SpacerSmokeBurstAbilityModule.description>An installed smoke burst ability module.</BM_SpacerSmokeBurstAbilityModule.description>
+
+
+  <!-- EMP burst module -->
+
+  <BM_SpacerEMPBurstAbilityModule.label>EMP burst module</BM_SpacerEMPBurstAbilityModule.label>
+  <BM_SpacerEMPBurstAbilityModule.description>An installed EMP burst ability module.</BM_SpacerEMPBurstAbilityModule.description>
+
+
+  <!-- incendiary burst module -->
+
+  <BM_SpacerIncendiaryBurstAbilityModule.label>incendiary burst module</BM_SpacerIncendiaryBurstAbilityModule.label>
+  <BM_SpacerIncendiaryBurstAbilityModule.description>An installed incendiary burst ability module.</BM_SpacerIncendiaryBurstAbilityModule.description>
+
+
+</LanguageData>

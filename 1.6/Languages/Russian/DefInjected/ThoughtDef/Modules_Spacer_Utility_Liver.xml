@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Removal -->
+
+  <BM_SpacerAlcoholSynthesizerUtilityModule.stages.0.label>alcohol warmth (synthesised)</BM_SpacerAlcoholSynthesizerUtilityModule.stages.0.label>
+  <BM_SpacerAlcoholSynthesizerUtilityModule.stages.0.description>Not as good as a proper drink, but makes me feel relaxed nonetheless. That's good.</BM_SpacerAlcoholSynthesizerUtilityModule.stages.0.description>
+
+  <BM_SpacerPsychiteSynthesizerUtilityModule.stages.0.label>psychite high (synthesised)</BM_SpacerPsychiteSynthesizerUtilityModule.stages.0.label>
+  <BM_SpacerPsychiteSynthesizerUtilityModule.stages.0.description>I'm feeling energized, it's great!</BM_SpacerPsychiteSynthesizerUtilityModule.stages.0.description>
+
+  <BM_SpacerSmokeleafSynthesizerUtilityModule.stages.0.label>smokeleaf high (synthesised)</BM_SpacerSmokeleafSynthesizerUtilityModule.stages.0.label>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule.stages.0.description>Smoking's half the fun, but it's still great, man.</BM_SpacerSmokeleafSynthesizerUtilityModule.stages.0.description>
+
+  <BM_SpacerGoJuiceSynthesizerUtilityModule.stages.0.label>go-juice high (synthesised)</BM_SpacerGoJuiceSynthesizerUtilityModule.stages.0.label>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule.stages.0.description>Swift and steady, fear me!</BM_SpacerGoJuiceSynthesizerUtilityModule.stages.0.description>
+
+
+</LanguageData>

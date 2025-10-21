@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- flashlight -->
+
+  <BM_SpacerFlashlightUtilityModule.label>flashlight module</BM_SpacerFlashlightUtilityModule.label>
+  <BM_SpacerFlashlightUtilityModule.description>An installed flashlight utility module.</BM_SpacerFlashlightUtilityModule.description>
+
+
+  <!-- tunenode -->
+
+  <BM_SpacerTunenodeUtilityModule.label>tunenode module</BM_SpacerTunenodeUtilityModule.label>
+  <BM_SpacerTunenodeUtilityModule.description>An installed tunenode utility module.</BM_SpacerTunenodeUtilityModule.description>
+
+
+  <!-- echolocation -->
+
+  <BM_SpacerEcholocationUtilityModule.label>echolocation module</BM_SpacerEcholocationUtilityModule.label>
+  <BM_SpacerEcholocationUtilityModule.description>An installed echolocation utility module.</BM_SpacerEcholocationUtilityModule.description>
+
+
+</LanguageData>

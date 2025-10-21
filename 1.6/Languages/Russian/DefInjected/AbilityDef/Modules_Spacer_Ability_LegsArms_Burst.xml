@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Removal -->
+
+  <BM_SpacerHighExplosiveBurstAbilityModule_One.label>high-explosive burst</BM_SpacerHighExplosiveBurstAbilityModule_One.label>
+  <BM_SpacerHighExplosiveBurstAbilityModule_One.description>Trigger a high-explosive blast.</BM_SpacerHighExplosiveBurstAbilityModule_One.description>
+
+  <BM_SpacerHighExplosiveBurstAbilityModule_Two.label>high-explosive burst</BM_SpacerHighExplosiveBurstAbilityModule_Two.label>
+  <BM_SpacerHighExplosiveBurstAbilityModule_Two.description>Trigger a high-explosive blast.</BM_SpacerHighExplosiveBurstAbilityModule_Two.description>
+
+  <BM_SpacerHighExplosiveBurstAbilityModule_Three.label>high-explosive burst</BM_SpacerHighExplosiveBurstAbilityModule_Three.label>
+  <BM_SpacerHighExplosiveBurstAbilityModule_Three.description>Trigger a high-explosive blast.</BM_SpacerHighExplosiveBurstAbilityModule_Three.description>
+
+  <BM_SpacerHighExplosiveBurstAbilityModule_Four.label>high-explosive burst</BM_SpacerHighExplosiveBurstAbilityModule_Four.label>
+  <BM_SpacerHighExplosiveBurstAbilityModule_Four.description>Trigger a high-explosive blast.</BM_SpacerHighExplosiveBurstAbilityModule_Four.description>
+
+  <BM_SpacerFirefoamBurstAbilityModule_One.label>firefoam burst</BM_SpacerFirefoamBurstAbilityModule_One.label>
+  <BM_SpacerFirefoamBurstAbilityModule_One.description>Trigger a firefoam blast.</BM_SpacerFirefoamBurstAbilityModule_One.description>
+
+  <BM_SpacerFirefoamBurstAbilityModule_Two.label>firefoam burst</BM_SpacerFirefoamBurstAbilityModule_Two.label>
+  <BM_SpacerFirefoamBurstAbilityModule_Two.description>Trigger a firefoam blast.</BM_SpacerFirefoamBurstAbilityModule_Two.description>
+
+  <BM_SpacerFirefoamBurstAbilityModule_Three.label>firefoam burst</BM_SpacerFirefoamBurstAbilityModule_Three.label>
+  <BM_SpacerFirefoamBurstAbilityModule_Three.description>Trigger a firefoam blast.</BM_SpacerFirefoamBurstAbilityModule_Three.description>
+
+  <BM_SpacerFirefoamBurstAbilityModule_Four.label>firefoam burst</BM_SpacerFirefoamBurstAbilityModule_Four.label>
+  <BM_SpacerFirefoamBurstAbilityModule_Four.description>Trigger a firefoam blast.</BM_SpacerFirefoamBurstAbilityModule_Four.description>
+
+  <BM_SpacerSmokeBurstAbilityModule_One.label>smoke burst</BM_SpacerSmokeBurstAbilityModule_One.label>
+  <BM_SpacerSmokeBurstAbilityModule_One.description>Trigger a blast of smoke.</BM_SpacerSmokeBurstAbilityModule_One.description>
+
+  <BM_SpacerSmokeBurstAbilityModule_Two.label>smoke burst</BM_SpacerSmokeBurstAbilityModule_Two.label>
+  <BM_SpacerSmokeBurstAbilityModule_Two.description>Trigger a blast of smoke.</BM_SpacerSmokeBurstAbilityModule_Two.description>
+
+  <BM_SpacerSmokeBurstAbilityModule_Three.label>smoke burst</BM_SpacerSmokeBurstAbilityModule_Three.label>
+  <BM_SpacerSmokeBurstAbilityModule_Three.description>Trigger a blast of smoke.</BM_SpacerSmokeBurstAbilityModule_Three.description>
+
+  <BM_SpacerSmokeBurstAbilityModule_Four.label>smoke burst</BM_SpacerSmokeBurstAbilityModule_Four.label>
+  <BM_SpacerSmokeBurstAbilityModule_Four.description>Trigger a blast of smoke.</BM_SpacerSmokeBurstAbilityModule_Four.description>
+
+  <BM_SpacerEMPBurstAbilityModule_One.label>EMP burst</BM_SpacerEMPBurstAbilityModule_One.label>
+  <BM_SpacerEMPBurstAbilityModule_One.description>Trigger an EMP blast.</BM_SpacerEMPBurstAbilityModule_One.description>
+
+  <BM_SpacerEMPBurstAbilityModule_Two.label>EMP burst</BM_SpacerEMPBurstAbilityModule_Two.label>
+  <BM_SpacerEMPBurstAbilityModule_Two.description>Trigger an EMP blast.</BM_SpacerEMPBurstAbilityModule_Two.description>
+
+  <BM_SpacerEMPBurstAbilityModule_Three.label>EMP burst</BM_SpacerEMPBurstAbilityModule_Three.label>
+  <BM_SpacerEMPBurstAbilityModule_Three.description>Trigger an EMP blast.</BM_SpacerEMPBurstAbilityModule_Three.description>
+
+  <BM_SpacerEMPBurstAbilityModule_Four.label>EMP burst</BM_SpacerEMPBurstAbilityModule_Four.label>
+  <BM_SpacerEMPBurstAbilityModule_Four.description>Trigger an EMP blast.</BM_SpacerEMPBurstAbilityModule_Four.description>
+
+  <BM_SpacerIncendiaryBurstAbilityModule_One.label>incendiary burst</BM_SpacerIncendiaryBurstAbilityModule_One.label>
+  <BM_SpacerIncendiaryBurstAbilityModule_One.description>Trigger an incendiary blast.</BM_SpacerIncendiaryBurstAbilityModule_One.description>
+
+  <BM_SpacerIncendiaryBurstAbilityModule_Two.label>incendiary burst</BM_SpacerIncendiaryBurstAbilityModule_Two.label>
+  <BM_SpacerIncendiaryBurstAbilityModule_Two.description>Trigger an incendiary blast.</BM_SpacerIncendiaryBurstAbilityModule_Two.description>
+
+  <BM_SpacerIncendiaryBurstAbilityModule_Three.label>incendiary burst</BM_SpacerIncendiaryBurstAbilityModule_Three.label>
+  <BM_SpacerIncendiaryBurstAbilityModule_Three.description>Trigger an incendiary blast.</BM_SpacerIncendiaryBurstAbilityModule_Three.description>
+
+  <BM_SpacerIncendiaryBurstAbilityModule_Four.label>incendiary burst</BM_SpacerIncendiaryBurstAbilityModule_Four.label>
+  <BM_SpacerIncendiaryBurstAbilityModule_Four.description>Trigger an incendiary blast.</BM_SpacerIncendiaryBurstAbilityModule_Four.description>
+
+
+</LanguageData>

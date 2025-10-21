@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Bionic modularity</name>
+	<packageId>MrKociak.YABEMBionicModularity</packageId>
+	<author>MrKociak</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+			<displayName>Vanilla Expanded Framework</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2023507013</steamWorkshopUrl>
+		</li>
+		<!--
+		<li>
+			<packageId>smartkar.athenaframework</packageId>
+			<displayName>Athena Framework</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2903359518</steamWorkshopUrl>
+		</li>
+	-->
+	</modDependencies>
+	<loadAfter>
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+		<li>smartkar.athenaframework</li>
+	</loadAfter>
+	<loadBefore>
+		<li>Rah.RBSE</li>
+		<li>vat.epoeforked</li>
+	</loadBefore>
+	<incompatibleWith></incompatibleWith>
+	<description>Adds a variety of add-ons for your bionics.</description>
+</ModMetaData>

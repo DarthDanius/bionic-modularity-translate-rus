@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Removal -->
+
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_One.label>deploy explosive trap</BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_One.label>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_One.description>Launch and deploy an explosive IED trap.</BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_One.description>
+
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Two.label>deploy explosive trap</BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Two.label>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Two.description>Launch and deploy an explosive IED trap.</BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Two.description>
+
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Three.label>deploy explosive trap</BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Three.label>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Three.description>Launch and deploy an explosive IED trap.</BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Three.description>
+
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Four.label>deploy explosive trap</BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Four.label>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Four.description>Launch and deploy an explosive IED trap.</BM_SpacerExplosiveTrapDeployerAbilityModule_Throw_Four.description>
+
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_One.label>deploy antigrain trap</BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_One.label>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_One.description>Launch and deploy an antigrain warhead IED trap.</BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_One.description>
+
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Two.label>deploy antigrain trap</BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Two.label>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Two.description>Launch and deploy an antigrain warhead IED trap.</BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Two.description>
+
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Three.label>deploy antigrain trap</BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Three.label>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Three.description>Launch and deploy an antigrain warhead IED trap.</BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Three.description>
+
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Four.label>deploy antigrain trap</BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Four.label>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Four.description>Launch and deploy an antigrain warhead IED trap.</BM_SpacerAntigrainTrapDeployerAbilityModule_Throw_Four.description>
+
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_One.label>deploy firefoam trap</BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_One.label>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_One.description>Launch and deploy a firefoam IED trap.</BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_One.description>
+
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Two.label>deploy firefoam trap</BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Two.label>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Two.description>Launch and deploy a firefoam IED trap.</BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Two.description>
+
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Three.label>deploy firefoam trap</BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Three.label>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Three.description>Launch and deploy a firefoam IED trap.</BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Three.description>
+
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Four.label>deploy firefoam trap</BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Four.label>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Four.description>Launch and deploy a firefoam IED trap.</BM_SpacerFirefoamTrapDeployerAbilityModule_Throw_Four.description>
+
+  <BM_SpacerSmokeTrapDeployerAbilityModule_Throw_One.label>deploy smoke trap</BM_SpacerSmokeTrapDeployerAbilityModule_Throw_One.label>
+  <BM_SpacerSmokeTrapDeployerAbilityModule_Throw_One.description>Launch and deploy a smoke IED trap.</BM_SpacerSmokeTrapDeployerAbilityModule_Throw_One.description>
+
+  <BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Two.label>deploy smoke trap</BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Two.label>
+  <BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Two.description>Launch and deploy a smoke IED trap.</BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Two.description>
+
+  <BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Three.label>deploy smoke trap</BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Three.label>
+  <BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Three.description>Launch and deploy a smoke IED trap.</BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Three.description>
+
+  <BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Four.label>deploy smoke trap</BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Four.label>
+  <BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Four.description>Launch and deploy a smoke IED trap.</BM_SpacerSmokeTrapDeployerAbilityModule_Throw_Four.description>
+
+  <BM_SpacerEMPTrapDeployerAbilityModule_Throw_One.label>deploy EMP trap</BM_SpacerEMPTrapDeployerAbilityModule_Throw_One.label>
+  <BM_SpacerEMPTrapDeployerAbilityModule_Throw_One.description>Launch and deploy an EMP IED trap.</BM_SpacerEMPTrapDeployerAbilityModule_Throw_One.description>
+
+  <BM_SpacerEMPTrapDeployerAbilityModule_Throw_Two.label>deploy EMP trap</BM_SpacerEMPTrapDeployerAbilityModule_Throw_Two.label>
+  <BM_SpacerEMPTrapDeployerAbilityModule_Throw_Two.description>Launch and deploy an EMP IED trap.</BM_SpacerEMPTrapDeployerAbilityModule_Throw_Two.description>
+
+  <BM_SpacerEMPTrapDeployerAbilityModule_Throw_Three.label>deploy EMP trap</BM_SpacerEMPTrapDeployerAbilityModule_Throw_Three.label>
+  <BM_SpacerEMPTrapDeployerAbilityModule_Throw_Three.description>Launch and deploy an EMP IED trap.</BM_SpacerEMPTrapDeployerAbilityModule_Throw_Three.description>
+
+  <BM_SpacerEMPTrapDeployerAbilityModule_Throw_Four.label>deploy EMP trap</BM_SpacerEMPTrapDeployerAbilityModule_Throw_Four.label>
+  <BM_SpacerEMPTrapDeployerAbilityModule_Throw_Four.description>Launch and deploy an EMP IED trap.</BM_SpacerEMPTrapDeployerAbilityModule_Throw_Four.description>
+
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_One.label>deploy incendiary trap</BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_One.label>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_One.description>Launch and deploy an incendiary IED trap.</BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_One.description>
+
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Two.label>deploy incendiary trap</BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Two.label>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Two.description>Launch and deploy an incendiary IED trap.</BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Two.description>
+
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Three.label>deploy incendiary trap</BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Three.label>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Three.description>Launch and deploy an incendiary IED trap.</BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Three.description>
+
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Four.label>deploy incendiary trap</BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Four.label>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Four.description>Launch and deploy an incendiary IED trap.</BM_SpacerIncendiaryTrapDeployerAbilityModule_Throw_Four.description>
+
+
+</LanguageData>

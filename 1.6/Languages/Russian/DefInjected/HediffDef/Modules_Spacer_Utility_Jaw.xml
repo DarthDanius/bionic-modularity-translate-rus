@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- silence -->
+
+  <BM_SpacerSilenceUtilityModule.label>silence module</BM_SpacerSilenceUtilityModule.label>
+  <BM_SpacerSilenceUtilityModule.description>An installed silence utility module.</BM_SpacerSilenceUtilityModule.description>
+
+
+  <!-- devourer -->
+
+  <BM_SpacerDevourerUtilityModule.label>devourer module</BM_SpacerDevourerUtilityModule.label>
+  <BM_SpacerDevourerUtilityModule.description>An installed devourer utility module.</BM_SpacerDevourerUtilityModule.description>
+
+
+  <!-- voicemod -->
+
+  <BM_SpacerVoicemodUtilityModule.label>voicemod module</BM_SpacerVoicemodUtilityModule.label>
+  <BM_SpacerVoicemodUtilityModule.description>An installed voicemod utility module.</BM_SpacerVoicemodUtilityModule.description>
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- frag grenade -->
+
+  <BM_SpacerFragGrenadeCombatModule.label>frag grenade module</BM_SpacerFragGrenadeCombatModule.label>
+  <BM_SpacerFragGrenadeCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial leg replacement. This particular model includes a frag grenade dispenser which can be used similarly to a standard grenade belt or its contents can be launched directly from it with a swift leg motion. It is relatively small and well-hidden, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerFragGrenadeCombatModule.description>
+
+
+  <!-- EMP grenade -->
+
+  <BM_SpacerEMPGrenadeCombatModule.label>EMP grenade module</BM_SpacerEMPGrenadeCombatModule.label>
+  <BM_SpacerEMPGrenadeCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial leg replacement. This particular model includes an EMP grenade dispenser which can be used similarly to a standard grenade belt or its contents can be launched directly from it with a swift leg motion. It is relatively small and well-hidden, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerEMPGrenadeCombatModule.description>
+
+
+</LanguageData>

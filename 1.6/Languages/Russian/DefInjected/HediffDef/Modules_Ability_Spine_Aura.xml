@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- pyroprojector -->
+
+  <BM_SpacerPyroprojectorAbilityModule.label>pyroprojector module</BM_SpacerPyroprojectorAbilityModule.label>
+  <BM_SpacerPyroprojectorAbilityModule.description>An installed pyroprojector ability module.</BM_SpacerPyroprojectorAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_PyroprojectorModule_Aura.label>pyroprojector active</BM_PyroprojectorModule_Aura.label>
+  <BM_PyroprojectorModule_Aura.description>This person's pyroprojector module is projecting a bubble-like barrier that scorches and ignites everything within its range.</BM_PyroprojectorModule_Aura.description>
+  <BM_PyroprojectorModule_Aura.labelNoun>an active pyroprojection</BM_PyroprojectorModule_Aura.labelNoun>
+
+
+  <!-- magprojector -->
+
+  <BM_SpacerMagprojectorAbilityModule.label>magprojector module</BM_SpacerMagprojectorAbilityModule.label>
+  <BM_SpacerMagprojectorAbilityModule.description>An installed magprojector ability module.</BM_SpacerMagprojectorAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_MagprojectorModule_Aura.label>magprojector active</BM_MagprojectorModule_Aura.label>
+  <BM_MagprojectorModule_Aura.description>This person's magprojector module is projecting a bubble-like barrier that damages and stuns any nearby electronic equipment, mechanoids or users of certain implants.</BM_MagprojectorModule_Aura.description>
+  <BM_MagprojectorModule_Aura.labelNoun>an active magprojection</BM_MagprojectorModule_Aura.labelNoun>
+
+
+  <!-- medprojector -->
+
+  <BM_SpacerMedprojectorAbilityModule.label>medprojector module</BM_SpacerMedprojectorAbilityModule.label>
+  <BM_SpacerMedprojectorAbilityModule.description>An installed medprojector ability module.</BM_SpacerMedprojectorAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_MedprojectorModule_Aura.label>medprojector active</BM_MedprojectorModule_Aura.label>
+  <BM_MedprojectorModule_Aura.description>This person's medprojector module is projecting a bubble-like barrier that heals anyone within its range.</BM_MedprojectorModule_Aura.description>
+  <BM_MedprojectorModule_Aura.labelNoun>an active medprojection</BM_MedprojectorModule_Aura.labelNoun>
+
+
+  <!-- radprojector -->
+
+  <BM_SpacerRadprojectorAbilityModule.label>radprojector module</BM_SpacerRadprojectorAbilityModule.label>
+  <BM_SpacerRadprojectorAbilityModule.description>An installed radprojector ability module.</BM_SpacerRadprojectorAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_RadprojectorModule_Aura.label>radprojector active</BM_RadprojectorModule_Aura.label>
+  <BM_RadprojectorModule_Aura.description>This person's radprojector module is projecting a bubble-like barrier that poisons everything within its range.</BM_RadprojectorModule_Aura.description>
+  <BM_RadprojectorModule_Aura.labelNoun>an active radprojection</BM_RadprojectorModule_Aura.labelNoun>
+
+
+  <!-- cryoprojector -->
+
+  <BM_SpacerCryoprojectorAbilityModule.label>cryoprojector module</BM_SpacerCryoprojectorAbilityModule.label>
+  <BM_SpacerCryoprojectorAbilityModule.description>An installed cryoprojector ability module.</BM_SpacerCryoprojectorAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_CryoprojectorModule_Aura.label>cryoprojector active</BM_CryoprojectorModule_Aura.label>
+  <BM_CryoprojectorModule_Aura.description>This person's cryoprojector module is projecting a bubble-like barrier that slowly freezes everything within its range.</BM_CryoprojectorModule_Aura.description>
+  <BM_CryoprojectorModule_Aura.labelNoun>an active cryoprojection</BM_CryoprojectorModule_Aura.labelNoun>
+
+
+</LanguageData>

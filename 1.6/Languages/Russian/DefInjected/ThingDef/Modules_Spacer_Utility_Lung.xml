@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- atmofilter -->
+
+  <BM_SpacerAtmofilterUtilityModule.label>atmofilter module</BM_SpacerAtmofilterUtilityModule.label>
+  <BM_SpacerAtmofilterUtilityModule.description>A high-tech device that can be installed into a lung or any compatible artificial lung replacement. This particular model greatly reduces the intake of toxins found in heavily polluted air by utilizing a series of advanced microfilters.</BM_SpacerAtmofilterUtilityModule.description>
+
+
+  <!-- heater -->
+
+  <BM_SpacerHeaterUtilityModule.label>heater module</BM_SpacerHeaterUtilityModule.label>
+  <BM_SpacerHeaterUtilityModule.description>A high-tech device that can be installed into a lung or any compatible artificial lung replacement. This particular model is able to produce heat and safely spread it throughout the body when it's in an uncomfortably or dangerously cold environment.</BM_SpacerHeaterUtilityModule.description>
+
+
+  <!-- cooler -->
+
+  <BM_SpacerCoolerUtilityModule.label>cooler module</BM_SpacerCoolerUtilityModule.label>
+  <BM_SpacerCoolerUtilityModule.description>A high-tech device that can be installed into a lung or any compatible artificial lung replacement. This particular model is able to remove excess heat from the body when it's in an uncomfortably or dangerously warm environment.</BM_SpacerCoolerUtilityModule.description>
+
+
+</LanguageData>

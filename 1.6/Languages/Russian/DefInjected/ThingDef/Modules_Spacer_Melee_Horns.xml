@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- powerslash horn -->
+
+  <BM_SpacerPowerSlashHornCombatModule.label>powerslash horn module</BM_SpacerPowerSlashHornCombatModule.label>
+  <BM_SpacerPowerSlashHornCombatModule.description>A high-tech device that can be installed onto the forehead. Its modular design allows it to enhance the host's horn or horns if they already possess any. This particular model comes with a pair of sharp plasteel horn-shaped protrusions which can act both as an odd fashion statement and an unusual weapon.</BM_SpacerPowerSlashHornCombatModule.description>
+
+
+  <!-- powerstrike horn -->
+
+  <BM_SpacerPowerStrikeHornCombatModule.label>powerstrike horn module</BM_SpacerPowerStrikeHornCombatModule.label>
+  <BM_SpacerPowerStrikeHornCombatModule.description>A high-tech device that can be installed onto the forehead. Its modular design allows it to enhance the host's horn or horns if they already possess any. This particular model comes with a pair of sturdy uranium horn-shaped protrusions which can act both as an odd fashion statement and an unusual weapon.</BM_SpacerPowerStrikeHornCombatModule.description>
+
+
+</LanguageData>

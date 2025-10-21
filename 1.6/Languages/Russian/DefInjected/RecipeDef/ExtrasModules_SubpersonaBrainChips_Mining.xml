@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Implant production [Biotech required] -->
+
+  <BM_SpacerMinerSubpersonaChip_Produce.label>make miner subpersona</BM_SpacerMinerSubpersonaChip_Produce.label>
+  <BM_SpacerMinerSubpersonaChip_Produce.description>Make a miner subpersona.</BM_SpacerMinerSubpersonaChip_Produce.description>
+  <BM_SpacerMinerSubpersonaChip_Produce.jobString>Making miner subpersona.</BM_SpacerMinerSubpersonaChip_Produce.jobString>
+
+
+  <!-- Implant Installation -->
+
+  <Install_BM_SpacerMinerSubpersonaChip.label>install miner subpersona</Install_BM_SpacerMinerSubpersonaChip.label>
+  <Install_BM_SpacerMinerSubpersonaChip.description>Install miner subpersona.</Install_BM_SpacerMinerSubpersonaChip.description>
+  <Install_BM_SpacerMinerSubpersonaChip.jobString>Installing miner subpersona.</Install_BM_SpacerMinerSubpersonaChip.jobString>
+
+  <Remove_BM_SpacerMinerSubpersonaChip.label>remove miner subpersona</Remove_BM_SpacerMinerSubpersonaChip.label>
+  <Remove_BM_SpacerMinerSubpersonaChip.description>Remove miner subpersona.</Remove_BM_SpacerMinerSubpersonaChip.description>
+  <Remove_BM_SpacerMinerSubpersonaChip.jobString>Removing miner subpersona.</Remove_BM_SpacerMinerSubpersonaChip.jobString>
+
+
+</LanguageData>

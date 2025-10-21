@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerDetoxifierUtilityModule_InstallAnimal.label>install detoxifier module</BM_SpacerDetoxifierUtilityModule_InstallAnimal.label>
+  <BM_SpacerDetoxifierUtilityModule_InstallAnimal.description>Install a detoxifier module into the body part's utility module slot.</BM_SpacerDetoxifierUtilityModule_InstallAnimal.description>
+  <BM_SpacerDetoxifierUtilityModule_InstallAnimal.jobString>Installing detoxifier module.</BM_SpacerDetoxifierUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerDetoxifierUtilityModule_InstallHuman.label>install detoxifier module</BM_SpacerDetoxifierUtilityModule_InstallHuman.label>
+  <BM_SpacerDetoxifierUtilityModule_InstallHuman.description>Install a detoxifier module into the body part's utility module slot.</BM_SpacerDetoxifierUtilityModule_InstallHuman.description>
+  <BM_SpacerDetoxifierUtilityModule_InstallHuman.jobString>Installing detoxifier module.</BM_SpacerDetoxifierUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerDetoxifierUtilityModule_InstallHuman_Implant.label>install detoxifier module.</BM_SpacerDetoxifierUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerDetoxifierUtilityModule_InstallHuman_Implant.description>Install a detoxifier module into the body part's utility module slot.</BM_SpacerDetoxifierUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerDetoxifierUtilityModule_InstallHuman_Implant.jobString>Installing detoxifier module.</BM_SpacerDetoxifierUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerDetoxifierUtilityModule_InstallAnimal_Implant.label>install detoxifier module.</BM_SpacerDetoxifierUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerDetoxifierUtilityModule_InstallAnimal_Implant.description>Install a detoxifier module into the body part's utility module slot.</BM_SpacerDetoxifierUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerDetoxifierUtilityModule_InstallAnimal_Implant.jobString>Installing detoxifier module.</BM_SpacerDetoxifierUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerDetoxifierUtilityModule_RemoveFromReplacement.label>remove detoxifier module</BM_SpacerDetoxifierUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerDetoxifierUtilityModule_RemoveFromReplacement.description>Remove detoxifier module.</BM_SpacerDetoxifierUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerDetoxifierUtilityModule_RemoveFromReplacement.jobString>Removing detoxifier module.</BM_SpacerDetoxifierUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerDetoxifierUtilityModule_RemoveFromNatural.label>remove detoxifier module</BM_SpacerDetoxifierUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerDetoxifierUtilityModule_RemoveFromNatural.description>Remove detoxifier module.</BM_SpacerDetoxifierUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerDetoxifierUtilityModule_RemoveFromNatural.jobString>Removing detoxifier module.</BM_SpacerDetoxifierUtilityModule_RemoveFromNatural.jobString>
+
+
+</LanguageData>

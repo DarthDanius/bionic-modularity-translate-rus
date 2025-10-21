@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Removal -->
+
+  <BM_AuraModule_Attack_Pyro.label>Activate pyroprojector</BM_AuraModule_Attack_Pyro.label>
+  <BM_AuraModule_Attack_Pyro.description>Activate this person's pyroprojector module. It will produce great amounts of heat and apply fire damage to anything within range.</BM_AuraModule_Attack_Pyro.description>
+
+  <BM_AuraModule_Attack_Mag.label>Activate magprojector</BM_AuraModule_Attack_Mag.label>
+  <BM_AuraModule_Attack_Mag.description>Activate this person's magprojector module. It will produce electromagnetic disturbances that damage and stun any nearby electronic equipment, mechanoids or users of certain implants.</BM_AuraModule_Attack_Mag.description>
+
+  <BM_AuraModule_Attack_Med.label>Activate medprojector</BM_AuraModule_Attack_Med.label>
+  <BM_AuraModule_Attack_Med.description>Activate this person's medprojector module. It will heal anyone within range.</BM_AuraModule_Attack_Med.description>
+
+  <BM_AuraModule_Attack_Rad.label>Activate radprojector</BM_AuraModule_Attack_Rad.label>
+  <BM_AuraModule_Attack_Rad.description>Activate this person's radprojector module. It will produce great amounts harmful radiation, causing toxic buildup in anything within range.</BM_AuraModule_Attack_Rad.description>
+
+  <BM_AuraModule_Attack_Cryo.label>Activate cryoprojector</BM_AuraModule_Attack_Cryo.label>
+  <BM_AuraModule_Attack_Cryo.description>Activate this person's cryoprojector module. It will cool down any enclosed spaces and cause hypothermia in anything within range.</BM_AuraModule_Attack_Cryo.description>
+
+
+</LanguageData>

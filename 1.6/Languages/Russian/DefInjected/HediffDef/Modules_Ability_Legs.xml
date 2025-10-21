@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- leap module -->
+
+  <BM_SpacerLeapAbilityModule.label>leap module</BM_SpacerLeapAbilityModule.label>
+  <BM_SpacerLeapAbilityModule.description>An installed leap ability module.</BM_SpacerLeapAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerLeapAbilityModule_WarmupJammer.label>ability warmup</BM_SpacerLeapAbilityModule_WarmupJammer.label>
+  <BM_SpacerLeapAbilityModule_WarmupJammer.description>The mechanical leap ability is warming up.</BM_SpacerLeapAbilityModule_WarmupJammer.description>
+  <BM_SpacerLeapAbilityModule_WarmupJammer.labelNoun>ability warmup</BM_SpacerLeapAbilityModule_WarmupJammer.labelNoun>
+
+
+</LanguageData>

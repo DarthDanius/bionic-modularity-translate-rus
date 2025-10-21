@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- silence -->
+
+  <BM_SpacerSilenceUtilityModule.label>silence module</BM_SpacerSilenceUtilityModule.label>
+  <BM_SpacerSilenceUtilityModule.description>A high-tech device that can be installed into a jaw or any compatible jaw replacement. This particular model prevents the user from speaking. Made with the intention of being a part of an experimental form of therapy, it has later found more use on various prison planets.</BM_SpacerSilenceUtilityModule.description>
+
+
+  <!-- devourer -->
+
+  <BM_SpacerDevourerUtilityModule.label>devourer module</BM_SpacerDevourerUtilityModule.label>
+  <BM_SpacerDevourerUtilityModule.description>A high-tech device that can be installed into a jaw or any compatible jaw replacement. This particular model allows the mouth to be opened to a degree that would normally require the unhinging of one's jaw, allowing the user to consume food significantly faster. Highly flexible and stretchy synthetic skin prevents injuries or disfiguration that would result from such a maneuver.</BM_SpacerDevourerUtilityModule.description>
+
+
+  <!-- voicemod -->
+
+  <BM_SpacerVoicemodUtilityModule.label>voicemod module</BM_SpacerVoicemodUtilityModule.label>
+  <BM_SpacerVoicemodUtilityModule.description>A high-tech device that can be installed into a jaw or any compatible jaw replacement. This particular module allows its user to adjust their voice on the fly, making it more pleasant to listen to. The implant can also partially drown out a person's irritating speech patterns.</BM_SpacerVoicemodUtilityModule.description>
+
+
+</LanguageData>

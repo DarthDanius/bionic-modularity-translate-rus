@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- gastrosterilizer -->
+
+  <BM_SpacerGastrosterilizerUtilityModule.label>gastrosterilizer module</BM_SpacerGastrosterilizerUtilityModule.label>
+  <BM_SpacerGastrosterilizerUtilityModule.description>A high-tech device that can be installed into a stomach or any compatible artificial stomach replacement. This particular model is equipped with a broad-spectrum toxin filter and neutralization system, completely removing any risk of food poisoning.</BM_SpacerGastrosterilizerUtilityModule.description>
+
+
+  <!-- reprocessor -->
+
+  <BM_SpacerReprocessorUtilityModule.label>reprocessor module</BM_SpacerReprocessorUtilityModule.label>
+  <BM_SpacerReprocessorUtilityModule.description>A high-tech device that can be installed into a stomach or any compatible artificial stomach replacement. This particular model is equipped with a chemical processing system that breaks down nutrients the body could normally never use, leading to increased efficiency.</BM_SpacerReprocessorUtilityModule.description>
+
+
+  <!-- nuclear -->
+
+  <BM_SpacerNuclearUtilityModule.label>nuclear module</BM_SpacerNuclearUtilityModule.label>
+  <BM_SpacerNuclearUtilityModule.description>A high-tech device that can be installed into a stomach or any compatible artificial stomach replacement. This particular model is equipped with a micro-nuclear reactor and chemical synthetic system, significantly reducing the required food intake. However, there is little room to shield the reactor, so the radiation increases the risk of cancer.</BM_SpacerNuclearUtilityModule.description>
+
+
+  <!-- fuelmaker -->
+
+  <BM_SpacerFuelmakerUtilityModule.label>fuelmaker module</BM_SpacerFuelmakerUtilityModule.label>
+  <BM_SpacerFuelmakerUtilityModule.description>A high-tech device that can be installed into a stomach or any compatible artificial stomach replacement. This particular model refines excess nutrients along with normally unusable or indigestible biological material into chemfuel. The amount produced depends on the amount of food consumed by its host.</BM_SpacerFuelmakerUtilityModule.description>
+
+
+</LanguageData>

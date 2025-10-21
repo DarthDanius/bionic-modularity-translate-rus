@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Removal -->
+
+  <BM_SpacerSmokeSpewerAbilityModule_One.label>smoke spew</BM_SpacerSmokeSpewerAbilityModule_One.label>
+  <BM_SpacerSmokeSpewerAbilityModule_One.description>Produce a cloud of smoke.</BM_SpacerSmokeSpewerAbilityModule_One.description>
+
+  <BM_SpacerSmokeSpewerAbilityModule_Two.label>smoke spew</BM_SpacerSmokeSpewerAbilityModule_Two.label>
+  <BM_SpacerSmokeSpewerAbilityModule_Two.description>Produce a cloud of smoke.</BM_SpacerSmokeSpewerAbilityModule_Two.description>
+
+
+</LanguageData>

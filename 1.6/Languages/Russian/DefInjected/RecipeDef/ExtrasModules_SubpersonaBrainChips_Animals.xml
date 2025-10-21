@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Implant production [Biotech required] -->
+
+  <BM_SpacerZoologistSubpersonaChip_Produce.label>make zoologist subpersona</BM_SpacerZoologistSubpersonaChip_Produce.label>
+  <BM_SpacerZoologistSubpersonaChip_Produce.description>Make a zoologist subpersona.</BM_SpacerZoologistSubpersonaChip_Produce.description>
+  <BM_SpacerZoologistSubpersonaChip_Produce.jobString>Making zoologist subpersona.</BM_SpacerZoologistSubpersonaChip_Produce.jobString>
+
+
+  <!-- Implant Installation -->
+
+  <Install_BM_SpacerZoologistSubpersonaChip.label>install zoologist subpersona</Install_BM_SpacerZoologistSubpersonaChip.label>
+  <Install_BM_SpacerZoologistSubpersonaChip.description>Install zoologist subpersona.</Install_BM_SpacerZoologistSubpersonaChip.description>
+  <Install_BM_SpacerZoologistSubpersonaChip.jobString>Installing zoologist subpersona.</Install_BM_SpacerZoologistSubpersonaChip.jobString>
+
+  <Remove_BM_SpacerZoologistSubpersonaChip.label>remove zoologist subpersona</Remove_BM_SpacerZoologistSubpersonaChip.label>
+  <Remove_BM_SpacerZoologistSubpersonaChip.description>Remove zoologist subpersona.</Remove_BM_SpacerZoologistSubpersonaChip.description>
+  <Remove_BM_SpacerZoologistSubpersonaChip.jobString>Removing zoologist subpersona.</Remove_BM_SpacerZoologistSubpersonaChip.jobString>
+
+
+</LanguageData>

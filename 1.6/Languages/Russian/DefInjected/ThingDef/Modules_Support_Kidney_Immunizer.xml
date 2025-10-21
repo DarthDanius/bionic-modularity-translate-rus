@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- overdose immunizer -->
+
+  <BM_SpacerOverdoseImmunizerSupportModule.label>overdose immunizer module</BM_SpacerOverdoseImmunizerSupportModule.label>
+  <BM_SpacerOverdoseImmunizerSupportModule.description>A high-tech device that can be installed onto a kidney or any compatible artificial kidney replacement. This particular model uses specialized mechanites and advanced filters in order to detect, neutralize and swiftly eject excess chemicals from the body. It can immediately prevent the symptoms of a drug overdose, but cannot cure the effects of long-term substance consumption.</BM_SpacerOverdoseImmunizerSupportModule.description>
+
+
+  <!-- scaria immunizer -->
+
+  <BM_SpacerScariaImmunizerSupportModule.label>scaria immunizer module</BM_SpacerScariaImmunizerSupportModule.label>
+  <BM_SpacerScariaImmunizerSupportModule.description>A high-tech device that can be installed onto a kidney or any compatible artificial kidney replacement. This particular model utilizes specialized mechanites and advanced filtration systems specifically engineered to detect and combat scaria infections, granting complete immunity to them. It is largely ineffective against other diseases and infections.</BM_SpacerScariaImmunizerSupportModule.description>
+
+
+  <!-- plague immunizer -->
+
+  <BM_SpacerPlagueImmunizerSupportModule.label>plague immunizer module</BM_SpacerPlagueImmunizerSupportModule.label>
+  <BM_SpacerPlagueImmunizerSupportModule.description>A high-tech device that can be installed onto a kidney or any compatible artificial kidney replacement. This particular model utilizes specialized mechanites and advanced filtration systems specifically engineered to detect and combat the plague, granting complete immunity to it. It is largely ineffective against other diseases and infections.</BM_SpacerPlagueImmunizerSupportModule.description>
+
+
+  <!-- malaria immunizer -->
+
+  <BM_SpacerMalariaImmunizerSupportModule.label>malaria immunizer module</BM_SpacerMalariaImmunizerSupportModule.label>
+  <BM_SpacerMalariaImmunizerSupportModule.description>A high-tech device that can be installed onto a kidney or any compatible artificial kidney replacement. This particular model utilizes specialized mechanites and advanced filtration systems specifically engineered to detect and combat malaria along with neutralizing the parasite causing the condition, granting complete immunity to it. It is largely ineffective against other diseases and infections.</BM_SpacerMalariaImmunizerSupportModule.description>
+
+
+  <!-- sleeping sickness immunizer -->
+
+  <BM_SpacerSleepingSicknessImmunizerSupportModule.label>sleeping sickness immunizer module</BM_SpacerSleepingSicknessImmunizerSupportModule.label>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule.description>A high-tech device that can be installed onto a kidney or any compatible artificial kidney replacement. This particular model utilizes specialized mechanites and advanced filtration systems specifically engineered to detect and combat sleeping sickness along with neutralizing the parasite causing the condition, granting complete immunity to it. It is largely ineffective against other diseases and infections.</BM_SpacerSleepingSicknessImmunizerSupportModule.description>
+
+
+  <!-- gut worms immunizer -->
+
+  <BM_SpacerGutWormsImmunizerSupportModule.label>gut worms immunizer module</BM_SpacerGutWormsImmunizerSupportModule.label>
+  <BM_SpacerGutWormsImmunizerSupportModule.description>A high-tech device that can be installed onto a kidney or any compatible artificial kidney replacement. This particular model utilizes specialized mechanites and advanced filtration systems specifically engineered to detect and combat gut worms, granting complete immunity to their infections. It is largely ineffective against other diseases and infections.</BM_SpacerGutWormsImmunizerSupportModule.description>
+
+
+  <!-- muscle parasites immunizer -->
+
+  <BM_SpacerMuscleParasitesImmunizerSupportModule.label>muscle parasites immunizer module</BM_SpacerMuscleParasitesImmunizerSupportModule.label>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule.description>A high-tech device that can be installed onto a kidney or any compatible artificial kidney replacement. This particular model utilizes specialized mechanites and advanced filtration systems specifically engineered to detect and combat muscle parasites, granting complete immunity to their infections. It is largely ineffective against other diseases and infections.</BM_SpacerMuscleParasitesImmunizerSupportModule.description>
+
+
+  <!-- flu immunizer -->
+
+  <BM_SpacerFluImmunizerSupportModule.label>flu immunizer module</BM_SpacerFluImmunizerSupportModule.label>
+  <BM_SpacerFluImmunizerSupportModule.description>A high-tech device that can be installed onto a kidney or any compatible artificial kidney replacement. This particular model utilizes specialized mechanites and advanced filtration systems specifically engineered to detect and combat the influenza virus, granting complete immunity to it. It is largely ineffective against other diseases and infections.</BM_SpacerFluImmunizerSupportModule.description>
+
+
+  <!-- lung rot immunizer -->
+
+  <BM_SpacerLungRotImmunizerSupportModule.label>lung rot immunizer module</BM_SpacerLungRotImmunizerSupportModule.label>
+  <BM_SpacerLungRotImmunizerSupportModule.description>A high-tech device that can be installed onto a kidney or any compatible artificial kidney replacement. This particular model utilizes specialized mechanites and advanced filtration systems specifically engineered to detect and combat lung rot, granting complete immunity to it. It is largely ineffective against other diseases and infections.</BM_SpacerLungRotImmunizerSupportModule.description>
+
+
+</LanguageData>

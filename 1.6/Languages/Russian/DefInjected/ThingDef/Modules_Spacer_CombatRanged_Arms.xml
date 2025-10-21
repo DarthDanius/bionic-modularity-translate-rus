@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- charge rifle -->
+
+  <BM_SpacerChargeRifleCombatModule.label>charge rifle module</BM_SpacerChargeRifleCombatModule.label>
+  <BM_SpacerChargeRifleCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified charge rifle that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerChargeRifleCombatModule.description>
+
+
+  <!-- charge lance -->
+
+  <BM_SpacerChargeLanceCombatModule.label>charge lance module</BM_SpacerChargeLanceCombatModule.label>
+  <BM_SpacerChargeLanceCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified charge lance that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerChargeLanceCombatModule.description>
+
+
+</LanguageData>

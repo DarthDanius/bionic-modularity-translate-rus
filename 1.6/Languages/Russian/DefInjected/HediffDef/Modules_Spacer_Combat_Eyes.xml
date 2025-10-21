@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- brawler lens -->
+
+  <BM_SpacerBrawlerCombatModule.label>brawler lens module</BM_SpacerBrawlerCombatModule.label>
+  <BM_SpacerBrawlerCombatModule.description>An installed brawler lens combat module.</BM_SpacerBrawlerCombatModule.description>
+
+
+  <!-- ranger lens -->
+
+  <BM_SpacerRangerCombatModule.label>ranger lens module</BM_SpacerRangerCombatModule.label>
+  <BM_SpacerRangerCombatModule.description>An installed ranger lens combat module.</BM_SpacerRangerCombatModule.description>
+
+
+</LanguageData>

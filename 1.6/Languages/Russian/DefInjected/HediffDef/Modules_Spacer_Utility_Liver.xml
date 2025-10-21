@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Alcohol synthesizer -->
+
+  <BM_SpacerAlcoholSynthesizerUtilityModule.label>Alcohol synthesizer module</BM_SpacerAlcoholSynthesizerUtilityModule.label>
+  <BM_SpacerAlcoholSynthesizerUtilityModule.description>An installed alcohol synthesizer utility module.</BM_SpacerAlcoholSynthesizerUtilityModule.description>
+
+
+  <!-- Psychite synthesizer -->
+
+  <BM_SpacerPsychiteSynthesizerUtilityModule.label>Psychite synthesizer module</BM_SpacerPsychiteSynthesizerUtilityModule.label>
+  <BM_SpacerPsychiteSynthesizerUtilityModule.description>An installed psychite synthesizer utility module.</BM_SpacerPsychiteSynthesizerUtilityModule.description>
+
+
+  <!-- Smokeleaf synthesizer -->
+
+  <BM_SpacerSmokeleafSynthesizerUtilityModule.label>Smokeleaf synthesizer module</BM_SpacerSmokeleafSynthesizerUtilityModule.label>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule.description>An installed smokeleaf synthesizer utility module.</BM_SpacerSmokeleafSynthesizerUtilityModule.description>
+
+
+  <!-- GoJuice synthesizer -->
+
+  <BM_SpacerGoJuiceSynthesizerUtilityModule.label>go-juice synthesizer module</BM_SpacerGoJuiceSynthesizerUtilityModule.label>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule.description>An installed go-juice synthesizer utility module.</BM_SpacerGoJuiceSynthesizerUtilityModule.description>
+
+
+  <!-- WakeUp synthesizer -->
+
+  <BM_SpacerWakeUpSynthesizerUtilityModule.label>wake-up synthesizer module</BM_SpacerWakeUpSynthesizerUtilityModule.label>
+  <BM_SpacerWakeUpSynthesizerUtilityModule.description>An installed wake-up synthesizer utility module.</BM_SpacerWakeUpSynthesizerUtilityModule.description>
+
+
+</LanguageData>

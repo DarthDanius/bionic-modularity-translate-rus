@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerAutopistolCombatModule_InstallAnimal.label>install autopistol module</BM_SpacerAutopistolCombatModule_InstallAnimal.label>
+  <BM_SpacerAutopistolCombatModule_InstallAnimal.description>Install an autopistol module into the body part's combat module slot.</BM_SpacerAutopistolCombatModule_InstallAnimal.description>
+  <BM_SpacerAutopistolCombatModule_InstallAnimal.jobString>Installing autopistol module.</BM_SpacerAutopistolCombatModule_InstallAnimal.jobString>
+
+  <BM_SpacerAutopistolCombatModule_InstallHuman.label>install autopistol module</BM_SpacerAutopistolCombatModule_InstallHuman.label>
+  <BM_SpacerAutopistolCombatModule_InstallHuman.description>Install an autopistol module into the body part's combat module slot.</BM_SpacerAutopistolCombatModule_InstallHuman.description>
+  <BM_SpacerAutopistolCombatModule_InstallHuman.jobString>Installing autopistol module.</BM_SpacerAutopistolCombatModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerAutopistolCombatModule_RemoveFromReplacement.label>remove autopistol module</BM_SpacerAutopistolCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerAutopistolCombatModule_RemoveFromReplacement.description>Remove autopistol module.</BM_SpacerAutopistolCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerAutopistolCombatModule_RemoveFromReplacement.jobString>Removing autopistol module.</BM_SpacerAutopistolCombatModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- brawler subpersona module -->
+
+  <BM_SpacerBrawlerSubpersonaChip.label>brawler subpersona</BM_SpacerBrawlerSubpersonaChip.label>
+  <BM_SpacerBrawlerSubpersonaChip.description>An advanced brain implant designed to assist the user in melee combat. The subpersona can quickly and accurately predict oncoming attacks while also efficiently planning out offensive maneuvers.\n\nA brain implant of such complexity requires time to synchronize with and adapt to its host in order to avoid excessive strain on the central nervous system, its effectiveness will slowly increase during this process. It's capable of syncing with other enhancements made to assist in similar tasks, greatly increasing efficiency.</BM_SpacerBrawlerSubpersonaChip.description>
+
+
+</LanguageData>

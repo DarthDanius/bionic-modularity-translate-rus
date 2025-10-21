@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerHemofilterUtilityModule_InstallAnimal.label>install hemofilter module</BM_SpacerHemofilterUtilityModule_InstallAnimal.label>
+  <BM_SpacerHemofilterUtilityModule_InstallAnimal.description>Install a hemofilter module into the body part's utility module slot.</BM_SpacerHemofilterUtilityModule_InstallAnimal.description>
+  <BM_SpacerHemofilterUtilityModule_InstallAnimal.jobString>Installing hemofilter module.</BM_SpacerHemofilterUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerHemofilterUtilityModule_InstallHuman.label>install hemofilter module</BM_SpacerHemofilterUtilityModule_InstallHuman.label>
+  <BM_SpacerHemofilterUtilityModule_InstallHuman.description>Install a hemofilter module into the body part's utility module slot.</BM_SpacerHemofilterUtilityModule_InstallHuman.description>
+  <BM_SpacerHemofilterUtilityModule_InstallHuman.jobString>Installing hemofilter module.</BM_SpacerHemofilterUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerHemofilterUtilityModule_InstallHuman_Implant.label>install hemofilter module.</BM_SpacerHemofilterUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerHemofilterUtilityModule_InstallHuman_Implant.description>Install a hemofilter module into the body part's utility module slot.</BM_SpacerHemofilterUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerHemofilterUtilityModule_InstallHuman_Implant.jobString>Installing hemofilter module.</BM_SpacerHemofilterUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerHemofilterUtilityModule_InstallAnimal_Implant.label>install hemofilter module.</BM_SpacerHemofilterUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerHemofilterUtilityModule_InstallAnimal_Implant.description>Install a hemofilter module into the body part's utility module slot.</BM_SpacerHemofilterUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerHemofilterUtilityModule_InstallAnimal_Implant.jobString>Installing hemofilter module.</BM_SpacerHemofilterUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerHemofilterUtilityModule_RemoveFromReplacement.label>remove hemofilter module</BM_SpacerHemofilterUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerHemofilterUtilityModule_RemoveFromReplacement.description>Remove hemofilter module.</BM_SpacerHemofilterUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerHemofilterUtilityModule_RemoveFromReplacement.jobString>Removing hemofilter module.</BM_SpacerHemofilterUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerHemofilterUtilityModule_RemoveFromNatural.label>remove hemofilter module</BM_SpacerHemofilterUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerHemofilterUtilityModule_RemoveFromNatural.description>Remove hemofilter module.</BM_SpacerHemofilterUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerHemofilterUtilityModule_RemoveFromNatural.jobString>Removing hemofilter module.</BM_SpacerHemofilterUtilityModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerBiowelderUtilityModule_InstallAnimal.label>install biowelder module</BM_SpacerBiowelderUtilityModule_InstallAnimal.label>
+  <BM_SpacerBiowelderUtilityModule_InstallAnimal.description>Install a biowelder module into the body part's utility module slot.</BM_SpacerBiowelderUtilityModule_InstallAnimal.description>
+  <BM_SpacerBiowelderUtilityModule_InstallAnimal.jobString>Installing biowelder module.</BM_SpacerBiowelderUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerBiowelderUtilityModule_InstallHuman.label>install biowelder module</BM_SpacerBiowelderUtilityModule_InstallHuman.label>
+  <BM_SpacerBiowelderUtilityModule_InstallHuman.description>Install a biowelder module into the body part's utility module slot.</BM_SpacerBiowelderUtilityModule_InstallHuman.description>
+  <BM_SpacerBiowelderUtilityModule_InstallHuman.jobString>Installing biowelder module.</BM_SpacerBiowelderUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerBiowelderUtilityModule_InstallHuman_Implant.label>install biowelder module.</BM_SpacerBiowelderUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerBiowelderUtilityModule_InstallHuman_Implant.description>Install a biowelder module into the body part's utility module slot.</BM_SpacerBiowelderUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerBiowelderUtilityModule_InstallHuman_Implant.jobString>Installing biowelder module.</BM_SpacerBiowelderUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerBiowelderUtilityModule_InstallAnimal_Implant.label>install biowelder module into the body part's utility module slot.</BM_SpacerBiowelderUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerBiowelderUtilityModule_InstallAnimal_Implant.description>Install a biowelder module.</BM_SpacerBiowelderUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerBiowelderUtilityModule_InstallAnimal_Implant.jobString>Installing biowelder module.</BM_SpacerBiowelderUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerBiowelderUtilityModule_RemoveFromReplacement.label>remove biowelder module</BM_SpacerBiowelderUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerBiowelderUtilityModule_RemoveFromReplacement.description>Remove biowelder module.</BM_SpacerBiowelderUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerBiowelderUtilityModule_RemoveFromReplacement.jobString>Removing biowelder module.</BM_SpacerBiowelderUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerBiowelderUtilityModule_RemoveFromNatural.label>remove biowelder module</BM_SpacerBiowelderUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerBiowelderUtilityModule_RemoveFromNatural.description>Remove biowelder module.</BM_SpacerBiowelderUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerBiowelderUtilityModule_RemoveFromNatural.jobString>Removing biowelder module.</BM_SpacerBiowelderUtilityModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerCoagulatorUtilityModule_InstallAnimal.label>install coagulator module</BM_SpacerCoagulatorUtilityModule_InstallAnimal.label>
+  <BM_SpacerCoagulatorUtilityModule_InstallAnimal.description>Install a coagulator module into the body part's utility module slot.</BM_SpacerCoagulatorUtilityModule_InstallAnimal.description>
+  <BM_SpacerCoagulatorUtilityModule_InstallAnimal.jobString>Installing coagulator module.</BM_SpacerCoagulatorUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerCoagulatorUtilityModule_InstallHuman.label>install coagulator module</BM_SpacerCoagulatorUtilityModule_InstallHuman.label>
+  <BM_SpacerCoagulatorUtilityModule_InstallHuman.description>Install a coagulator module into the body part's utility module slot.</BM_SpacerCoagulatorUtilityModule_InstallHuman.description>
+  <BM_SpacerCoagulatorUtilityModule_InstallHuman.jobString>Installing coagulator module.</BM_SpacerCoagulatorUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerCoagulatorUtilityModule_InstallHuman_Implant.label>install coagulator module.</BM_SpacerCoagulatorUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerCoagulatorUtilityModule_InstallHuman_Implant.description>Install a coagulator module into the body part's utility module slot.</BM_SpacerCoagulatorUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerCoagulatorUtilityModule_InstallHuman_Implant.jobString>Installing coagulator module.</BM_SpacerCoagulatorUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerCoagulatorUtilityModule_InstallAnimal_Implant.label>install coagulator module.</BM_SpacerCoagulatorUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerCoagulatorUtilityModule_InstallAnimal_Implant.description>Install a coagulator module into the body part's utility module slot.</BM_SpacerCoagulatorUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerCoagulatorUtilityModule_InstallAnimal_Implant.jobString>Installing coagulator module.</BM_SpacerCoagulatorUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerCoagulatorUtilityModule_RemoveFromReplacement.label>remove coagulator module</BM_SpacerCoagulatorUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerCoagulatorUtilityModule_RemoveFromReplacement.description>Remove coagulator module.</BM_SpacerCoagulatorUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerCoagulatorUtilityModule_RemoveFromReplacement.jobString>Removing coagulator module.</BM_SpacerCoagulatorUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerCoagulatorUtilityModule_RemoveFromNatural.label>remove coagulator module</BM_SpacerCoagulatorUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerCoagulatorUtilityModule_RemoveFromNatural.description>Remove coagulator module.</BM_SpacerCoagulatorUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerCoagulatorUtilityModule_RemoveFromNatural.jobString>Removing coagulator module.</BM_SpacerCoagulatorUtilityModule_RemoveFromNatural.jobString>
+
+
+</LanguageData>

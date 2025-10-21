@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- orbital bombardment -->
+
+  <BM_SpacerOrbitalBombardmentAbilityModule.label>orbital bombardment module</BM_SpacerOrbitalBombardmentAbilityModule.label>
+  <BM_SpacerOrbitalBombardmentAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular model includes a compact storage and deployment apparatus for orbital bombardment targeters. The core functions of the targeter remain the same and it has to be replaced after each use as a result. Due to its small size and low weight, the wielder can carry it around comfortably with no interference during daily tasks.</BM_SpacerOrbitalBombardmentAbilityModule.description>
+
+
+  <!-- orbital power beam -->
+
+  <BM_SpacerOrbitalPowerBeamAbilityModule.label>orbital power beam module</BM_SpacerOrbitalPowerBeamAbilityModule.label>
+  <BM_SpacerOrbitalPowerBeamAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular model includes a compact storage and deployment apparatus for orbital power beam targeters. The core functions of the targeter remain the same and it has to be replaced after each use as a result. Due to its small size and low weight, the wielder can carry it around comfortably with no interference during daily tasks.</BM_SpacerOrbitalPowerBeamAbilityModule.description>
+
+
+  <!-- tornado generator -->
+
+  <BM_SpacerTornadoGeneratorAbilityModule.label>tornado generator module</BM_SpacerTornadoGeneratorAbilityModule.label>
+  <BM_SpacerTornadoGeneratorAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular model includes a compact storage and deployment apparatus for tornado generators. The core functions of the targeter remain the same and it has to be replaced after each use as a result. Due to its small size and low weight, the wielder can carry it around comfortably with no interference during daily tasks.</BM_SpacerTornadoGeneratorAbilityModule.description>
+
+
+</LanguageData>

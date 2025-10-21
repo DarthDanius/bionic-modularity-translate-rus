@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerFragGrenadeCombatModule_InstallHuman.label>install frag grenade module</BM_SpacerFragGrenadeCombatModule_InstallHuman.label>
+  <BM_SpacerFragGrenadeCombatModule_InstallHuman.description>Install a frag grenade module into the body part's combat module slot.</BM_SpacerFragGrenadeCombatModule_InstallHuman.description>
+  <BM_SpacerFragGrenadeCombatModule_InstallHuman.jobString>Installing frag grenade module.</BM_SpacerFragGrenadeCombatModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.label>remove frag grenade module</BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.description>Remove frag grenade module.</BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.jobString>Removing frag grenade module.</BM_SpacerFragGrenadeCombatModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerEMPGrenadeCombatModule_InstallHuman.label>install EMP grenade module</BM_SpacerEMPGrenadeCombatModule_InstallHuman.label>
+  <BM_SpacerEMPGrenadeCombatModule_InstallHuman.description>Install an EMP grenade module into the body part's combat module slot.</BM_SpacerEMPGrenadeCombatModule_InstallHuman.description>
+  <BM_SpacerEMPGrenadeCombatModule_InstallHuman.jobString>Installing EMP grenade module.</BM_SpacerEMPGrenadeCombatModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.label>remove EMP grenade module</BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.description>Remove EMP grenade module.</BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.jobString>Removing EMP grenade module.</BM_SpacerEMPGrenadeCombatModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

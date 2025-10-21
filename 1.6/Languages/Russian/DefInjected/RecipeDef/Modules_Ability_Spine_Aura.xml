@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerPyroprojectorAbilityModule_InstallHuman.label>install pyroprojector module</BM_SpacerPyroprojectorAbilityModule_InstallHuman.label>
+  <BM_SpacerPyroprojectorAbilityModule_InstallHuman.description>Install a pyroprojector module into the body part's ability module slot.</BM_SpacerPyroprojectorAbilityModule_InstallHuman.description>
+  <BM_SpacerPyroprojectorAbilityModule_InstallHuman.jobString>Installing pyroprojector module.</BM_SpacerPyroprojectorAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerPyroprojectorAbilityModule_RemoveFromReplacement.label>remove pyroprojector module</BM_SpacerPyroprojectorAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerPyroprojectorAbilityModule_RemoveFromReplacement.description>Remove pyroprojector module.</BM_SpacerPyroprojectorAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerPyroprojectorAbilityModule_RemoveFromReplacement.jobString>Removing pyroprojector module.</BM_SpacerPyroprojectorAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerMagprojectorAbilityModule_InstallHuman.label>install magprojector module</BM_SpacerMagprojectorAbilityModule_InstallHuman.label>
+  <BM_SpacerMagprojectorAbilityModule_InstallHuman.description>Install a magprojector module into the body part's ability module slot.</BM_SpacerMagprojectorAbilityModule_InstallHuman.description>
+  <BM_SpacerMagprojectorAbilityModule_InstallHuman.jobString>Installing magprojector module.</BM_SpacerMagprojectorAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerMagprojectorAbilityModule_RemoveFromReplacement.label>remove magprojector module</BM_SpacerMagprojectorAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerMagprojectorAbilityModule_RemoveFromReplacement.description>Remove magprojector module.</BM_SpacerMagprojectorAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerMagprojectorAbilityModule_RemoveFromReplacement.jobString>Removing magprojector module.</BM_SpacerMagprojectorAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerMedprojectorAbilityModule_InstallHuman.label>install medprojector module</BM_SpacerMedprojectorAbilityModule_InstallHuman.label>
+  <BM_SpacerMedprojectorAbilityModule_InstallHuman.description>Install a medprojector module into the body part's ability module slot.</BM_SpacerMedprojectorAbilityModule_InstallHuman.description>
+  <BM_SpacerMedprojectorAbilityModule_InstallHuman.jobString>Installing medprojector module.</BM_SpacerMedprojectorAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerMedprojectorAbilityModule_RemoveFromReplacement.label>remove medprojector module</BM_SpacerMedprojectorAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerMedprojectorAbilityModule_RemoveFromReplacement.description>Remove medprojector module.</BM_SpacerMedprojectorAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerMedprojectorAbilityModule_RemoveFromReplacement.jobString>Removing medprojector module.</BM_SpacerMedprojectorAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerRadprojectorAbilityModule_InstallHuman.label>install radprojector module</BM_SpacerRadprojectorAbilityModule_InstallHuman.label>
+  <BM_SpacerRadprojectorAbilityModule_InstallHuman.description>Install a radprojector module into the body part's ability module slot.</BM_SpacerRadprojectorAbilityModule_InstallHuman.description>
+  <BM_SpacerRadprojectorAbilityModule_InstallHuman.jobString>Installing radprojector module.</BM_SpacerRadprojectorAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerRadprojectorAbilityModule_RemoveFromReplacement.label>remove radprojector module</BM_SpacerRadprojectorAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerRadprojectorAbilityModule_RemoveFromReplacement.description>Remove radprojector module.</BM_SpacerRadprojectorAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerRadprojectorAbilityModule_RemoveFromReplacement.jobString>Removing radprojector module.</BM_SpacerRadprojectorAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerCryoprojectorAbilityModule_InstallHuman.label>install cryoprojector module</BM_SpacerCryoprojectorAbilityModule_InstallHuman.label>
+  <BM_SpacerCryoprojectorAbilityModule_InstallHuman.description>Install a cryoprojector module into the body part's ability module slot.</BM_SpacerCryoprojectorAbilityModule_InstallHuman.description>
+  <BM_SpacerCryoprojectorAbilityModule_InstallHuman.jobString>Installing cryoprojector module.</BM_SpacerCryoprojectorAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerCryoprojectorAbilityModule_RemoveFromReplacement.label>remove cryoprojector module</BM_SpacerCryoprojectorAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerCryoprojectorAbilityModule_RemoveFromReplacement.description>Remove cryoprojector module.</BM_SpacerCryoprojectorAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerCryoprojectorAbilityModule_RemoveFromReplacement.jobString>Removing cryoprojector module.</BM_SpacerCryoprojectorAbilityModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

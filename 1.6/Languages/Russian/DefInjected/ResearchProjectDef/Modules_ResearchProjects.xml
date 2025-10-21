@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- <ResearchTabDef> no need for this
+		<defName>BM_BionicModularity</defName>
+		<label>Bionic Modularity</label>
+		<generalTitle>Bionic Modularity research projects</generalTitle>
+		<generalDescription>Unlock the ability to enhance body part replacements and implants with various modules.</generalDescription>
+	</ResearchTabDef> -->
+
+  <BM_SpacerBionicImplants.label>bionic modules</BM_SpacerBionicImplants.label>
+  <BM_SpacerBionicImplants.description>Produce advanced devices that enhance and extend the functionality of artificial body part replacements.</BM_SpacerBionicImplants.description>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.0>subject-&gt;bionic modules</BM_SpacerBionicImplants.generalRules.rulesStrings.0>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.1>subject_story-&gt;worked on various body enhancement projects, making improvements to designs thought to have been perfected years ago</BM_SpacerBionicImplants.generalRules.rulesStrings.1>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.2>subject_story-&gt;had an odd obsession with bionic modifications and desired the ability to change one's body at a moment's notice, after years of experimentation that goal was finally achieved</BM_SpacerBionicImplants.generalRules.rulesStrings.2>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.3>subject_story-&gt;was bored of bionic prosthetics being merely metallic replicas of flesh and decided to develop experimental enhancements for them</BM_SpacerBionicImplants.generalRules.rulesStrings.3>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.4>subject_story-&gt;developed a uniquely quick and painless method of modifying bionic prosthetics after their installation</BM_SpacerBionicImplants.generalRules.rulesStrings.4>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.5>subject_story-&gt;created several models of modular bionic prosthetics for non-combat purposes</BM_SpacerBionicImplants.generalRules.rulesStrings.5>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.6>subject_story-&gt;has gotten fired from several jobs in the field of body enhancements due to numerous attempts at implementing changes and modification to produced models without proper authorization</BM_SpacerBionicImplants.generalRules.rulesStrings.6>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.7>subject_story-&gt;volunteered to test experimental models of modular bionic prosthetics and ended up contributing greatly to the project even with little to no technical knowledge on the subject at the time</BM_SpacerBionicImplants.generalRules.rulesStrings.7>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.8>subject_story-&gt;worked on several military combat-enhancements projects, developing a plug-and-play-like method of implant installation</BM_SpacerBionicImplants.generalRules.rulesStrings.8>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.9>subject_story-&gt;became the leader of a body modification project by being the only one with an intact moral compass</BM_SpacerBionicImplants.generalRules.rulesStrings.9>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.10>subject_gerund-&gt;customizing bionics</BM_SpacerBionicImplants.generalRules.rulesStrings.10>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.11>subject_gerund-&gt;enhancing bionic prosthetics</BM_SpacerBionicImplants.generalRules.rulesStrings.11>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.12>subject_gerund-&gt;constructing bionic modules</BM_SpacerBionicImplants.generalRules.rulesStrings.12>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.13>subject_gerund-&gt;assembling modular bionics</BM_SpacerBionicImplants.generalRules.rulesStrings.13>
+  <BM_SpacerBionicImplants.generalRules.rulesStrings.14>subject_gerund-&gt;achieving body modularity</BM_SpacerBionicImplants.generalRules.rulesStrings.14>
+
+  <BM_MechaniteModules.label>mechanite hosting</BM_MechaniteModules.label>
+  <BM_MechaniteModules.description>Fabricate bionic modules and implants capable of hosting, maintaining and utilizing small mechanite swarms.</BM_MechaniteModules.description>
+  <BM_MechaniteModules.generalRules.rulesStrings.0>subject-&gt;mechanite hosting</BM_MechaniteModules.generalRules.rulesStrings.0>
+  <BM_MechaniteModules.generalRules.rulesStrings.1>subject_story-&gt;witnessed a criminal emit a strange aura that set nearby law enforcements ablaze</BM_MechaniteModules.generalRules.rulesStrings.1>
+  <BM_MechaniteModules.generalRules.rulesStrings.2>subject_story-&gt;was one of the first people to test out experimental models of [bm_mechanite_hosting_devices_attack] modules</BM_MechaniteModules.generalRules.rulesStrings.2>
+  <BM_MechaniteModules.generalRules.rulesStrings.3>subject_story-&gt;utilized an EMP-emitting module to wipe out a mechanoid squad with just a flimsy pistol</BM_MechaniteModules.generalRules.rulesStrings.3>
+  <BM_MechaniteModules.generalRules.rulesStrings.4>subject_story-&gt;possessed an unusual ability to support squadmates, which later turned out to be the work of an unusual implant</BM_MechaniteModules.generalRules.rulesStrings.4>
+  <BM_MechaniteModules.generalRules.rulesStrings.5>subject_story-&gt;controlled a personal swarm of mechanites</BM_MechaniteModules.generalRules.rulesStrings.5>
+  <BM_MechaniteModules.generalRules.rulesStrings.6>subject_story-&gt;cheated during a duel by activating an undetectable mechanite-powered implant</BM_MechaniteModules.generalRules.rulesStrings.6>
+  <BM_MechaniteModules.generalRules.rulesStrings.7>subject_story-&gt;was killed but later came back to life thanks to an experimental heart implant</BM_MechaniteModules.generalRules.rulesStrings.7>
+  <BM_MechaniteModules.generalRules.rulesStrings.8>bm_mechanite_hosting_devices_attack-&gt;strikebooster</BM_MechaniteModules.generalRules.rulesStrings.8>
+  <BM_MechaniteModules.generalRules.rulesStrings.9>bm_mechanite_hosting_devices_attack-&gt;projector</BM_MechaniteModules.generalRules.rulesStrings.9>
+  <BM_MechaniteModules.generalRules.rulesStrings.10>subject_gerund-&gt;fabricating mechanite-powered implants</BM_MechaniteModules.generalRules.rulesStrings.10>
+  <BM_MechaniteModules.generalRules.rulesStrings.11>subject_gerund-&gt;crafting mechanite-hosting modules</BM_MechaniteModules.generalRules.rulesStrings.11>
+  <BM_MechaniteModules.generalRules.rulesStrings.12>subject_gerund-&gt;assembling mechanite controllers</BM_MechaniteModules.generalRules.rulesStrings.12>
+
+  <BM_ChemicalModules.label>compact chemistry</BM_ChemicalModules.label>
+  <BM_ChemicalModules.description>Craft bionic modules and implants capable of synthesizing, storing and launching various chemicals.</BM_ChemicalModules.description>
+  <BM_ChemicalModules.generalRules.rulesStrings.0>subject-&gt;compact chemistry</BM_ChemicalModules.generalRules.rulesStrings.0>
+  <BM_ChemicalModules.generalRules.rulesStrings.1>subject-&gt;chemical synthesis modules</BM_ChemicalModules.generalRules.rulesStrings.1>
+  <BM_ChemicalModules.generalRules.rulesStrings.2>subject_story-&gt;witnessed a [bm_chemical_devices] module in action when hiding from gunfire</BM_ChemicalModules.generalRules.rulesStrings.2>
+  <BM_ChemicalModules.generalRules.rulesStrings.3>subject_story-&gt;requested the assistance of several well-known chemists when developing new models of [bm_chemical_devices] modules</BM_ChemicalModules.generalRules.rulesStrings.3>
+  <BM_ChemicalModules.generalRules.rulesStrings.4>subject_story-&gt;took apart a combat implant and repurposed its parts to make an ultra-advanced sugar cube dispenser</BM_ChemicalModules.generalRules.rulesStrings.4>
+  <BM_ChemicalModules.generalRules.rulesStrings.5>subject_story-&gt;used a smoke spewer module stolen from a military base when a band's smoke machine stopped working during a concert</BM_ChemicalModules.generalRules.rulesStrings.5>
+  <BM_ChemicalModules.generalRules.rulesStrings.6>subject_story-&gt;installed a tox spewer module for self-defense purposes, but ended up activating it on accident on a crowded ship</BM_ChemicalModules.generalRules.rulesStrings.6>
+  <BM_ChemicalModules.generalRules.rulesStrings.7>subject_story-&gt;used a burst module to fry nearby hostile mechanoids attacking the colony base</BM_ChemicalModules.generalRules.rulesStrings.7>
+  <BM_ChemicalModules.generalRules.rulesStrings.8>subject_story-&gt;was sentenced to participate in a war as a suicide bomber, but came back unscathed several times thanks to a hidden implant</BM_ChemicalModules.generalRules.rulesStrings.8>
+  <BM_ChemicalModules.generalRules.rulesStrings.9>bm_chemical_devices-&gt;burst</BM_ChemicalModules.generalRules.rulesStrings.9>
+  <BM_ChemicalModules.generalRules.rulesStrings.10>bm_chemical_devices-&gt;spewer</BM_ChemicalModules.generalRules.rulesStrings.10>
+  <BM_ChemicalModules.generalRules.rulesStrings.11>subject_gerund-&gt;compacting chemical reactions</BM_ChemicalModules.generalRules.rulesStrings.11>
+  <BM_ChemicalModules.generalRules.rulesStrings.12>subject_gerund-&gt;assembling chemical synthesis implants</BM_ChemicalModules.generalRules.rulesStrings.12>
+
+  <BM_SubpersonaImplants.label>Auxiliary subpersona chips</BM_SubpersonaImplants.label>
+  <BM_SubpersonaImplants.description>Produce advanced brain chips that assist the user with various tasks.</BM_SubpersonaImplants.description>
+  <BM_SubpersonaImplants.generalRules.rulesStrings.0>subject-&gt;subpersona chips</BM_SubpersonaImplants.generalRules.rulesStrings.0>
+  <BM_SubpersonaImplants.generalRules.rulesStrings.1>subject-&gt;subpersona core implantation</BM_SubpersonaImplants.generalRules.rulesStrings.1>
+  <BM_SubpersonaImplants.generalRules.rulesStrings.2>subject-&gt;subpersona assistants</BM_SubpersonaImplants.generalRules.rulesStrings.2>
+  <BM_SubpersonaImplants.generalRules.rulesStrings.3>subject-&gt;subpersona brain enhancements</BM_SubpersonaImplants.generalRules.rulesStrings.3>
+  <BM_SubpersonaImplants.generalRules.rulesStrings.4>subject-&gt;subpersona biosynchronization</BM_SubpersonaImplants.generalRules.rulesStrings.4>
+  <BM_SubpersonaImplants.generalRules.rulesStrings.5>subject_story-&gt;surgically implanted a subpersona chip into a patient</BM_SubpersonaImplants.generalRules.rulesStrings.5>
+  <BM_SubpersonaImplants.generalRules.rulesStrings.6>subject_story-&gt;designed and produced a variety of subpersona assistant chips</BM_SubpersonaImplants.generalRules.rulesStrings.6>
+  <BM_SubpersonaImplants.generalRules.rulesStrings.7>subject_story-&gt;salvaged a subpersona chip from a fallen mechanoid and repurposed it into a portable assistant</BM_SubpersonaImplants.generalRules.rulesStrings.7>
+  <BM_SubpersonaImplants.generalRules.rulesStrings.8>subject_gerund-&gt;implanting subpersona cores</BM_SubpersonaImplants.generalRules.rulesStrings.8>
+  <BM_SubpersonaImplants.generalRules.rulesStrings.9>subject_gerund-&gt;assembling subpersona chips</BM_SubpersonaImplants.generalRules.rulesStrings.9>
+
+
+</LanguageData>

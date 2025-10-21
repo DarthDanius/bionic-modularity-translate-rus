@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- faunamaster -->
+
+  <BM_SpacerTamerWorkModule.label>faunamaster module</BM_SpacerTamerWorkModule.label>
+  <BM_SpacerTamerWorkModule.description>A high-tech device that can be installed into an eye or any compatible artificial eye replacement. This particular model is able to quickly analyze an animal's health and behavior. The collected data is then forwarded to the user via a simple, non-intrusive interface. Additionally, it is able to emit complex light signals and display special patterns on the eye's surface that most animal species can be trained to respond to.</BM_SpacerTamerWorkModule.description>
+
+
+  <!-- mindreader -->
+
+  <BM_SpacerMindreaderWorkModule.label>mindreader module</BM_SpacerMindreaderWorkModule.label>
+  <BM_SpacerMindreaderWorkModule.description>A high-tech device that can be installed into an eye or any compatible artificial eye replacement. This particular model is able to quickly analyze a person's facial expression, speech and body language. The collected data is then forwarded to the user via a simple, non-intrusive interface. It's currently the closest thing to contactless mind reading a non-psycaster can hope for.</BM_SpacerMindreaderWorkModule.description>
+
+
+</LanguageData>

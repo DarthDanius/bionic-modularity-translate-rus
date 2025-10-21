@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Implant production [Biotech required] -->
+
+  <BM_SpacerBotanistSubpersonaChip_Produce.label>make botanist subpersona</BM_SpacerBotanistSubpersonaChip_Produce.label>
+  <BM_SpacerBotanistSubpersonaChip_Produce.description>Make a botanist subpersona.</BM_SpacerBotanistSubpersonaChip_Produce.description>
+  <BM_SpacerBotanistSubpersonaChip_Produce.jobString>Making botanist subpersona.</BM_SpacerBotanistSubpersonaChip_Produce.jobString>
+
+
+  <!-- Implant Installation -->
+
+  <Install_BM_SpacerBotanistSubpersonaChip.label>install botanist subpersona</Install_BM_SpacerBotanistSubpersonaChip.label>
+  <Install_BM_SpacerBotanistSubpersonaChip.description>Install botanist subpersona.</Install_BM_SpacerBotanistSubpersonaChip.description>
+  <Install_BM_SpacerBotanistSubpersonaChip.jobString>Installing botanist subpersona.</Install_BM_SpacerBotanistSubpersonaChip.jobString>
+
+  <Remove_BM_SpacerBotanistSubpersonaChip.label>remove botanist subpersona</Remove_BM_SpacerBotanistSubpersonaChip.label>
+  <Remove_BM_SpacerBotanistSubpersonaChip.description>Remove botanist subpersona.</Remove_BM_SpacerBotanistSubpersonaChip.description>
+  <Remove_BM_SpacerBotanistSubpersonaChip.jobString>Removing botanist subpersona.</Remove_BM_SpacerBotanistSubpersonaChip.jobString>
+
+
+</LanguageData>

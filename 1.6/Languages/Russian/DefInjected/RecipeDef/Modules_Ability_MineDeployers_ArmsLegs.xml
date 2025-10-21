@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_InstallHuman.label>install explosive trap deployer module</BM_SpacerExplosiveTrapDeployerAbilityModule_InstallHuman.label>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_InstallHuman.description>Install an explosive trap deployer module into the body part's ability module slot.</BM_SpacerExplosiveTrapDeployerAbilityModule_InstallHuman.description>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_InstallHuman.jobString>Installing explosive trap deployer module.</BM_SpacerExplosiveTrapDeployerAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_RemoveFromReplacement.label>remove explosive trap deployer module</BM_SpacerExplosiveTrapDeployerAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_RemoveFromReplacement.description>Remove explosive trap deployer module.</BM_SpacerExplosiveTrapDeployerAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_RemoveFromReplacement.jobString>Removing explosive trap deployer module.</BM_SpacerExplosiveTrapDeployerAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_InstallHuman.label>install antigrain trap deployer module</BM_SpacerAntigrainTrapDeployerAbilityModule_InstallHuman.label>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_InstallHuman.description>Install an antigrain trap deployer module into the body part's ability module slot.</BM_SpacerAntigrainTrapDeployerAbilityModule_InstallHuman.description>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_InstallHuman.jobString>Installing antigrain trap deployer module.</BM_SpacerAntigrainTrapDeployerAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_RemoveFromReplacement.label>remove antigrain trap deployer module</BM_SpacerAntigrainTrapDeployerAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_RemoveFromReplacement.description>Remove antigrain trap deployer module.</BM_SpacerAntigrainTrapDeployerAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_RemoveFromReplacement.jobString>Removing antigrain trap deployer module.</BM_SpacerAntigrainTrapDeployerAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_InstallHuman.label>install firefoam trap deployer module</BM_SpacerFirefoamTrapDeployerAbilityModule_InstallHuman.label>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_InstallHuman.description>Install a firefoam trap deployer module into the body part's ability module slot.</BM_SpacerFirefoamTrapDeployerAbilityModule_InstallHuman.description>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_InstallHuman.jobString>Installing firefoam trap deployer module.</BM_SpacerFirefoamTrapDeployerAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_RemoveFromReplacement.label>remove firefoam trap deployer module</BM_SpacerFirefoamTrapDeployerAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_RemoveFromReplacement.description>Remove firefoam trap deployer module.</BM_SpacerFirefoamTrapDeployerAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_RemoveFromReplacement.jobString>Removing firefoam trap deployer module.</BM_SpacerFirefoamTrapDeployerAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerSmokeTrapDeployerAbilityModule_InstallHuman.label>install smoke trap deployer module</BM_SpacerSmokeTrapDeployerAbilityModule_InstallHuman.label>
+  <BM_SpacerSmokeTrapDeployerAbilityModule_InstallHuman.description>Install a smoke trap deployer module into the body part's ability module slot.</BM_SpacerSmokeTrapDeployerAbilityModule_InstallHuman.description>
+  <BM_SpacerSmokeTrapDeployerAbilityModule_InstallHuman.jobString>Installing smoke trap deployer module.</BM_SpacerSmokeTrapDeployerAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerSmokeTrapDeployerAbilityModule_RemoveFromReplacement.label>remove smoke trap deployer module</BM_SpacerSmokeTrapDeployerAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerSmokeTrapDeployerAbilityModule_RemoveFromReplacement.description>Remove smoke trap deployer module.</BM_SpacerSmokeTrapDeployerAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerSmokeTrapDeployerAbilityModule_RemoveFromReplacement.jobString>Removing smoke trap deployer module.</BM_SpacerSmokeTrapDeployerAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerEMPTrapDeployerAbilityModule_InstallHuman.label>install EMP trap deployer module</BM_SpacerEMPTrapDeployerAbilityModule_InstallHuman.label>
+  <BM_SpacerEMPTrapDeployerAbilityModule_InstallHuman.description>Install an EMP trap deployer module into the body part's ability module slot.</BM_SpacerEMPTrapDeployerAbilityModule_InstallHuman.description>
+  <BM_SpacerEMPTrapDeployerAbilityModule_InstallHuman.jobString>Installing EMP trap deployer module.</BM_SpacerEMPTrapDeployerAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerEMPTrapDeployerAbilityModule_RemoveFromReplacement.label>remove EMP trap deployer module</BM_SpacerEMPTrapDeployerAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerEMPTrapDeployerAbilityModule_RemoveFromReplacement.description>Remove EMP trap deployer module.</BM_SpacerEMPTrapDeployerAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerEMPTrapDeployerAbilityModule_RemoveFromReplacement.jobString>Removing EMP trap deployer module.</BM_SpacerEMPTrapDeployerAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_InstallHuman.label>install incendiary trap deployer module</BM_SpacerIncendiaryTrapDeployerAbilityModule_InstallHuman.label>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_InstallHuman.description>Install an incendiary trap deployer module into the body part's ability module slot.</BM_SpacerIncendiaryTrapDeployerAbilityModule_InstallHuman.description>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_InstallHuman.jobString>Installing incendiary trap deployer module.</BM_SpacerIncendiaryTrapDeployerAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_RemoveFromReplacement.label>remove incendiary trap deployer module</BM_SpacerIncendiaryTrapDeployerAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_RemoveFromReplacement.description>Remove incendiary trap deployer module.</BM_SpacerIncendiaryTrapDeployerAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_RemoveFromReplacement.jobString>Removing incendiary trap deployer module.</BM_SpacerIncendiaryTrapDeployerAbilityModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

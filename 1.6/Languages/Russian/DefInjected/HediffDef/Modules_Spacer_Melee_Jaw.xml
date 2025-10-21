@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- power fang -->
+
+  <BM_SpacerPowerFangCombatModule.label>power fang module</BM_SpacerPowerFangCombatModule.label>
+  <BM_SpacerPowerFangCombatModule.description>An installed power fang combat module.</BM_SpacerPowerFangCombatModule.description>
+  <BM_SpacerPowerFangCombatModule.comps.0.tools.0.label>power fang</BM_SpacerPowerFangCombatModule.comps.0.tools.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal.label>install overdose immunizer module</BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal.label>
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal.description>Install an overdose immunizer module into the body part's support module slot.</BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal.description>
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal.jobString>Installing overdose immunizer module.</BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallHuman.label>install overdose immunizer module</BM_SpacerOverdoseImmunizerSupportModule_InstallHuman.label>
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallHuman.description>Install an overdose immunizer module into the body part's support module slot.</BM_SpacerOverdoseImmunizerSupportModule_InstallHuman.description>
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallHuman.jobString>Installing overdose immunizer module.</BM_SpacerOverdoseImmunizerSupportModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallHuman_Implant.label>install overdose immunizer module</BM_SpacerOverdoseImmunizerSupportModule_InstallHuman_Implant.label>
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallHuman_Implant.description>Install an overdose immunizer module into the body part's support module slot.</BM_SpacerOverdoseImmunizerSupportModule_InstallHuman_Implant.description>
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallHuman_Implant.jobString>Installing overdose immunizer module.</BM_SpacerOverdoseImmunizerSupportModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal_Implant.label>install overdose immunizer module.</BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal_Implant.label>
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal_Implant.description>Install an overdose immunizer module into the body part's support module slot.</BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal_Implant.description>
+  <BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal_Implant.jobString>Installing overdose immunizer module.</BM_SpacerOverdoseImmunizerSupportModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerOverdoseImmunizerSupportModule_RemoveFromReplacement.label>remove overdose immunizer module</BM_SpacerOverdoseImmunizerSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerOverdoseImmunizerSupportModule_RemoveFromReplacement.description>Remove overdose immunizer module.</BM_SpacerOverdoseImmunizerSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerOverdoseImmunizerSupportModule_RemoveFromReplacement.jobString>Removing overdose immunizer module.</BM_SpacerOverdoseImmunizerSupportModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerOverdoseImmunizerSupportModule_RemoveFromNatural.label>remove overdose immunizer module</BM_SpacerOverdoseImmunizerSupportModule_RemoveFromNatural.label>
+  <BM_SpacerOverdoseImmunizerSupportModule_RemoveFromNatural.description>Remove overdose immunizer module.</BM_SpacerOverdoseImmunizerSupportModule_RemoveFromNatural.description>
+  <BM_SpacerOverdoseImmunizerSupportModule_RemoveFromNatural.jobString>Removing overdose immunizer module.</BM_SpacerOverdoseImmunizerSupportModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerScariaImmunizerSupportModule_InstallAnimal.label>install scaria immunizer module</BM_SpacerScariaImmunizerSupportModule_InstallAnimal.label>
+  <BM_SpacerScariaImmunizerSupportModule_InstallAnimal.description>Install a scaria immunizer module into the body part's support module slot.</BM_SpacerScariaImmunizerSupportModule_InstallAnimal.description>
+  <BM_SpacerScariaImmunizerSupportModule_InstallAnimal.jobString>Installing scaria immunizer module.</BM_SpacerScariaImmunizerSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerScariaImmunizerSupportModule_InstallHuman.label>install scaria immunizer module</BM_SpacerScariaImmunizerSupportModule_InstallHuman.label>
+  <BM_SpacerScariaImmunizerSupportModule_InstallHuman.description>Install a scaria immunizer module into the body part's support module slot.</BM_SpacerScariaImmunizerSupportModule_InstallHuman.description>
+  <BM_SpacerScariaImmunizerSupportModule_InstallHuman.jobString>Installing scaria immunizer module.</BM_SpacerScariaImmunizerSupportModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerScariaImmunizerSupportModule_InstallHuman_Implant.label>install scaria immunizer module</BM_SpacerScariaImmunizerSupportModule_InstallHuman_Implant.label>
+  <BM_SpacerScariaImmunizerSupportModule_InstallHuman_Implant.description>Install a scaria immunizer module into the body part's support module slot.</BM_SpacerScariaImmunizerSupportModule_InstallHuman_Implant.description>
+  <BM_SpacerScariaImmunizerSupportModule_InstallHuman_Implant.jobString>Installing scaria immunizer module.</BM_SpacerScariaImmunizerSupportModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerScariaImmunizerSupportModule_InstallAnimal_Implant.label>install scaria immunizer module.</BM_SpacerScariaImmunizerSupportModule_InstallAnimal_Implant.label>
+  <BM_SpacerScariaImmunizerSupportModule_InstallAnimal_Implant.description>Install a scaria immunizer module into the body part's support module slot.</BM_SpacerScariaImmunizerSupportModule_InstallAnimal_Implant.description>
+  <BM_SpacerScariaImmunizerSupportModule_InstallAnimal_Implant.jobString>Installing scaria immunizer module.</BM_SpacerScariaImmunizerSupportModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerScariaImmunizerSupportModule_RemoveFromReplacement.label>remove scaria immunizer module</BM_SpacerScariaImmunizerSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerScariaImmunizerSupportModule_RemoveFromReplacement.description>Remove scaria immunizer module.</BM_SpacerScariaImmunizerSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerScariaImmunizerSupportModule_RemoveFromReplacement.jobString>Removing scaria immunizer module.</BM_SpacerScariaImmunizerSupportModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerScariaImmunizerSupportModule_RemoveFromNatural.label>remove scaria immunizer module</BM_SpacerScariaImmunizerSupportModule_RemoveFromNatural.label>
+  <BM_SpacerScariaImmunizerSupportModule_RemoveFromNatural.description>Remove scaria immunizer module.</BM_SpacerScariaImmunizerSupportModule_RemoveFromNatural.description>
+  <BM_SpacerScariaImmunizerSupportModule_RemoveFromNatural.jobString>Removing scaria immunizer module.</BM_SpacerScariaImmunizerSupportModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerPlagueImmunizerSupportModule_InstallAnimal.label>install plague immunizer module</BM_SpacerPlagueImmunizerSupportModule_InstallAnimal.label>
+  <BM_SpacerPlagueImmunizerSupportModule_InstallAnimal.description>Install a plague immunizer module into the body part's support module slot.</BM_SpacerPlagueImmunizerSupportModule_InstallAnimal.description>
+  <BM_SpacerPlagueImmunizerSupportModule_InstallAnimal.jobString>Installing plague immunizer module.</BM_SpacerPlagueImmunizerSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerPlagueImmunizerSupportModule_InstallHuman.label>install plague immunizer module</BM_SpacerPlagueImmunizerSupportModule_InstallHuman.label>
+  <BM_SpacerPlagueImmunizerSupportModule_InstallHuman.description>Install a plague immunizer module into the body part's support module slot.</BM_SpacerPlagueImmunizerSupportModule_InstallHuman.description>
+  <BM_SpacerPlagueImmunizerSupportModule_InstallHuman.jobString>Installing plague immunizer module.</BM_SpacerPlagueImmunizerSupportModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerPlagueImmunizerSupportModule_InstallHuman_Implant.label>install plague immunizer module</BM_SpacerPlagueImmunizerSupportModule_InstallHuman_Implant.label>
+  <BM_SpacerPlagueImmunizerSupportModule_InstallHuman_Implant.description>Install a plague immunizer module into the body part's support module slot.</BM_SpacerPlagueImmunizerSupportModule_InstallHuman_Implant.description>
+  <BM_SpacerPlagueImmunizerSupportModule_InstallHuman_Implant.jobString>Installing plague immunizer module.</BM_SpacerPlagueImmunizerSupportModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerPlagueImmunizerSupportModule_InstallAnimal_Implant.label>install plague immunizer module.</BM_SpacerPlagueImmunizerSupportModule_InstallAnimal_Implant.label>
+  <BM_SpacerPlagueImmunizerSupportModule_InstallAnimal_Implant.description>Install a plague immunizer module into the body part's support module slot.</BM_SpacerPlagueImmunizerSupportModule_InstallAnimal_Implant.description>
+  <BM_SpacerPlagueImmunizerSupportModule_InstallAnimal_Implant.jobString>Installing plague immunizer module.</BM_SpacerPlagueImmunizerSupportModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerPlagueImmunizerSupportModule_RemoveFromReplacement.label>remove plague immunizer module</BM_SpacerPlagueImmunizerSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerPlagueImmunizerSupportModule_RemoveFromReplacement.description>Remove plague immunizer module.</BM_SpacerPlagueImmunizerSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerPlagueImmunizerSupportModule_RemoveFromReplacement.jobString>Removing plague immunizer module.</BM_SpacerPlagueImmunizerSupportModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerPlagueImmunizerSupportModule_RemoveFromNatural.label>remove plague immunizer module</BM_SpacerPlagueImmunizerSupportModule_RemoveFromNatural.label>
+  <BM_SpacerPlagueImmunizerSupportModule_RemoveFromNatural.description>Remove plague immunizer module.</BM_SpacerPlagueImmunizerSupportModule_RemoveFromNatural.description>
+  <BM_SpacerPlagueImmunizerSupportModule_RemoveFromNatural.jobString>Removing plague immunizer module.</BM_SpacerPlagueImmunizerSupportModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerMalariaImmunizerSupportModule_InstallAnimal.label>install malaria immunizer module</BM_SpacerMalariaImmunizerSupportModule_InstallAnimal.label>
+  <BM_SpacerMalariaImmunizerSupportModule_InstallAnimal.description>Install a malaria immunizer module into the body part's support module slot.</BM_SpacerMalariaImmunizerSupportModule_InstallAnimal.description>
+  <BM_SpacerMalariaImmunizerSupportModule_InstallAnimal.jobString>Installing malaria immunizer module.</BM_SpacerMalariaImmunizerSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerMalariaImmunizerSupportModule_InstallHuman.label>install malaria immunizer module</BM_SpacerMalariaImmunizerSupportModule_InstallHuman.label>
+  <BM_SpacerMalariaImmunizerSupportModule_InstallHuman.description>Install a malaria immunizer module into the body part's support module slot.</BM_SpacerMalariaImmunizerSupportModule_InstallHuman.description>
+  <BM_SpacerMalariaImmunizerSupportModule_InstallHuman.jobString>Installing malaria immunizer module.</BM_SpacerMalariaImmunizerSupportModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerMalariaImmunizerSupportModule_InstallHuman_Implant.label>install malaria immunizer module</BM_SpacerMalariaImmunizerSupportModule_InstallHuman_Implant.label>
+  <BM_SpacerMalariaImmunizerSupportModule_InstallHuman_Implant.description>Install a malaria immunizer module into the body part's support module slot.</BM_SpacerMalariaImmunizerSupportModule_InstallHuman_Implant.description>
+  <BM_SpacerMalariaImmunizerSupportModule_InstallHuman_Implant.jobString>Installing malaria immunizer module.</BM_SpacerMalariaImmunizerSupportModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerMalariaImmunizerSupportModule_InstallAnimal_Implant.label>install malaria immunizer module.</BM_SpacerMalariaImmunizerSupportModule_InstallAnimal_Implant.label>
+  <BM_SpacerMalariaImmunizerSupportModule_InstallAnimal_Implant.description>Install a malaria immunizer module into the body part's support module slot.</BM_SpacerMalariaImmunizerSupportModule_InstallAnimal_Implant.description>
+  <BM_SpacerMalariaImmunizerSupportModule_InstallAnimal_Implant.jobString>Installing malaria immunizer module.</BM_SpacerMalariaImmunizerSupportModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerMalariaImmunizerSupportModule_RemoveFromReplacement.label>remove malaria immunizer module</BM_SpacerMalariaImmunizerSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerMalariaImmunizerSupportModule_RemoveFromReplacement.description>Remove malaria immunizer module.</BM_SpacerMalariaImmunizerSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerMalariaImmunizerSupportModule_RemoveFromReplacement.jobString>Removing malaria immunizer module.</BM_SpacerMalariaImmunizerSupportModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerMalariaImmunizerSupportModule_RemoveFromNatural.label>remove malaria immunizer module</BM_SpacerMalariaImmunizerSupportModule_RemoveFromNatural.label>
+  <BM_SpacerMalariaImmunizerSupportModule_RemoveFromNatural.description>Remove malaria immunizer module.</BM_SpacerMalariaImmunizerSupportModule_RemoveFromNatural.description>
+  <BM_SpacerMalariaImmunizerSupportModule_RemoveFromNatural.jobString>Removing malaria immunizer module.</BM_SpacerMalariaImmunizerSupportModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal.label>install sleeping sickness immunizer module</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal.label>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal.description>Install a sleeping sickness immunizer module into the body part's support module slot.</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal.description>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal.jobString>Installing sleeping sickness immunizer module.</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman.label>install sleeping sickness immunizer module</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman.label>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman.description>Install a sleeping sickness immunizer module into the body part's support module slot.</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman.description>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman.jobString>Installing sleeping sickness immunizer module.</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman_Implant.label>install sleeping sickness immunizer module</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman_Implant.label>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman_Implant.description>Install a sleeping sickness immunizer module into the body part's support module slot.</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman_Implant.description>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman_Implant.jobString>Installing sleeping sickness immunizer module.</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal_Implant.label>install sleeping sickness immunizer module.</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal_Implant.label>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal_Implant.description>Install a sleeping sickness immunizer module into the body part's support module slot.</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal_Implant.description>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal_Implant.jobString>Installing sleeping sickness immunizer module.</BM_SpacerSleepingSicknessImmunizerSupportModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromReplacement.label>remove sleeping sickness immunizer module</BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromReplacement.description>Remove sleeping sickness immunizer module.</BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromReplacement.jobString>Removing sleeping sickness immunizer module.</BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromNatural.label>remove sleeping sickness immunizer module</BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromNatural.label>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromNatural.description>Remove sleeping sickness immunizer module.</BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromNatural.description>
+  <BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromNatural.jobString>Removing sleeping sickness immunizer module.</BM_SpacerSleepingSicknessImmunizerSupportModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal.label>install gut worms immunizer module</BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal.label>
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal.description>Install a gut worms immunizer module into the body part's support module slot.</BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal.description>
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal.jobString>Installing gut worms immunizer module.</BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallHuman.label>install gut worms immunizer module</BM_SpacerGutWormsImmunizerSupportModule_InstallHuman.label>
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallHuman.description>Install a gut worms immunizer module into the body part's support module slot.</BM_SpacerGutWormsImmunizerSupportModule_InstallHuman.description>
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallHuman.jobString>Installing gut worms immunizer module.</BM_SpacerGutWormsImmunizerSupportModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallHuman_Implant.label>install gut worms immunizer module</BM_SpacerGutWormsImmunizerSupportModule_InstallHuman_Implant.label>
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallHuman_Implant.description>Install a gut worms immunizer module into the body part's support module slot.</BM_SpacerGutWormsImmunizerSupportModule_InstallHuman_Implant.description>
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallHuman_Implant.jobString>Installing gut worms immunizer module.</BM_SpacerGutWormsImmunizerSupportModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal_Implant.label>install gut worms immunizer module.</BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal_Implant.label>
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal_Implant.description>Install a gut worms immunizer module into the body part's support module slot.</BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal_Implant.description>
+  <BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal_Implant.jobString>Installing gut worms immunizer module.</BM_SpacerGutWormsImmunizerSupportModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerGutWormsImmunizerSupportModule_RemoveFromReplacement.label>remove gut worms immunizer module</BM_SpacerGutWormsImmunizerSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerGutWormsImmunizerSupportModule_RemoveFromReplacement.description>Remove gut worms immunizer module.</BM_SpacerGutWormsImmunizerSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerGutWormsImmunizerSupportModule_RemoveFromReplacement.jobString>Removing gut worms immunizer module.</BM_SpacerGutWormsImmunizerSupportModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerGutWormsImmunizerSupportModule_RemoveFromNatural.label>remove gut worms immunizer module</BM_SpacerGutWormsImmunizerSupportModule_RemoveFromNatural.label>
+  <BM_SpacerGutWormsImmunizerSupportModule_RemoveFromNatural.description>Remove gut worms immunizer module.</BM_SpacerGutWormsImmunizerSupportModule_RemoveFromNatural.description>
+  <BM_SpacerGutWormsImmunizerSupportModule_RemoveFromNatural.jobString>Removing gut worms immunizer module.</BM_SpacerGutWormsImmunizerSupportModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal.label>install muscle parasites immunizer module</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal.label>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal.description>Install a muscle parasites immunizer module into the body part's support module slot.</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal.description>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal.jobString>Installing muscle parasites immunizer module.</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman.label>install muscle parasites immunizer module</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman.label>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman.description>Install a muscle parasites immunizer module into the body part's support module slot.</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman.description>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman.jobString>Installing muscle parasites immunizer module.</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman_Implant.label>install muscle parasites immunizer module</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman_Implant.label>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman_Implant.description>Install a muscle parasites immunizer module into the body part's support module slot.</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman_Implant.description>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman_Implant.jobString>Installing muscle parasites immunizer module.</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal_Implant.label>install muscle parasites immunizer module.</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal_Implant.label>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal_Implant.description>Install a muscle parasites immunizer module into the body part's support module slot.</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal_Implant.description>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal_Implant.jobString>Installing muscle parasites immunizer module.</BM_SpacerMuscleParasitesImmunizerSupportModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromReplacement.label>remove muscle parasites immunizer module</BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromReplacement.description>Remove muscle parasites immunizer module.</BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromReplacement.jobString>Removing muscle parasites immunizer module.</BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromNatural.label>remove muscle parasites immunizer module</BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromNatural.label>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromNatural.description>Remove muscle parasites immunizer module.</BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromNatural.description>
+  <BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromNatural.jobString>Removing muscle parasites immunizer module.</BM_SpacerMuscleParasitesImmunizerSupportModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerFluImmunizerSupportModule_InstallAnimal.label>install flu immunizer module</BM_SpacerFluImmunizerSupportModule_InstallAnimal.label>
+  <BM_SpacerFluImmunizerSupportModule_InstallAnimal.description>Install a flu immunizer module into the body part's support module slot.</BM_SpacerFluImmunizerSupportModule_InstallAnimal.description>
+  <BM_SpacerFluImmunizerSupportModule_InstallAnimal.jobString>Installing flu immunizer module.</BM_SpacerFluImmunizerSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerFluImmunizerSupportModule_InstallHuman.label>install flu immunizer module</BM_SpacerFluImmunizerSupportModule_InstallHuman.label>
+  <BM_SpacerFluImmunizerSupportModule_InstallHuman.description>Install a flu immunizer module into the body part's support module slot.</BM_SpacerFluImmunizerSupportModule_InstallHuman.description>
+  <BM_SpacerFluImmunizerSupportModule_InstallHuman.jobString>Installing flu immunizer module.</BM_SpacerFluImmunizerSupportModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerFluImmunizerSupportModule_InstallHuman_Implant.label>install flu immunizer module</BM_SpacerFluImmunizerSupportModule_InstallHuman_Implant.label>
+  <BM_SpacerFluImmunizerSupportModule_InstallHuman_Implant.description>Install a flu immunizer module into the body part's support module slot.</BM_SpacerFluImmunizerSupportModule_InstallHuman_Implant.description>
+  <BM_SpacerFluImmunizerSupportModule_InstallHuman_Implant.jobString>Installing flu immunizer module.</BM_SpacerFluImmunizerSupportModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerFluImmunizerSupportModule_InstallAnimal_Implant.label>install flu immunizer module.</BM_SpacerFluImmunizerSupportModule_InstallAnimal_Implant.label>
+  <BM_SpacerFluImmunizerSupportModule_InstallAnimal_Implant.description>Install a flu immunizer module into the body part's support module slot.</BM_SpacerFluImmunizerSupportModule_InstallAnimal_Implant.description>
+  <BM_SpacerFluImmunizerSupportModule_InstallAnimal_Implant.jobString>Installing flu immunizer module.</BM_SpacerFluImmunizerSupportModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerFluImmunizerSupportModule_RemoveFromReplacement.label>remove flu immunizer module</BM_SpacerFluImmunizerSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerFluImmunizerSupportModule_RemoveFromReplacement.description>Remove flu immunizer module.</BM_SpacerFluImmunizerSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerFluImmunizerSupportModule_RemoveFromReplacement.jobString>Removing flu immunizer module.</BM_SpacerFluImmunizerSupportModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerFluImmunizerSupportModule_RemoveFromNatural.label>remove flu immunizer module</BM_SpacerFluImmunizerSupportModule_RemoveFromNatural.label>
+  <BM_SpacerFluImmunizerSupportModule_RemoveFromNatural.description>Remove flu immunizer module.</BM_SpacerFluImmunizerSupportModule_RemoveFromNatural.description>
+  <BM_SpacerFluImmunizerSupportModule_RemoveFromNatural.jobString>Removing flu immunizer module.</BM_SpacerFluImmunizerSupportModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerLungRotImmunizerSupportModule_InstallAnimal.label>install lung rot immunizer module</BM_SpacerLungRotImmunizerSupportModule_InstallAnimal.label>
+  <BM_SpacerLungRotImmunizerSupportModule_InstallAnimal.description>Install a lung rot immunizer module into the body part's support module slot.</BM_SpacerLungRotImmunizerSupportModule_InstallAnimal.description>
+  <BM_SpacerLungRotImmunizerSupportModule_InstallAnimal.jobString>Installing lung rot immunizer module.</BM_SpacerLungRotImmunizerSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerLungRotImmunizerSupportModule_InstallHuman.label>install lung rot immunizer module</BM_SpacerLungRotImmunizerSupportModule_InstallHuman.label>
+  <BM_SpacerLungRotImmunizerSupportModule_InstallHuman.description>Install a lung rot immunizer module into the body part's support module slot.</BM_SpacerLungRotImmunizerSupportModule_InstallHuman.description>
+  <BM_SpacerLungRotImmunizerSupportModule_InstallHuman.jobString>Installing lung rot immunizer module.</BM_SpacerLungRotImmunizerSupportModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerLungRotImmunizerSupportModule_InstallHuman_Implant.label>install lung rot immunizer module</BM_SpacerLungRotImmunizerSupportModule_InstallHuman_Implant.label>
+  <BM_SpacerLungRotImmunizerSupportModule_InstallHuman_Implant.description>Install a lung rot immunizer module into the body part's support module slot.</BM_SpacerLungRotImmunizerSupportModule_InstallHuman_Implant.description>
+  <BM_SpacerLungRotImmunizerSupportModule_InstallHuman_Implant.jobString>Installing lung rot immunizer module.</BM_SpacerLungRotImmunizerSupportModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerLungRotImmunizerSupportModule_InstallAnimal_Implant.label>install lung rot immunizer module.</BM_SpacerLungRotImmunizerSupportModule_InstallAnimal_Implant.label>
+  <BM_SpacerLungRotImmunizerSupportModule_InstallAnimal_Implant.description>Install a lung rot immunizer module into the body part's support module slot.</BM_SpacerLungRotImmunizerSupportModule_InstallAnimal_Implant.description>
+  <BM_SpacerLungRotImmunizerSupportModule_InstallAnimal_Implant.jobString>Installing lung rot immunizer module.</BM_SpacerLungRotImmunizerSupportModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerLungRotImmunizerSupportModule_RemoveFromReplacement.label>remove lung rot immunizer module</BM_SpacerLungRotImmunizerSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerLungRotImmunizerSupportModule_RemoveFromReplacement.description>Remove lung rot immunizer module.</BM_SpacerLungRotImmunizerSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerLungRotImmunizerSupportModule_RemoveFromReplacement.jobString>Removing lung rot immunizer module.</BM_SpacerLungRotImmunizerSupportModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerLungRotImmunizerSupportModule_RemoveFromNatural.label>remove lung rot immunizer module</BM_SpacerLungRotImmunizerSupportModule_RemoveFromNatural.label>
+  <BM_SpacerLungRotImmunizerSupportModule_RemoveFromNatural.description>Remove lung rot immunizer module.</BM_SpacerLungRotImmunizerSupportModule_RemoveFromNatural.description>
+  <BM_SpacerLungRotImmunizerSupportModule_RemoveFromNatural.jobString>Removing lung rot immunizer module.</BM_SpacerLungRotImmunizerSupportModule_RemoveFromNatural.jobString>
+
+
+</LanguageData>

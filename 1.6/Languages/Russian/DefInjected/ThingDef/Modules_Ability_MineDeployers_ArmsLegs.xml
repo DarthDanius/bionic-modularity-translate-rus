@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- explosive trap deployer -->
+
+  <BM_SpacerExplosiveTrapDeployerAbilityModule.label>explosive trap deployer module</BM_SpacerExplosiveTrapDeployerAbilityModule.label>
+  <BM_SpacerExplosiveTrapDeployerAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular module comes with a compact storage and launch system for deploying explosive IED traps from a distance. The implant needs to be loaded with high-explosive shells in order to function.</BM_SpacerExplosiveTrapDeployerAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerExplosiveTrapDeployerAbilityModule_Projectile.label>explosive trap capsule</BM_SpacerExplosiveTrapDeployerAbilityModule_Projectile.label>
+
+
+  <!-- antigrain trap deployer -->
+
+  <BM_SpacerAntigrainTrapDeployerAbilityModule.label>antigrain trap deployer module</BM_SpacerAntigrainTrapDeployerAbilityModule.label>
+  <BM_SpacerAntigrainTrapDeployerAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular module comes with a compact storage and launch system for deploying antigrain warhead IED traps from a distance. The implant needs to be loaded with an antigrain warhead in order to function.</BM_SpacerAntigrainTrapDeployerAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerAntigrainTrapDeployerAbilityModule_Projectile.label>antigrain warhead trap capsule</BM_SpacerAntigrainTrapDeployerAbilityModule_Projectile.label>
+
+
+  <!-- firefoam trap deployer -->
+
+  <BM_SpacerFirefoamTrapDeployerAbilityModule.label>firefoam trap deployer module</BM_SpacerFirefoamTrapDeployerAbilityModule.label>
+  <BM_SpacerFirefoamTrapDeployerAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular module comes with a compact storage and launch system for deploying firefoam IED traps from a distance. The implant needs to be loaded with firefoam shells in order to function.</BM_SpacerFirefoamTrapDeployerAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerFirefoamTrapDeployerAbilityModule_Projectile.label>firefoam trap capsule</BM_SpacerFirefoamTrapDeployerAbilityModule_Projectile.label>
+
+
+  <!-- smoke trap deployer -->
+
+  <BM_SpacerSmokeTrapDeployerAbilityModule.label>smoke trap deployer module</BM_SpacerSmokeTrapDeployerAbilityModule.label>
+  <BM_SpacerSmokeTrapDeployerAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular module comes with a compact storage and launch system for deploying smoke IED traps from a distance. The implant needs to be loaded with smoke shells in order to function.</BM_SpacerSmokeTrapDeployerAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerSmokeTrapDeployerAbilityModule_Projectile.label>smoke trap capsule</BM_SpacerSmokeTrapDeployerAbilityModule_Projectile.label>
+
+
+  <!-- EMP trap deployer -->
+
+  <BM_SpacerEMPTrapDeployerAbilityModule.label>EMP trap deployer module</BM_SpacerEMPTrapDeployerAbilityModule.label>
+  <BM_SpacerEMPTrapDeployerAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular module comes with a compact storage and launch system for deploying EMP IED traps from a distance. The implant needs to be loaded with EMP shells in order to function.</BM_SpacerEMPTrapDeployerAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerEMPTrapDeployerAbilityModule_Projectile.label>EMP trap capsule</BM_SpacerEMPTrapDeployerAbilityModule_Projectile.label>
+
+
+  <!-- incendiary trap deployer -->
+
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule.label>incendiary trap deployer module</BM_SpacerIncendiaryTrapDeployerAbilityModule.label>
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm or leg replacement. This particular module comes with a compact storage and launch system for deploying incendiary IED traps from a distance. The implant needs to be loaded with incendiary shells in order to function.</BM_SpacerIncendiaryTrapDeployerAbilityModule.description>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerIncendiaryTrapDeployerAbilityModule_Projectile.label>incendiary trap capsule</BM_SpacerIncendiaryTrapDeployerAbilityModule_Projectile.label>
+
+
+</LanguageData>

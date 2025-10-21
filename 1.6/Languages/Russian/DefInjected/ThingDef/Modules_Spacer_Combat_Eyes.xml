@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- brawler lens -->
+
+  <BM_SpacerBrawlerCombatModule.label>brawler lens combat module</BM_SpacerBrawlerCombatModule.label>
+  <BM_SpacerBrawlerCombatModule.description>A high-tech device that can be installed into an eye or any compatible artificial eye replacement. This particular model is able to quickly analyze the user's surroundings and forward the data in a form of a simple interface. Its weak point detection, threat warning and impact point prediction features make it especially useful for those that specialize in melee combat.</BM_SpacerBrawlerCombatModule.description>
+
+
+  <!-- ranger lens -->
+
+  <BM_SpacerRangerCombatModule.label>ranger lens combat module</BM_SpacerRangerCombatModule.label>
+  <BM_SpacerRangerCombatModule.description>A high-tech device that can be installed into an eye or any compatible artificial eye replacement. This particular model is able to quickly analyze the user's surroundings and forward the data in a form of a simple interface. Its aim assist, projectile trajectory prediction and advanced zoom features make it especially useful for those that specialize in ranged combat.</BM_SpacerRangerCombatModule.description>
+
+
+</LanguageData>

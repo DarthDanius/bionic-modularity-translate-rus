@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- minigun -->
+
+  <BM_SpacerMinigunCombatModule.label>minigun module</BM_SpacerMinigunCombatModule.label>
+  <BM_SpacerMinigunCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified minigun that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerMinigunCombatModule.description>
+
+
+  <!-- chain shotgun -->
+
+  <BM_SpacerChainShotgunCombatModule.label>chain shotgun module</BM_SpacerChainShotgunCombatModule.label>
+  <BM_SpacerChainShotgunCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified chain shotgun that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerChainShotgunCombatModule.description>
+
+
+  <!-- LMG -->
+
+  <BM_SpacerLMGCombatModule.label>LMG module</BM_SpacerLMGCombatModule.label>
+  <BM_SpacerLMGCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified LMG that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerLMGCombatModule.description>
+
+
+  <!-- sniper rifle -->
+
+  <BM_SpacerSniperRifleCombatModule.label>sniper rifle module</BM_SpacerSniperRifleCombatModule.label>
+  <BM_SpacerSniperRifleCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified sniper rifle that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerSniperRifleCombatModule.description>
+
+
+  <!-- pump shotgun -->
+
+  <BM_SpacerPumpShotgunCombatModule.label>pump shotgun module</BM_SpacerPumpShotgunCombatModule.label>
+  <BM_SpacerPumpShotgunCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified pump shotgun that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerPumpShotgunCombatModule.description>
+
+
+  <!-- heavy SMG -->
+
+  <BM_SpacerHeavySMGCombatModule.label>heavy SMG module</BM_SpacerHeavySMGCombatModule.label>
+  <BM_SpacerHeavySMGCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified heavy SMG that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerHeavySMGCombatModule.description>
+
+
+  <!-- assault rifle -->
+
+  <BM_SpacerAssaultRifleCombatModule.label>assault rifle module</BM_SpacerAssaultRifleCombatModule.label>
+  <BM_SpacerAssaultRifleCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified assault rifle that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerAssaultRifleCombatModule.description>
+
+
+  <!-- EMP launcher -->
+
+  <BM_SpacerEMPLauncherCombatModule.label>EMP launcher module</BM_SpacerEMPLauncherCombatModule.label>
+  <BM_SpacerEMPLauncherCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified EMP launcher that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerEMPLauncherCombatModule.description>
+
+
+  <!-- incendiary launcher -->
+
+  <BM_SpacerIncendiaryLauncherCombatModule.label>incendiary launcher module</BM_SpacerIncendiaryLauncherCombatModule.label>
+  <BM_SpacerIncendiaryLauncherCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified incendiary launcher that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerIncendiaryLauncherCombatModule.description>
+
+
+  <!-- smoke launcher -->
+
+  <BM_SpacerSmokeLauncherCombatModule.label>smoke launcher module</BM_SpacerSmokeLauncherCombatModule.label>
+  <BM_SpacerSmokeLauncherCombatModule.description>A high-tech combat-oriented device that can be installed into any compatible artificial arm replacement. This particular model includes a modified smoke launcher that can be fully retracted outside of combat, allowing the wielder to carry it around comfortably with no interference during daily tasks.</BM_SpacerSmokeLauncherCombatModule.description>
+
+
+</LanguageData>

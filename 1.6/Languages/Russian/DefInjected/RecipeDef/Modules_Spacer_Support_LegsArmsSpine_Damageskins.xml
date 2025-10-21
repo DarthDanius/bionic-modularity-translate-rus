@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerPyroweaveSupportModule_InstallAnimal.label>install pyroweave module</BM_SpacerPyroweaveSupportModule_InstallAnimal.label>
+  <BM_SpacerPyroweaveSupportModule_InstallAnimal.description>Install a pyroweave module into the body part's support module slot.</BM_SpacerPyroweaveSupportModule_InstallAnimal.description>
+  <BM_SpacerPyroweaveSupportModule_InstallAnimal.jobString>Installing pyroweave module.</BM_SpacerPyroweaveSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerPyroweaveSupportModule_InstallHuman.label>install pyroweave module</BM_SpacerPyroweaveSupportModule_InstallHuman.label>
+  <BM_SpacerPyroweaveSupportModule_InstallHuman.description>Install a pyroweave module into the body part's support module slot.</BM_SpacerPyroweaveSupportModule_InstallHuman.description>
+  <BM_SpacerPyroweaveSupportModule_InstallHuman.jobString>Installing pyroweave module.</BM_SpacerPyroweaveSupportModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerPyroweaveSupportModule_RemoveFromReplacement.label>remove pyroweave module</BM_SpacerPyroweaveSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerPyroweaveSupportModule_RemoveFromReplacement.description>Remove pyroweave module.</BM_SpacerPyroweaveSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerPyroweaveSupportModule_RemoveFromReplacement.jobString>Removing pyroweave module.</BM_SpacerPyroweaveSupportModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerMagweaveSupportModule_InstallAnimal.label>install magweave module</BM_SpacerMagweaveSupportModule_InstallAnimal.label>
+  <BM_SpacerMagweaveSupportModule_InstallAnimal.description>Install a magweave module into the body part's support module slot.</BM_SpacerMagweaveSupportModule_InstallAnimal.description>
+  <BM_SpacerMagweaveSupportModule_InstallAnimal.jobString>Installing magweave module.</BM_SpacerMagweaveSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerMagweaveSupportModule_InstallHuman.label>install magweave module</BM_SpacerMagweaveSupportModule_InstallHuman.label>
+  <BM_SpacerMagweaveSupportModule_InstallHuman.description>Install a magweave module into the body part's support module slot.</BM_SpacerMagweaveSupportModule_InstallHuman.description>
+  <BM_SpacerMagweaveSupportModule_InstallHuman.jobString>Installing magweave module.</BM_SpacerMagweaveSupportModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerMagweaveSupportModule_RemoveFromReplacement.label>remove magweave module</BM_SpacerMagweaveSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerMagweaveSupportModule_RemoveFromReplacement.description>Remove magweave module.</BM_SpacerMagweaveSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerMagweaveSupportModule_RemoveFromReplacement.jobString>Removing magweave module.</BM_SpacerMagweaveSupportModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerCryoweaveSupportModule_InstallAnimal.label>install cryoweave module</BM_SpacerCryoweaveSupportModule_InstallAnimal.label>
+  <BM_SpacerCryoweaveSupportModule_InstallAnimal.description>Install a cryoweave module into the body part's support module slot.</BM_SpacerCryoweaveSupportModule_InstallAnimal.description>
+  <BM_SpacerCryoweaveSupportModule_InstallAnimal.jobString>Installing cryoweave module.</BM_SpacerCryoweaveSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerCryoweaveSupportModule_InstallHuman.label>install cryoweave module</BM_SpacerCryoweaveSupportModule_InstallHuman.label>
+  <BM_SpacerCryoweaveSupportModule_InstallHuman.description>Install a cryoweave module into the body part's support module slot.</BM_SpacerCryoweaveSupportModule_InstallHuman.description>
+  <BM_SpacerCryoweaveSupportModule_InstallHuman.jobString>Installing cryoweave module.</BM_SpacerCryoweaveSupportModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerCryoweaveSupportModule_RemoveFromReplacement.label>remove cryoweave module</BM_SpacerCryoweaveSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerCryoweaveSupportModule_RemoveFromReplacement.description>Remove cryoweave module.</BM_SpacerCryoweaveSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerCryoweaveSupportModule_RemoveFromReplacement.jobString>Removing cryoweave module.</BM_SpacerCryoweaveSupportModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerToxweaveSupportModule_InstallAnimal.label>install toxweave module</BM_SpacerToxweaveSupportModule_InstallAnimal.label>
+  <BM_SpacerToxweaveSupportModule_InstallAnimal.description>Install a toxweave module into the body part's support module slot.</BM_SpacerToxweaveSupportModule_InstallAnimal.description>
+  <BM_SpacerToxweaveSupportModule_InstallAnimal.jobString>Installing toxweave module.</BM_SpacerToxweaveSupportModule_InstallAnimal.jobString>
+
+  <BM_SpacerToxweaveSupportModule_InstallHuman.label>install toxweave module</BM_SpacerToxweaveSupportModule_InstallHuman.label>
+  <BM_SpacerToxweaveSupportModule_InstallHuman.description>Install a toxweave module into the body part's support module slot.</BM_SpacerToxweaveSupportModule_InstallHuman.description>
+  <BM_SpacerToxweaveSupportModule_InstallHuman.jobString>Installing toxweave module.</BM_SpacerToxweaveSupportModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerToxweaveSupportModule_RemoveFromReplacement.label>remove toxweave module</BM_SpacerToxweaveSupportModule_RemoveFromReplacement.label>
+  <BM_SpacerToxweaveSupportModule_RemoveFromReplacement.description>Remove toxweave module.</BM_SpacerToxweaveSupportModule_RemoveFromReplacement.description>
+  <BM_SpacerToxweaveSupportModule_RemoveFromReplacement.jobString>Removing toxweave module.</BM_SpacerToxweaveSupportModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

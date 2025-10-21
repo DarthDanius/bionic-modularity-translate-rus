@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Implant production [Biotech required] -->
+
+  <BM_SpacerConstructorSubpersonaChip_Produce.label>make constructor subpersona</BM_SpacerConstructorSubpersonaChip_Produce.label>
+  <BM_SpacerConstructorSubpersonaChip_Produce.description>Make a constructor subpersona.</BM_SpacerConstructorSubpersonaChip_Produce.description>
+  <BM_SpacerConstructorSubpersonaChip_Produce.jobString>Making constructor subpersona.</BM_SpacerConstructorSubpersonaChip_Produce.jobString>
+
+
+  <!-- Implant Installation -->
+
+  <Install_BM_SpacerConstructorSubpersonaChip.label>install constructor subpersona</Install_BM_SpacerConstructorSubpersonaChip.label>
+  <Install_BM_SpacerConstructorSubpersonaChip.description>Install constructor subpersona.</Install_BM_SpacerConstructorSubpersonaChip.description>
+  <Install_BM_SpacerConstructorSubpersonaChip.jobString>Installing constructor subpersona.</Install_BM_SpacerConstructorSubpersonaChip.jobString>
+
+  <Remove_BM_SpacerConstructorSubpersonaChip.label>remove constructor subpersona</Remove_BM_SpacerConstructorSubpersonaChip.label>
+  <Remove_BM_SpacerConstructorSubpersonaChip.description>Remove constructor subpersona.</Remove_BM_SpacerConstructorSubpersonaChip.description>
+  <Remove_BM_SpacerConstructorSubpersonaChip.jobString>Removing constructor subpersona.</Remove_BM_SpacerConstructorSubpersonaChip.jobString>
+
+
+</LanguageData>

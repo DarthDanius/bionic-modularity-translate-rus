@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerGastrosterilizerUtilityModule_InstallAnimal.label>install gastrosterilizer module</BM_SpacerGastrosterilizerUtilityModule_InstallAnimal.label>
+  <BM_SpacerGastrosterilizerUtilityModule_InstallAnimal.description>Install a gastrosterilizer module into the body part's utility module slot.</BM_SpacerGastrosterilizerUtilityModule_InstallAnimal.description>
+  <BM_SpacerGastrosterilizerUtilityModule_InstallAnimal.jobString>Installing gastrosterilizer module.</BM_SpacerGastrosterilizerUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerGastrosterilizerUtilityModule_InstallHuman.label>install gastrosterilizer module</BM_SpacerGastrosterilizerUtilityModule_InstallHuman.label>
+  <BM_SpacerGastrosterilizerUtilityModule_InstallHuman.description>Install a gastrosterilizer module into the body part's utility module slot.</BM_SpacerGastrosterilizerUtilityModule_InstallHuman.description>
+  <BM_SpacerGastrosterilizerUtilityModule_InstallHuman.jobString>Installing gastrosterilizer module.</BM_SpacerGastrosterilizerUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerGastrosterilizerUtilityModule_InstallHuman_Implant.label>install gastrosterilizer module.</BM_SpacerGastrosterilizerUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerGastrosterilizerUtilityModule_InstallHuman_Implant.description>Install a gastrosterilizer module into the body part's utility module slot.</BM_SpacerGastrosterilizerUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerGastrosterilizerUtilityModule_InstallHuman_Implant.jobString>Installing gastrosterilizer module.</BM_SpacerGastrosterilizerUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerGastrosterilizerUtilityModule_InstallAnimal_Implant.label>install gastrosterilizer module.</BM_SpacerGastrosterilizerUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerGastrosterilizerUtilityModule_InstallAnimal_Implant.description>Install a gastrosterilizer module into the body part's utility module slot.</BM_SpacerGastrosterilizerUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerGastrosterilizerUtilityModule_InstallAnimal_Implant.jobString>Installing gastrosterilizer module.</BM_SpacerGastrosterilizerUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerGastrosterilizerUtilityModule_RemoveFromReplacement.label>remove gastrosterilizer module</BM_SpacerGastrosterilizerUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerGastrosterilizerUtilityModule_RemoveFromReplacement.description>Remove gastrosterilizer module.</BM_SpacerGastrosterilizerUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerGastrosterilizerUtilityModule_RemoveFromReplacement.jobString>Removing gastrosterilizer module.</BM_SpacerGastrosterilizerUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerGastrosterilizerUtilityModule_RemoveFromNatural.label>remove gastrosterilizer module</BM_SpacerGastrosterilizerUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerGastrosterilizerUtilityModule_RemoveFromNatural.description>Remove gastrosterilizer module.</BM_SpacerGastrosterilizerUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerGastrosterilizerUtilityModule_RemoveFromNatural.jobString>Removing gastrosterilizer module.</BM_SpacerGastrosterilizerUtilityModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerReprocessorUtilityModule_InstallAnimal.label>install reprocessor module</BM_SpacerReprocessorUtilityModule_InstallAnimal.label>
+  <BM_SpacerReprocessorUtilityModule_InstallAnimal.description>Install a reprocessor module into the body part's utility module slot.</BM_SpacerReprocessorUtilityModule_InstallAnimal.description>
+  <BM_SpacerReprocessorUtilityModule_InstallAnimal.jobString>Installing reprocessor module.</BM_SpacerReprocessorUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerReprocessorUtilityModule_InstallHuman.label>install reprocessor module</BM_SpacerReprocessorUtilityModule_InstallHuman.label>
+  <BM_SpacerReprocessorUtilityModule_InstallHuman.description>Install a reprocessor module into the body part's utility module slot.</BM_SpacerReprocessorUtilityModule_InstallHuman.description>
+  <BM_SpacerReprocessorUtilityModule_InstallHuman.jobString>Installing reprocessor module.</BM_SpacerReprocessorUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerReprocessorUtilityModule_InstallHuman_Implant.label>install reprocessor module.</BM_SpacerReprocessorUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerReprocessorUtilityModule_InstallHuman_Implant.description>Install a reprocessor module into the body part's utility module slot.</BM_SpacerReprocessorUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerReprocessorUtilityModule_InstallHuman_Implant.jobString>Installing reprocessor module.</BM_SpacerReprocessorUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerReprocessorUtilityModule_InstallAnimal_Implant.label>install reprocessor module.</BM_SpacerReprocessorUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerReprocessorUtilityModule_InstallAnimal_Implant.description>Install a reprocessor module into the body part's utility module slot.</BM_SpacerReprocessorUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerReprocessorUtilityModule_InstallAnimal_Implant.jobString>Installing reprocessor module.</BM_SpacerReprocessorUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerReprocessorUtilityModule_RemoveFromReplacement.label>remove reprocessor module</BM_SpacerReprocessorUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerReprocessorUtilityModule_RemoveFromReplacement.description>Remove reprocessor module.</BM_SpacerReprocessorUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerReprocessorUtilityModule_RemoveFromReplacement.jobString>Removing reprocessor module.</BM_SpacerReprocessorUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerReprocessorUtilityModule_RemoveFromNatural.label>remove reprocessor module</BM_SpacerReprocessorUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerReprocessorUtilityModule_RemoveFromNatural.description>Remove reprocessor module.</BM_SpacerReprocessorUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerReprocessorUtilityModule_RemoveFromNatural.jobString>Removing reprocessor module.</BM_SpacerReprocessorUtilityModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerNuclearUtilityModule_InstallAnimal.label>install nuclear module</BM_SpacerNuclearUtilityModule_InstallAnimal.label>
+  <BM_SpacerNuclearUtilityModule_InstallAnimal.description>Install a nuclear module into the body part's utility module slot.</BM_SpacerNuclearUtilityModule_InstallAnimal.description>
+  <BM_SpacerNuclearUtilityModule_InstallAnimal.jobString>Installing nuclear module.</BM_SpacerNuclearUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerNuclearUtilityModule_InstallHuman.label>install nuclear module</BM_SpacerNuclearUtilityModule_InstallHuman.label>
+  <BM_SpacerNuclearUtilityModule_InstallHuman.description>Install a nuclear module into the body part's utility module slot.</BM_SpacerNuclearUtilityModule_InstallHuman.description>
+  <BM_SpacerNuclearUtilityModule_InstallHuman.jobString>Installing nuclear module.</BM_SpacerNuclearUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerNuclearUtilityModule_InstallHuman_Implant.label>install nuclear module.</BM_SpacerNuclearUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerNuclearUtilityModule_InstallHuman_Implant.description>Install a nuclear module into the body part's utility module slot.</BM_SpacerNuclearUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerNuclearUtilityModule_InstallHuman_Implant.jobString>Installing nuclear module.</BM_SpacerNuclearUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerNuclearUtilityModule_InstallAnimal_Implant.label>install nuclear module.</BM_SpacerNuclearUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerNuclearUtilityModule_InstallAnimal_Implant.description>Install a nuclear module into the body part's utility module slot.</BM_SpacerNuclearUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerNuclearUtilityModule_InstallAnimal_Implant.jobString>Installing nuclear module.</BM_SpacerNuclearUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerNuclearUtilityModule_RemoveFromReplacement.label>remove nuclear module</BM_SpacerNuclearUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerNuclearUtilityModule_RemoveFromReplacement.description>Remove nuclear module.</BM_SpacerNuclearUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerNuclearUtilityModule_RemoveFromReplacement.jobString>Removing nuclear module.</BM_SpacerNuclearUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerNuclearUtilityModule_RemoveFromNatural.label>remove nuclear module</BM_SpacerNuclearUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerNuclearUtilityModule_RemoveFromNatural.description>Remove nuclear module.</BM_SpacerNuclearUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerNuclearUtilityModule_RemoveFromNatural.jobString>Removing nuclear module.</BM_SpacerNuclearUtilityModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerFuelmakerUtilityModule_InstallAnimal.label>install fuelmaker module</BM_SpacerFuelmakerUtilityModule_InstallAnimal.label>
+  <BM_SpacerFuelmakerUtilityModule_InstallAnimal.description>Install a fuelmaker module into the body part's utility module slot.</BM_SpacerFuelmakerUtilityModule_InstallAnimal.description>
+  <BM_SpacerFuelmakerUtilityModule_InstallAnimal.jobString>Installing fuelmaker module.</BM_SpacerFuelmakerUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerFuelmakerUtilityModule_InstallHuman.label>install fuelmaker module</BM_SpacerFuelmakerUtilityModule_InstallHuman.label>
+  <BM_SpacerFuelmakerUtilityModule_InstallHuman.description>Install a fuelmaker module into the body part's utility module slot.</BM_SpacerFuelmakerUtilityModule_InstallHuman.description>
+  <BM_SpacerFuelmakerUtilityModule_InstallHuman.jobString>Installing fuelmaker module.</BM_SpacerFuelmakerUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerFuelmakerUtilityModule_InstallHuman_Implant.label>install fuelmaker module.</BM_SpacerFuelmakerUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerFuelmakerUtilityModule_InstallHuman_Implant.description>Install a fuelmaker module into the body part's utility module slot.</BM_SpacerFuelmakerUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerFuelmakerUtilityModule_InstallHuman_Implant.jobString>Installing fuelmaker module.</BM_SpacerFuelmakerUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerFuelmakerUtilityModule_InstallAnimal_Implant.label>install fuelmaker module.</BM_SpacerFuelmakerUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerFuelmakerUtilityModule_InstallAnimal_Implant.description>Install a fuelmaker module into the body part's utility module slot.</BM_SpacerFuelmakerUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerFuelmakerUtilityModule_InstallAnimal_Implant.jobString>Installing fuelmaker module.</BM_SpacerFuelmakerUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerFuelmakerUtilityModule_RemoveFromReplacement.label>remove fuelmaker module</BM_SpacerFuelmakerUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerFuelmakerUtilityModule_RemoveFromReplacement.description>Remove fuelmaker module.</BM_SpacerFuelmakerUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerFuelmakerUtilityModule_RemoveFromReplacement.jobString>Removing fuelmaker module.</BM_SpacerFuelmakerUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerFuelmakerUtilityModule_RemoveFromNatural.label>remove fuelmaker module</BM_SpacerFuelmakerUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerFuelmakerUtilityModule_RemoveFromNatural.description>Remove fuelmaker module.</BM_SpacerFuelmakerUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerFuelmakerUtilityModule_RemoveFromNatural.jobString>Removing fuelmaker module.</BM_SpacerFuelmakerUtilityModule_RemoveFromNatural.jobString>
+
+
+</LanguageData>

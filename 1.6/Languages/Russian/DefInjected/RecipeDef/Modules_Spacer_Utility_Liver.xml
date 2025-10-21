@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal.label>install alcohol synthesizer module</BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal.label>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal.description>Install an alcohol synthesizer module into the body part's utility module slot.</BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal.description>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal.jobString>Installing alcohol synthesizer module.</BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman.label>install alcohol synthesizer module</BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman.label>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman.description>Install an alcohol synthesizer module into the body part's utility module slot.</BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman.description>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman.jobString>Installing alcohol synthesizer module.</BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman_Implant.label>install alcohol synthesizer module.</BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman_Implant.description>Install an alcohol synthesizer module into the body part's utility module slot.</BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman_Implant.jobString>Installing alcohol synthesizer module.</BM_SpacerAlcoholSynthesizerUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal_Implant.label>install alcohol synthesizer module.</BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal_Implant.description>Install an alcohol synthesizer module into the body part's utility module slot.</BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal_Implant.jobString>Installing alcohol synthesizer module.</BM_SpacerAlcoholSynthesizerUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromReplacement.label>remove alcohol synthesizer module</BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromReplacement.description>Remove alcohol synthesizer module.</BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromReplacement.jobString>Removing alcohol synthesizer module.</BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromNatural.label>remove alcohol synthesizer module</BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromNatural.description>Remove alcohol synthesizer module.</BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromNatural.jobString>Removing alcohol synthesizer module.</BM_SpacerAlcoholSynthesizerUtilityModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal.label>install psychite synthesizer module</BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal.label>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal.description>Install a psychite synthesizer module into the body part's utility module slot.</BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal.description>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal.jobString>Installing psychite synthesizer module.</BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman.label>install psychite synthesizer module</BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman.label>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman.description>Install a psychite synthesizer module into the body part's utility module slot.</BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman.description>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman.jobString>Installing psychite synthesizer module.</BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman_Implant.label>install psychite synthesizer module.</BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman_Implant.description>Install a psychite synthesizer module into the body part's utility module slot.</BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman_Implant.jobString>Installing psychite synthesizer module.</BM_SpacerPsychiteSynthesizerUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal_Implant.label>install psychite synthesizer module.</BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal_Implant.description>Install a psychite synthesizer module into the body part's utility module slot.</BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal_Implant.jobString>Installing psychite synthesizer module.</BM_SpacerPsychiteSynthesizerUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromReplacement.label>remove psychite synthesizer module</BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromReplacement.description>Remove psychite synthesizer module.</BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromReplacement.jobString>Removing psychite synthesizer module.</BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromNatural.label>remove psychite synthesizer module</BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromNatural.description>Remove psychite synthesizer module.</BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromNatural.jobString>Removing psychite synthesizer module.</BM_SpacerPsychiteSynthesizerUtilityModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal.label>install smokeleaf synthesizer module</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal.label>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal.description>Install a smokeleaf synthesizer module into the body part's utility module slot.</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal.description>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal.jobString>Installing smokeleaf synthesizer module.</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman.label>install smokeleaf synthesizer module</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman.label>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman.description>Install a smokeleaf synthesizer module into the body part's utility module slot.</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman.description>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman.jobString>Installing smokeleaf synthesizer module.</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman_Implant.label>install smokeleaf synthesizer module.</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman_Implant.description>Install a smokeleaf synthesizer module into the body part's utility module slot.</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman_Implant.jobString>Installing smokeleaf synthesizer module.</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal_Implant.label>install smokeleaf synthesizer module.</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal_Implant.description>Install a smokeleaf synthesizer module into the body part's utility module slot.</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal_Implant.jobString>Installing smokeleaf synthesizer module.</BM_SpacerSmokeleafSynthesizerUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromReplacement.label>remove smokeleaf synthesizer module</BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromReplacement.description>Remove smokeleaf synthesizer module.</BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromReplacement.jobString>Removing smokeleaf synthesizer module.</BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromNatural.label>remove smokeleaf synthesizer module</BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromNatural.description>Remove smokeleaf synthesizer module.</BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromNatural.jobString>Removing smokeleaf synthesizer module.</BM_SpacerSmokeleafSynthesizerUtilityModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal.label>install go-juice synthesizer module</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal.label>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal.description>Install a go-juice synthesizer module into the body part's utility module slot.</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal.description>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal.jobString>Installing go-juice synthesizer module.</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman.label>install go-juice synthesizer module</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman.label>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman.description>Install a go-juice synthesizer module into the body part's utility module slot.</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman.description>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman.jobString>Installing go-juice synthesizer module.</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman_Implant.label>install go-juice synthesizer module.</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman_Implant.description>Install a go-juice synthesizer module into the body part's utility module slot.</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman_Implant.jobString>Installing go-juice synthesizer module.</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal_Implant.label>install go-juice synthesizer module.</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal_Implant.description>Install a go-juice synthesizer module into the body part's utility module slot.</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal_Implant.jobString>Installing go-juice synthesizer module.</BM_SpacerGoJuiceSynthesizerUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromReplacement.label>remove go-juice synthesizer module</BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromReplacement.description>Remove go-juice synthesizer module.</BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromReplacement.jobString>Removing go-juice synthesizer module.</BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromNatural.label>remove go-juice synthesizer module</BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromNatural.description>Remove go-juice synthesizer module.</BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromNatural.jobString>Removing go-juice synthesizer module.</BM_SpacerGoJuiceSynthesizerUtilityModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal.label>install wake-up synthesizer module</BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal.label>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal.description>Install a wake-up synthesizer module into the body part's utility module slot.</BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal.description>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal.jobString>Installing wake-up synthesizer module.</BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal.jobString>
+
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman.label>install wake-up synthesizer module</BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman.label>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman.description>Install a wake-up synthesizer module into the body part's utility module slot.</BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman.description>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman.jobString>Installing wake-up synthesizer module.</BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman_Implant.label>install wake-up synthesizer module.</BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman_Implant.label>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman_Implant.description>Install a wake-up synthesizer module into the body part's utility module slot.</BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman_Implant.description>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman_Implant.jobString>Installing wake-up synthesizer module.</BM_SpacerWakeUpSynthesizerUtilityModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal_Implant.label>install wake-up synthesizer module.</BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal_Implant.label>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal_Implant.description>Install a wake-up synthesizer module into the body part's utility module slot.</BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal_Implant.description>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal_Implant.jobString>Installing wake-up synthesizer module.</BM_SpacerWakeUpSynthesizerUtilityModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromReplacement.label>remove wake-up synthesizer module</BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromReplacement.label>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromReplacement.description>Remove wake-up synthesizer module.</BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromReplacement.description>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromReplacement.jobString>Removing wake-up synthesizer module.</BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromNatural.label>remove wake-up synthesizer module</BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromNatural.label>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromNatural.description>Remove wake-up synthesizer module.</BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromNatural.description>
+  <BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromNatural.jobString>Removing wake-up synthesizer module.</BM_SpacerWakeUpSynthesizerUtilityModule_RemoveFromNatural.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- gastrosterilizer -->
+
+  <BM_SpacerGastrosterilizerUtilityModule.label>gastrosterilizer module</BM_SpacerGastrosterilizerUtilityModule.label>
+  <BM_SpacerGastrosterilizerUtilityModule.description>An installed gastrosterilizer utility module.</BM_SpacerGastrosterilizerUtilityModule.description>
+
+
+  <!-- reprocessor -->
+
+  <BM_SpacerReprocessorUtilityModule.label>reprocessor module</BM_SpacerReprocessorUtilityModule.label>
+  <BM_SpacerReprocessorUtilityModule.description>An installed reprocessor utility module.</BM_SpacerReprocessorUtilityModule.description>
+
+
+  <!-- nuclear -->
+
+  <BM_SpacerNuclearUtilityModule.label>nuclear module</BM_SpacerNuclearUtilityModule.label>
+  <BM_SpacerNuclearUtilityModule.description>An installed nuclear utility module.</BM_SpacerNuclearUtilityModule.description>
+
+
+  <!-- fuelmaker -->
+
+  <BM_SpacerFuelmakerUtilityModule.label>fuelmaker module</BM_SpacerFuelmakerUtilityModule.label>
+  <BM_SpacerFuelmakerUtilityModule.description>An installed fuelmaker utility module.</BM_SpacerFuelmakerUtilityModule.description>
+
+
+</LanguageData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerLeapAbilityModule_InstallHuman.label>install leap module</BM_SpacerLeapAbilityModule_InstallHuman.label>
+  <BM_SpacerLeapAbilityModule_InstallHuman.description>Install a leap module into the body part's ability module slot.</BM_SpacerLeapAbilityModule_InstallHuman.description>
+  <BM_SpacerLeapAbilityModule_InstallHuman.jobString>Installing leap module.</BM_SpacerLeapAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerLeapAbilityModule_RemoveFromReplacement.label>remove leap module</BM_SpacerLeapAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerLeapAbilityModule_RemoveFromReplacement.description>Remove leap module.</BM_SpacerLeapAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerLeapAbilityModule_RemoveFromReplacement.jobString>Removing leap module.</BM_SpacerLeapAbilityModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

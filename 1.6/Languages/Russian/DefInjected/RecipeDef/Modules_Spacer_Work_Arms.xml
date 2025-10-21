@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerDrillWorkModule_InstallHuman.label>install drill module</BM_SpacerDrillWorkModule_InstallHuman.label>
+  <BM_SpacerDrillWorkModule_InstallHuman.description>Install a drill module into the body part's work module slot.</BM_SpacerDrillWorkModule_InstallHuman.description>
+  <BM_SpacerDrillWorkModule_InstallHuman.jobString>Installing drill module.</BM_SpacerDrillWorkModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerDrillWorkModule_RemoveFromReplacement.label>remove drill module</BM_SpacerDrillWorkModule_RemoveFromReplacement.label>
+  <BM_SpacerDrillWorkModule_RemoveFromReplacement.description>Remove drill module.</BM_SpacerDrillWorkModule_RemoveFromReplacement.description>
+  <BM_SpacerDrillWorkModule_RemoveFromReplacement.jobString>Removing drill module.</BM_SpacerDrillWorkModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerFieldWorkModule_InstallHuman.label>install field module</BM_SpacerFieldWorkModule_InstallHuman.label>
+  <BM_SpacerFieldWorkModule_InstallHuman.description>Install a field module into the body part's work module slot.</BM_SpacerFieldWorkModule_InstallHuman.description>
+  <BM_SpacerFieldWorkModule_InstallHuman.jobString>Installing field module.</BM_SpacerFieldWorkModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerFieldWorkModule_RemoveFromReplacement.label>remove field module</BM_SpacerFieldWorkModule_RemoveFromReplacement.label>
+  <BM_SpacerFieldWorkModule_RemoveFromReplacement.description>Remove field module.</BM_SpacerFieldWorkModule_RemoveFromReplacement.description>
+  <BM_SpacerFieldWorkModule_RemoveFromReplacement.jobString>Removing field module.</BM_SpacerFieldWorkModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerAnalyzerWorkModule_InstallHuman.label>install analyzer module</BM_SpacerAnalyzerWorkModule_InstallHuman.label>
+  <BM_SpacerAnalyzerWorkModule_InstallHuman.description>Install a analyzer module into the body part's work module slot.</BM_SpacerAnalyzerWorkModule_InstallHuman.description>
+  <BM_SpacerAnalyzerWorkModule_InstallHuman.jobString>Installing analyzer module.</BM_SpacerAnalyzerWorkModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerAnalyzerWorkModule_RemoveFromReplacement.label>remove analyzer module</BM_SpacerAnalyzerWorkModule_RemoveFromReplacement.label>
+  <BM_SpacerAnalyzerWorkModule_RemoveFromReplacement.description>Remove analyzer module.</BM_SpacerAnalyzerWorkModule_RemoveFromReplacement.description>
+  <BM_SpacerAnalyzerWorkModule_RemoveFromReplacement.jobString>Removing analyzer module.</BM_SpacerAnalyzerWorkModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerCrafterWorkModule_InstallHuman.label>install crafter module</BM_SpacerCrafterWorkModule_InstallHuman.label>
+  <BM_SpacerCrafterWorkModule_InstallHuman.description>Install a crafter module into the body part's work module slot.</BM_SpacerCrafterWorkModule_InstallHuman.description>
+  <BM_SpacerCrafterWorkModule_InstallHuman.jobString>Installing crafter module.</BM_SpacerCrafterWorkModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerCrafterWorkModule_RemoveFromReplacement.label>remove crafter module</BM_SpacerCrafterWorkModule_RemoveFromReplacement.label>
+  <BM_SpacerCrafterWorkModule_RemoveFromReplacement.description>Remove crafter module.</BM_SpacerCrafterWorkModule_RemoveFromReplacement.description>
+  <BM_SpacerCrafterWorkModule_RemoveFromReplacement.jobString>Removing crafter module.</BM_SpacerCrafterWorkModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerConstructorWorkModule_InstallHuman.label>install constructor module</BM_SpacerConstructorWorkModule_InstallHuman.label>
+  <BM_SpacerConstructorWorkModule_InstallHuman.description>Install a constructor module into the body part's work module slot.</BM_SpacerConstructorWorkModule_InstallHuman.description>
+  <BM_SpacerConstructorWorkModule_InstallHuman.jobString>Installing constructor module.</BM_SpacerConstructorWorkModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerConstructorWorkModule_RemoveFromReplacement.label>remove constructor module</BM_SpacerConstructorWorkModule_RemoveFromReplacement.label>
+  <BM_SpacerConstructorWorkModule_RemoveFromReplacement.description>Remove constructor module.</BM_SpacerConstructorWorkModule_RemoveFromReplacement.description>
+  <BM_SpacerConstructorWorkModule_RemoveFromReplacement.jobString>Removing constructor module.</BM_SpacerConstructorWorkModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerChefWorkModule_InstallHuman.label>install chef module</BM_SpacerChefWorkModule_InstallHuman.label>
+  <BM_SpacerChefWorkModule_InstallHuman.description>Install a chef module into the body part's work module slot.</BM_SpacerChefWorkModule_InstallHuman.description>
+  <BM_SpacerChefWorkModule_InstallHuman.jobString>Installing chef module.</BM_SpacerChefWorkModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerChefWorkModule_RemoveFromReplacement.label>remove chef module</BM_SpacerChefWorkModule_RemoveFromReplacement.label>
+  <BM_SpacerChefWorkModule_RemoveFromReplacement.description>Remove chef module.</BM_SpacerChefWorkModule_RemoveFromReplacement.description>
+  <BM_SpacerChefWorkModule_RemoveFromReplacement.jobString>Removing chef module.</BM_SpacerChefWorkModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerMedicWorkModule_InstallHuman.label>install medic module</BM_SpacerMedicWorkModule_InstallHuman.label>
+  <BM_SpacerMedicWorkModule_InstallHuman.description>Install a medic module into the body part's work module slot.</BM_SpacerMedicWorkModule_InstallHuman.description>
+  <BM_SpacerMedicWorkModule_InstallHuman.jobString>Installing medic module.</BM_SpacerMedicWorkModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerMedicWorkModule_RemoveFromReplacement.label>remove medic module</BM_SpacerMedicWorkModule_RemoveFromReplacement.label>
+  <BM_SpacerMedicWorkModule_RemoveFromReplacement.description>Remove medic module.</BM_SpacerMedicWorkModule_RemoveFromReplacement.description>
+  <BM_SpacerMedicWorkModule_RemoveFromReplacement.jobString>Removing medic module.</BM_SpacerMedicWorkModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

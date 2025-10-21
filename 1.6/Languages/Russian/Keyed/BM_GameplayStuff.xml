@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+
+  <BM_RefueledWith>Fuel:</BM_RefueledWith>
+  <BM_FuelLevel>Fuel level:</BM_FuelLevel>
+  <!--Was too lazy to figure out how to put the chemical's label in the middle of the line-->
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- drill -->
+
+  <BM_SpacerDrillWorkModule.label>drill module</BM_SpacerDrillWorkModule.label>
+  <BM_SpacerDrillWorkModule.description>A high-tech work-oriented device that can be installed into any compatible artificial arm replacement. This model features a retractable drill which can act as both a useful tool and a deadly, albeit odd weapon. A compact support system makes it easy and comfortable to carry around.</BM_SpacerDrillWorkModule.description>
+
+
+  <!-- field -->
+
+  <BM_SpacerFieldWorkModule.label>field module</BM_SpacerFieldWorkModule.label>
+  <BM_SpacerFieldWorkModule.description>A high-tech work-oriented device that can be installed into any compatible artificial arm replacement. This particular model is equipped with a variety of miniaturized tools and an advanced bioanalyzer that greatly enhance a farmer’s speed and efficiency. A compact support system makes it easy and comfortable to carry around.</BM_SpacerFieldWorkModule.description>
+
+
+  <!-- analyzer -->
+
+  <BM_SpacerAnalyzerWorkModule.label>analyzer module</BM_SpacerAnalyzerWorkModule.label>
+  <BM_SpacerAnalyzerWorkModule.description>A high-tech work-oriented device that can be installed into any compatible artificial arm replacement. This model features a small, portable multi-analyzer, which helps analyze and process large amounts of data. A compact support system makes it easy and comfortable to carry around.</BM_SpacerAnalyzerWorkModule.description>
+
+
+  <!-- crafter -->
+
+  <BM_SpacerCrafterWorkModule.label>crafter module</BM_SpacerCrafterWorkModule.label>
+  <BM_SpacerCrafterWorkModule.description>A high-tech work-oriented device that can be installed into any compatible artificial arm replacement. This model is equipped with a variety of retractable multi-purpose tools and measuring equipment, perfect for assembling delicate components or detailed pieces of art. A compact support system makes it easy and comfortable to carry around.</BM_SpacerCrafterWorkModule.description>
+
+
+  <!-- constructor -->
+
+  <BM_SpacerConstructorWorkModule.label>constructor module</BM_SpacerConstructorWorkModule.label>
+  <BM_SpacerConstructorWorkModule.description>A high-tech work-oriented device that can be installed into any compatible artificial arm replacement. This model is equipped with a variety of retractable multi-purpose tools and measuring equipment that greatly speed up repair and construction efforts. A compact support system makes it easy and comfortable to carry around.</BM_SpacerConstructorWorkModule.description>
+
+
+  <!-- chef -->
+
+  <BM_SpacerChefWorkModule.label>chef module</BM_SpacerChefWorkModule.label>
+  <BM_SpacerChefWorkModule.description>A high-tech work-oriented device that can be installed into any compatible artificial arm replacement. This model is equipped with a simple bioanalyzer and a variety of cooking utensils. It is also highly resistant to heat, which allows the user to safely make contact with hot surfaces and substances. A compact support system makes it easy and comfortable to carry around.</BM_SpacerChefWorkModule.description>
+
+
+  <!-- medic -->
+
+  <BM_SpacerMedicWorkModule.label>medic module</BM_SpacerMedicWorkModule.label>
+  <BM_SpacerMedicWorkModule.description>A high-tech work-oriented device that can be installed into any compatible artificial arm replacement. This model is equipped with an advanced bioanalyzer, biowelder and a retractable self-sterilizing scalpel. A compact support system makes it easy and comfortable to carry around.</BM_SpacerMedicWorkModule.description>
+
+
+</LanguageData>

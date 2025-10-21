@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.label>install smoke spewer module</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.label>
+  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.description>Install a smoke spewer module into the body part's ability module slot.</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.description>
+  <BM_SpacerSmokeSpewerAbilityModule_InstallHuman.jobString>Installing smoke spewer module.</BM_SpacerSmokeSpewerAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.label>remove smoke spewer module</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.description>Remove smoke spewer module.</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.jobString>Removing smoke spewer module.</BM_SpacerSmokeSpewerAbilityModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

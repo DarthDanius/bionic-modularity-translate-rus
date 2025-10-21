@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerOrbitalBombardmentAbilityModule_InstallHuman.label>install orbital bombardment module</BM_SpacerOrbitalBombardmentAbilityModule_InstallHuman.label>
+  <BM_SpacerOrbitalBombardmentAbilityModule_InstallHuman.description>Install a orbital bombardment module into the body part's ability module slot.</BM_SpacerOrbitalBombardmentAbilityModule_InstallHuman.description>
+  <BM_SpacerOrbitalBombardmentAbilityModule_InstallHuman.jobString>Installing orbital bombardment module.</BM_SpacerOrbitalBombardmentAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerOrbitalBombardmentAbilityModule_RemoveFromReplacement.label>remove orbital bombardment module</BM_SpacerOrbitalBombardmentAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerOrbitalBombardmentAbilityModule_RemoveFromReplacement.description>Remove orbital bombardment module.</BM_SpacerOrbitalBombardmentAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerOrbitalBombardmentAbilityModule_RemoveFromReplacement.jobString>Removing orbital bombardment module.</BM_SpacerOrbitalBombardmentAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerOrbitalPowerBeamAbilityModule_InstallHuman.label>install orbital power beam module</BM_SpacerOrbitalPowerBeamAbilityModule_InstallHuman.label>
+  <BM_SpacerOrbitalPowerBeamAbilityModule_InstallHuman.description>Install an orbital power beam module into the body part's ability module slot.</BM_SpacerOrbitalPowerBeamAbilityModule_InstallHuman.description>
+  <BM_SpacerOrbitalPowerBeamAbilityModule_InstallHuman.jobString>Installing orbital power beam module.</BM_SpacerOrbitalPowerBeamAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerOrbitalPowerBeamAbilityModule_RemoveFromReplacement.label>remove orbital power beam module</BM_SpacerOrbitalPowerBeamAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerOrbitalPowerBeamAbilityModule_RemoveFromReplacement.description>Remove orbital power beam module.</BM_SpacerOrbitalPowerBeamAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerOrbitalPowerBeamAbilityModule_RemoveFromReplacement.jobString>Removing orbital power beam module.</BM_SpacerOrbitalPowerBeamAbilityModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerTornadoGeneratorAbilityModule_InstallHuman.label>install tornado generator module</BM_SpacerTornadoGeneratorAbilityModule_InstallHuman.label>
+  <BM_SpacerTornadoGeneratorAbilityModule_InstallHuman.description>Install a tornado generator module into the body part's ability module slot.</BM_SpacerTornadoGeneratorAbilityModule_InstallHuman.description>
+  <BM_SpacerTornadoGeneratorAbilityModule_InstallHuman.jobString>Installing tornado generator module.</BM_SpacerTornadoGeneratorAbilityModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerTornadoGeneratorAbilityModule_RemoveFromReplacement.label>remove tornado generator module</BM_SpacerTornadoGeneratorAbilityModule_RemoveFromReplacement.label>
+  <BM_SpacerTornadoGeneratorAbilityModule_RemoveFromReplacement.description>Remove tornado generator module.</BM_SpacerTornadoGeneratorAbilityModule_RemoveFromReplacement.description>
+  <BM_SpacerTornadoGeneratorAbilityModule_RemoveFromReplacement.jobString>Removing tornado generator module.</BM_SpacerTornadoGeneratorAbilityModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

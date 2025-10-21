@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- powerslash horn -->
+
+  <BM_SpacerPowerSlashHornCombatModule.label>powerslash horn module</BM_SpacerPowerSlashHornCombatModule.label>
+  <BM_SpacerPowerSlashHornCombatModule.description>An installed powerslash horn combat module.</BM_SpacerPowerSlashHornCombatModule.description>
+  <BM_SpacerPowerSlashHornCombatModule.comps.0.tools.0.label>powerslash horn</BM_SpacerPowerSlashHornCombatModule.comps.0.tools.0.label>
+
+
+  <!-- powerstrike horn -->
+
+  <BM_SpacerPowerStrikeHornCombatModule.label>powerstrike horn module</BM_SpacerPowerStrikeHornCombatModule.label>
+  <BM_SpacerPowerStrikeHornCombatModule.description>An installed powerstrike horn combat module.</BM_SpacerPowerStrikeHornCombatModule.description>
+  <BM_SpacerPowerStrikeHornCombatModule.comps.0.tools.0.label>powerstrike horn</BM_SpacerPowerStrikeHornCombatModule.comps.0.tools.0.label>
+
+
+</LanguageData>

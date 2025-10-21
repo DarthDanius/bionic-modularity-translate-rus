@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerPowerKickCombatModule_InstallHuman.label>install power kick module</BM_SpacerPowerKickCombatModule_InstallHuman.label>
+  <BM_SpacerPowerKickCombatModule_InstallHuman.description>Install a power kick module into the body part's combat module slot.</BM_SpacerPowerKickCombatModule_InstallHuman.description>
+  <BM_SpacerPowerKickCombatModule_InstallHuman.jobString>Installing power kick module.</BM_SpacerPowerKickCombatModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerPowerKickCombatModule_RemoveFromReplacement.label>remove power kick module</BM_SpacerPowerKickCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerPowerKickCombatModule_RemoveFromReplacement.description>Remove power kick module.</BM_SpacerPowerKickCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerPowerKickCombatModule_RemoveFromReplacement.jobString>Removing power kick module.</BM_SpacerPowerKickCombatModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

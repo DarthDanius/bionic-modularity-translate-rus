@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerChargeRifleCombatModule_InstallAnimal.label>install charge rifle module</BM_SpacerChargeRifleCombatModule_InstallAnimal.label>
+  <BM_SpacerChargeRifleCombatModule_InstallAnimal.description>Install a charge rifle module into the body part's combat module slot.</BM_SpacerChargeRifleCombatModule_InstallAnimal.description>
+  <BM_SpacerChargeRifleCombatModule_InstallAnimal.jobString>Installing charge rifle module.</BM_SpacerChargeRifleCombatModule_InstallAnimal.jobString>
+
+  <BM_SpacerChargeRifleCombatModule_InstallHuman.label>install charge rifle module</BM_SpacerChargeRifleCombatModule_InstallHuman.label>
+  <BM_SpacerChargeRifleCombatModule_InstallHuman.description>Install a charge rifle module into the body part's combat module slot.</BM_SpacerChargeRifleCombatModule_InstallHuman.description>
+  <BM_SpacerChargeRifleCombatModule_InstallHuman.jobString>Installing charge rifle module.</BM_SpacerChargeRifleCombatModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerChargeRifleCombatModule_RemoveFromReplacement.label>remove charge rifle module</BM_SpacerChargeRifleCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerChargeRifleCombatModule_RemoveFromReplacement.description>Remove charge rifle module.</BM_SpacerChargeRifleCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerChargeRifleCombatModule_RemoveFromReplacement.jobString>Removing charge rifle module.</BM_SpacerChargeRifleCombatModule_RemoveFromReplacement.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerChargeLanceCombatModule_InstallAnimal.label>install charge lance module</BM_SpacerChargeLanceCombatModule_InstallAnimal.label>
+  <BM_SpacerChargeLanceCombatModule_InstallAnimal.description>Install a charge lance module into the body part's combat module slot.</BM_SpacerChargeLanceCombatModule_InstallAnimal.description>
+  <BM_SpacerChargeLanceCombatModule_InstallAnimal.jobString>Installing charge lance module.</BM_SpacerChargeLanceCombatModule_InstallAnimal.jobString>
+
+  <BM_SpacerChargeLanceCombatModule_InstallHuman.label>install charge lance module</BM_SpacerChargeLanceCombatModule_InstallHuman.label>
+  <BM_SpacerChargeLanceCombatModule_InstallHuman.description>Install a charge lance module into the body part's combat module slot.</BM_SpacerChargeLanceCombatModule_InstallHuman.description>
+  <BM_SpacerChargeLanceCombatModule_InstallHuman.jobString>Installing charge lance module.</BM_SpacerChargeLanceCombatModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerChargeLanceCombatModule_RemoveFromReplacement.label>remove charge lance module</BM_SpacerChargeLanceCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerChargeLanceCombatModule_RemoveFromReplacement.description>Remove charge lance module.</BM_SpacerChargeLanceCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerChargeLanceCombatModule_RemoveFromReplacement.jobString>Removing charge lance module.</BM_SpacerChargeLanceCombatModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerPowerFangCombatModule_InstallAnimal.label>install power fang module</BM_SpacerPowerFangCombatModule_InstallAnimal.label>
+  <BM_SpacerPowerFangCombatModule_InstallAnimal.description>Install a power fang module into the body part's combat module slot.</BM_SpacerPowerFangCombatModule_InstallAnimal.description>
+  <BM_SpacerPowerFangCombatModule_InstallAnimal.jobString>Installing power fang module.</BM_SpacerPowerFangCombatModule_InstallAnimal.jobString>
+
+  <BM_SpacerPowerFangCombatModule_InstallHuman.label>install power fang module</BM_SpacerPowerFangCombatModule_InstallHuman.label>
+  <BM_SpacerPowerFangCombatModule_InstallHuman.description>Install a power fang module into the body part's combat module slot.</BM_SpacerPowerFangCombatModule_InstallHuman.description>
+  <BM_SpacerPowerFangCombatModule_InstallHuman.jobString>Installing power fang module.</BM_SpacerPowerFangCombatModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerPowerFangCombatModule_InstallHuman_Implant.label>install power fang module.</BM_SpacerPowerFangCombatModule_InstallHuman_Implant.label>
+  <BM_SpacerPowerFangCombatModule_InstallHuman_Implant.description>Install a power fang module into the body part's combat module slot.</BM_SpacerPowerFangCombatModule_InstallHuman_Implant.description>
+  <BM_SpacerPowerFangCombatModule_InstallHuman_Implant.jobString>Installing power fang module.</BM_SpacerPowerFangCombatModule_InstallHuman_Implant.jobString>
+
+  <BM_SpacerPowerFangCombatModule_InstallAnimal_Implant.label>install power fang module.</BM_SpacerPowerFangCombatModule_InstallAnimal_Implant.label>
+  <BM_SpacerPowerFangCombatModule_InstallAnimal_Implant.description>Install a power fang module into the body part's combat module slot.</BM_SpacerPowerFangCombatModule_InstallAnimal_Implant.description>
+  <BM_SpacerPowerFangCombatModule_InstallAnimal_Implant.jobString>Installing power fang module.</BM_SpacerPowerFangCombatModule_InstallAnimal_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerPowerFangCombatModule_RemoveFromReplacement.label>remove power fang module</BM_SpacerPowerFangCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerPowerFangCombatModule_RemoveFromReplacement.description>Remove power fang module.</BM_SpacerPowerFangCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerPowerFangCombatModule_RemoveFromReplacement.jobString>Removing power fang module.</BM_SpacerPowerFangCombatModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerPowerFangCombatModule_RemoveFromNatural.label>remove power fang module</BM_SpacerPowerFangCombatModule_RemoveFromNatural.label>
+  <BM_SpacerPowerFangCombatModule_RemoveFromNatural.description>Remove power fang module.</BM_SpacerPowerFangCombatModule_RemoveFromNatural.description>
+  <BM_SpacerPowerFangCombatModule_RemoveFromNatural.jobString>Removing power fang module.</BM_SpacerPowerFangCombatModule_RemoveFromNatural.jobString>
+
+
+</LanguageData>

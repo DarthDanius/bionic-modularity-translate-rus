@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerTamerWorkModule_InstallHuman.label>install faunamaster module</BM_SpacerTamerWorkModule_InstallHuman.label>
+  <BM_SpacerTamerWorkModule_InstallHuman.description>Install a faunamaster module into the body part's work module slot.</BM_SpacerTamerWorkModule_InstallHuman.description>
+  <BM_SpacerTamerWorkModule_InstallHuman.jobString>Installing faunamaster module.</BM_SpacerTamerWorkModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerTamerWorkModule_InstallHuman_Implant.label>install faunamaster module.</BM_SpacerTamerWorkModule_InstallHuman_Implant.label>
+  <BM_SpacerTamerWorkModule_InstallHuman_Implant.description>Install a faunamaster module into the body part's work module slot.</BM_SpacerTamerWorkModule_InstallHuman_Implant.description>
+  <BM_SpacerTamerWorkModule_InstallHuman_Implant.jobString>Installing faunamaster module.</BM_SpacerTamerWorkModule_InstallHuman_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerTamerWorkModule_RemoveFromReplacement.label>remove faunamaster module</BM_SpacerTamerWorkModule_RemoveFromReplacement.label>
+  <BM_SpacerTamerWorkModule_RemoveFromReplacement.description>Remove faunamaster module.</BM_SpacerTamerWorkModule_RemoveFromReplacement.description>
+  <BM_SpacerTamerWorkModule_RemoveFromReplacement.jobString>Removing faunamaster module.</BM_SpacerTamerWorkModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerTamerWorkModule_RemoveFromNatural.label>remove faunamaster module</BM_SpacerTamerWorkModule_RemoveFromNatural.label>
+  <BM_SpacerTamerWorkModule_RemoveFromNatural.description>Remove faunamaster module.</BM_SpacerTamerWorkModule_RemoveFromNatural.description>
+  <BM_SpacerTamerWorkModule_RemoveFromNatural.jobString>Removing faunamaster module.</BM_SpacerTamerWorkModule_RemoveFromNatural.jobString>
+
+
+  <!-- Module -->
+
+  <BM_SpacerMindreaderWorkModule_InstallHuman.label>install mindreader module</BM_SpacerMindreaderWorkModule_InstallHuman.label>
+  <BM_SpacerMindreaderWorkModule_InstallHuman.description>Install a mindreader module into the body part's work module slot.</BM_SpacerMindreaderWorkModule_InstallHuman.description>
+  <BM_SpacerMindreaderWorkModule_InstallHuman.jobString>Installing mindreader module.</BM_SpacerMindreaderWorkModule_InstallHuman.jobString>
+
+
+  <!-- Implant -->
+
+  <BM_SpacerMindreaderWorkModule_InstallHuman_Implant.label>install mindreader module.</BM_SpacerMindreaderWorkModule_InstallHuman_Implant.label>
+  <BM_SpacerMindreaderWorkModule_InstallHuman_Implant.description>Install a mindreader module into the body part's work module slot.</BM_SpacerMindreaderWorkModule_InstallHuman_Implant.description>
+  <BM_SpacerMindreaderWorkModule_InstallHuman_Implant.jobString>Installing mindreader module.</BM_SpacerMindreaderWorkModule_InstallHuman_Implant.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerMindreaderWorkModule_RemoveFromReplacement.label>remove mindreader module</BM_SpacerMindreaderWorkModule_RemoveFromReplacement.label>
+  <BM_SpacerMindreaderWorkModule_RemoveFromReplacement.description>Remove mindreader module.</BM_SpacerMindreaderWorkModule_RemoveFromReplacement.description>
+  <BM_SpacerMindreaderWorkModule_RemoveFromReplacement.jobString>Removing mindreader module.</BM_SpacerMindreaderWorkModule_RemoveFromReplacement.jobString>
+
+  <BM_SpacerMindreaderWorkModule_RemoveFromNatural.label>remove mindreader module</BM_SpacerMindreaderWorkModule_RemoveFromNatural.label>
+  <BM_SpacerMindreaderWorkModule_RemoveFromNatural.description>Remove mindreader module.</BM_SpacerMindreaderWorkModule_RemoveFromNatural.description>
+  <BM_SpacerMindreaderWorkModule_RemoveFromNatural.jobString>Removing mindreader module.</BM_SpacerMindreaderWorkModule_RemoveFromNatural.jobString>
+
+
+</LanguageData>

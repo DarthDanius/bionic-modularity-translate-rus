@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- pyroprojector -->
+
+  <BM_SpacerPyroprojectorAbilityModule.label>pyroprojector module</BM_SpacerPyroprojectorAbilityModule.label>
+  <BM_SpacerPyroprojectorAbilityModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular module is capable of producing immense amounts of heat and trapping it in a bubble-like barrier it projects around its host, cooking and igniting everything within its range. While the user is safe from being directly affected by the implant when it's active, it will scorch both enemies and allies that do not possess sufficient protection from heat and fire.</BM_SpacerPyroprojectorAbilityModule.description>
+
+
+  <!-- magprojector -->
+
+  <BM_SpacerMagprojectorAbilityModule.label>magprojector module</BM_SpacerMagprojectorAbilityModule.label>
+  <BM_SpacerMagprojectorAbilityModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular model is capable of projecting a bubble-like barrier for the purpose of containing and intensifying electromagnetic disturbances that it emits when active, creating an area that's extremely harmful to electronic equipment. While the user is safe from being directly affected by the module, it will damage any nearby machinery and implants that are vulnerable to EMP attacks, regardless of who they belong to.</BM_SpacerMagprojectorAbilityModule.description>
+
+
+  <!-- medprojector -->
+
+  <BM_SpacerMedprojectorAbilityModule.label>medprojector module</BM_SpacerMedprojectorAbilityModule.label>
+  <BM_SpacerMedprojectorAbilityModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular module is capable of projecting a bubble-like barrier for the purpose of containing the swarm of healing nanites and aerosolized glitterworld drugs that it releases when active. Anyone within its range will slowly have their non-permanent wounds and injuries healed. Needs to be loaded with glitterworld medicine in order to function.</BM_SpacerMedprojectorAbilityModule.description>
+
+
+  <!-- radprojector -->
+
+  <BM_SpacerRadprojectorAbilityModule.label>radprojector module</BM_SpacerRadprojectorAbilityModule.label>
+  <BM_SpacerRadprojectorAbilityModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular module is capable of producing immense amounts of harmful radiation and trapping it in a bubble-like barrier it projects around its host, poisoning everyone within its range. While the user is safe from being directly affected by the implant when it's active, it will hurt both enemies and allies that do not possess sufficient protection.</BM_SpacerRadprojectorAbilityModule.description>
+
+
+  <!-- cryoprojector -->
+
+  <BM_SpacerCryoprojectorAbilityModule.label>cryoprojector module</BM_SpacerCryoprojectorAbilityModule.label>
+  <BM_SpacerCryoprojectorAbilityModule.description>A high-tech device that can be installed into any compatible artificial spine replacement. This particular module is capable of producing immense amounts of a cryogenic microgas and trapping it in a bubble-like barrier it projects around its host, slowly freezing everything within its range. While the user is safe from being directly affected by the implant when it's active, it will harm both enemies and allies that do not possess sufficient protection.</BM_SpacerCryoprojectorAbilityModule.description>
+
+
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- drill -->
+
+  <BM_SpacerDrillWorkModule.label>drill module</BM_SpacerDrillWorkModule.label>
+  <BM_SpacerDrillWorkModule.description>An installed drill work module.</BM_SpacerDrillWorkModule.description>
+  <BM_SpacerDrillWorkModule.comps.0.tools.0.label>drill</BM_SpacerDrillWorkModule.comps.0.tools.0.label>
+
+
+  <!-- field -->
+
+  <BM_SpacerFieldWorkModule.label>field module</BM_SpacerFieldWorkModule.label>
+  <BM_SpacerFieldWorkModule.description>An installed field work module.</BM_SpacerFieldWorkModule.description>
+
+
+  <!-- analyzer -->
+
+  <BM_SpacerAnalyzerWorkModule.label>analyzer module</BM_SpacerAnalyzerWorkModule.label>
+  <BM_SpacerAnalyzerWorkModule.description>An installed analyzer work module.</BM_SpacerAnalyzerWorkModule.description>
+
+
+  <!-- crafter -->
+
+  <BM_SpacerCrafterWorkModule.label>crafter module</BM_SpacerCrafterWorkModule.label>
+  <BM_SpacerCrafterWorkModule.description>An installed crafter work module.</BM_SpacerCrafterWorkModule.description>
+
+
+  <!-- constructor -->
+
+  <BM_SpacerConstructorWorkModule.label>constructor module</BM_SpacerConstructorWorkModule.label>
+  <BM_SpacerConstructorWorkModule.description>An installed constructor work module.</BM_SpacerConstructorWorkModule.description>
+
+
+  <!-- chef -->
+
+  <BM_SpacerChefWorkModule.label>chef module</BM_SpacerChefWorkModule.label>
+  <BM_SpacerChefWorkModule.description>An installed chef work module.</BM_SpacerChefWorkModule.description>
+
+
+  <!-- medic -->
+
+  <BM_SpacerMedicWorkModule.label>medic module</BM_SpacerMedicWorkModule.label>
+  <BM_SpacerMedicWorkModule.description>An installed medic work module.</BM_SpacerMedicWorkModule.description>
+
+
+</LanguageData>

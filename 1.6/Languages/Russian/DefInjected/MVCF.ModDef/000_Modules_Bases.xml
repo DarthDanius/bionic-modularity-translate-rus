@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Am I doing this right? -->
+
+  <MVCF_EnableAll_TestShit_BM.label>Enable all features</MVCF_EnableAll_TestShit_BM.label>
+  <MVCF_EnableAll_TestShit_BM.description>All features will be enabled if this def is included.</MVCF_EnableAll_TestShit_BM.description>
+
+
+</LanguageData>

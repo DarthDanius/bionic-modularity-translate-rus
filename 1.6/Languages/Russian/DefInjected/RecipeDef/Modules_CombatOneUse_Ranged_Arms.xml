@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Module -->
+
+  <BM_SpacerDoomsdayRocketLauncherCombatModule_InstallHuman.label>install doomsday rocket launcher module</BM_SpacerDoomsdayRocketLauncherCombatModule_InstallHuman.label>
+  <BM_SpacerDoomsdayRocketLauncherCombatModule_InstallHuman.description>Install a doomsday rocket launcher module into the body part's combat module slot.</BM_SpacerDoomsdayRocketLauncherCombatModule_InstallHuman.description>
+  <BM_SpacerDoomsdayRocketLauncherCombatModule_InstallHuman.jobString>Installing doomsday rocket launcher module.</BM_SpacerDoomsdayRocketLauncherCombatModule_InstallHuman.jobString>
+
+
+  <!-- Removal -->
+
+  <BM_SpacerDoomsdayRocketLauncherCombatModule_RemoveFromReplacement.label>remove doomsday rocket launcher module</BM_SpacerDoomsdayRocketLauncherCombatModule_RemoveFromReplacement.label>
+  <BM_SpacerDoomsdayRocketLauncherCombatModule_RemoveFromReplacement.description>Remove doomsday rocket launcher module.</BM_SpacerDoomsdayRocketLauncherCombatModule_RemoveFromReplacement.description>
+  <BM_SpacerDoomsdayRocketLauncherCombatModule_RemoveFromReplacement.jobString>Removing doomsday rocket launcher module.</BM_SpacerDoomsdayRocketLauncherCombatModule_RemoveFromReplacement.jobString>
+
+
+</LanguageData>
